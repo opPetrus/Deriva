@@ -1,0 +1,186 @@
+{
+  "id": "DER-MANIFEST",
+  "schema_version": "1.0.0",
+  "files": [
+    {
+      "path": "Aulas-completas.md",
+      "bytes": 64396,
+      "sha256": "e3b537de4f97ac88b51606fbbce2b12ed2d7a0fb9cb0d8701ae7334db45e7211"
+    },
+    {
+      "path": "aulas.json",
+      "bytes": 99949,
+      "sha256": "ab785f3ff9557c0749994c44dd4653b6c336d623759cd500c7147a65d4ad5a18"
+    },
+    {
+      "path": "avaliacoes.json",
+      "bytes": 2660,
+      "sha256": "25db26ca262de4d48610b3738333a6d58d86fe96a9d0f3bea98a9256e2da3629"
+    },
+    {
+      "path": "Avaliacoes.md",
+      "bytes": 3055,
+      "sha256": "85b81599dde1191cae67e809b7ff08953722eda84217d59feca6a174f6209aa3"
+    },
+    {
+      "path": "cobertura-exercicios.json",
+      "bytes": 81031,
+      "sha256": "e05566ded7b37a92117b1fa1d02e5acd26c9816b16ea660da4c8029d624b95c3"
+    },
+    {
+      "path": "cobertura-topicos.json",
+      "bytes": 34515,
+      "sha256": "b30641ffdacf7d05aa84946dd78119a099adefa03dd3786ecfbbcc5555e1f0cb"
+    },
+    {
+      "path": "curso.json",
+      "bytes": 2177,
+      "sha256": "ab82fd8216597032126f033822fb370cb598100207d9965cb23e7fbb45d4b929"
+    },
+    {
+      "path": "Dicas.md",
+      "bytes": 17893,
+      "sha256": "8ec3efaf4e20e04641301fac0b337f8e7c5d43d38a5fbf369468812e78427297"
+    },
+    {
+      "path": "esquema.json",
+      "bytes": 10794,
+      "sha256": "50094277cabc0d3621aadbcc1622347413f54dde537a7caed48ff3bc1b23403a"
+    },
+    {
+      "path": "exercicios.json",
+      "bytes": 156369,
+      "sha256": "ac727898f378e409681ca48a63acd8022226d2c0b1b50857bffbd5464d9ce9e5"
+    },
+    {
+      "path": "Exercicios.md",
+      "bytes": 22440,
+      "sha256": "9d2d490527ff9f328a5dd69c689f5a46bc7f6156d61f269218f35e1c5223cabd"
+    },
+    {
+      "path": "fontes.json",
+      "bytes": 1028,
+      "sha256": "ae2630761fc9e6c069f81d1067fef490518b66889fb9cabbce1cec7590680eff"
+    },
+    {
+      "path": "Gabaritos-e-solucoes.md",
+      "bytes": 62881,
+      "sha256": "ab95d6a512ad4f3d27dc92c3bd497720bb95bca44e684b6769f4e65a2128d4f2"
+    },
+    {
+      "path": "graficos/DER-L3-016.png",
+      "bytes": 26066,
+      "sha256": "3738eecd8db623a681953a8cec5a546f345e85d9f252c0f9cf5d08873c8bb2ba"
+    },
+    {
+      "path": "graficos/DER-L3-037-graus.png",
+      "bytes": 27667,
+      "sha256": "8c9ba707c7a9671f1b40faac80dde7f252132d67210be185ff7548f3805c2f43"
+    },
+    {
+      "path": "graficos/DER-L3-037-radianos.png",
+      "bytes": 24234,
+      "sha256": "e4844f960051393483c47fa8477a627a80591e0522ec49cf97c58445c5e95dfd"
+    },
+    {
+      "path": "graficos/DER-L3-081.png",
+      "bytes": 22949,
+      "sha256": "dfedf07551c2e98831e45f4ebdc364d06501c5aa280796a48e1435a949ed655e"
+    },
+    {
+      "path": "graficos/DER-L3-082.png",
+      "bytes": 21514,
+      "sha256": "a4e3b2e220b594a823f57aa6fe1e50533a0d06fb27874940f74d0000b0c3bbf4"
+    },
+    {
+      "path": "graficos/DER-L3-083.png",
+      "bytes": 23959,
+      "sha256": "d824e36d3966b672a0e93efcab13f403e23924bfc9f3fcbe395b00a9c4e28caf"
+    },
+    {
+      "path": "graficos/DER-L3-084.png",
+      "bytes": 23482,
+      "sha256": "0920d55652e36f0e0c86569a9deb041f82034cda1da32f9ebc58048914750bdc"
+    },
+    {
+      "path": "graficos/DER-L3-085.png",
+      "bytes": 21971,
+      "sha256": "425f1793faf2acffcb0cc97a97ac96b99db465217915cae9544cf18eed27b6ea"
+    },
+    {
+      "path": "graficos/DER-L3-086.png",
+      "bytes": 26110,
+      "sha256": "0862828187c5d8de6981b3deb8db41af39997e9ceb1540287220a6c3fa2e2cec"
+    },
+    {
+      "path": "LEIA-ME.md",
+      "bytes": 4091,
+      "sha256": "02f72fb4232a0515b9455c3e9c985a6c5c5751772e5b92f3726d0739ca3619df"
+    },
+    {
+      "path": "Matriz-de-cobertura.md",
+      "bytes": 9596,
+      "sha256": "53eee2b970842eec9c12e1ebca7cb204adb5eeef1f1ecd0fed8e99d9c5f69cb1"
+    },
+    {
+      "path": "metricas.json",
+      "bytes": 921,
+      "sha256": "eb413a57ec4211e4d709fa40b7ef84e34f8c388f8add1c8c7321b33c05ba7a5b"
+    },
+    {
+      "path": "modulos.json",
+      "bytes": 3128,
+      "sha256": "531bba09ffdf18cc2c9f740b95e799a17790396e24db9dc2f8696874267ed12b"
+    },
+    {
+      "path": "notas-de-referencia.json",
+      "bytes": 3327,
+      "sha256": "7bc7466e6501f6d5fa9bf290cd9ab02c21f4334fc6374acff8e60fb908cb1fc1"
+    },
+    {
+      "path": "notas-editoriais.json",
+      "bytes": 1352,
+      "sha256": "72df7b4f7f58cfecfd668eae55db8c1c0c1b45d1a0bd4ad1c6e2b13b5e6dd8b9"
+    },
+    {
+      "path": "pre-requisitos.json",
+      "bytes": 9512,
+      "sha256": "61a66a8e49fd09996cff0f9c9999a5181d5debcc5fc277b7e3c9f01de9f43902"
+    },
+    {
+      "path": "Referencias-e-pre-requisitos.md",
+      "bytes": 6290,
+      "sha256": "c71ce6a9bf5652388b4c78ea4c36a971eba8693c16f7881bef0953128dc80b5a"
+    },
+    {
+      "path": "Relatorio-de-verificacao.md",
+      "bytes": 3897,
+      "sha256": "22917eaf459427ba51f63d487c4dd545f326dc0f52c06e89d2e9247f511d0216"
+    },
+    {
+      "path": "revisoes.json",
+      "bytes": 4306,
+      "sha256": "3f9a59b5f2d84e53ed428f366b5cdffa1241973df2bd087a3e03811aa43d3479"
+    },
+    {
+      "path": "solucoes.json",
+      "bytes": 197889,
+      "sha256": "663a0bcdc1bb4d79f3de79b869ae5bb2a7ae364591c831207d48cd40491482b1"
+    },
+    {
+      "path": "validar_pacote.py",
+      "bytes": 6856,
+      "sha256": "34fd1653752edc56191790e2977a5b3e8649deeaec1278abea96d33d97fe718d"
+    },
+    {
+      "path": "verificacao/checagem_simbolica.py",
+      "bytes": 9795,
+      "sha256": "05ecc0361962672c99d6d2d339f3e7c4800de7e76c7e5650c6fda2a280f00463"
+    },
+    {
+      "path": "verificacao-matematica.json",
+      "bytes": 150931,
+      "sha256": "bc50aab3a168714e9d6af5cddd551e4fab33f97d0cb2ee6cd3d298e85c8af1d1"
+    }
+  ]
+}

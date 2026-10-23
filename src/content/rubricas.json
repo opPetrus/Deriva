@@ -1,0 +1,1922 @@
+{
+  "DER-L3-001": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-002": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-003": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-004": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-005": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-006": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-007": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-008": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-009": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-010": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-011": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-012": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-013": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-014": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-015": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-016": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-017": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-018": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-019": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-020": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-021": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-022": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-023": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-024": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-025": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-026": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-027": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-028": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-029": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-030": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-031": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-032": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-033": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-034": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-035": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-036": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-037": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-038": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-039": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-040": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-041": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-042": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-043": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-044": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-045": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-046": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-047": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-048": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-049": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-050": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-051": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-052": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-053": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-054": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-055": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-056": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-057": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-058": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-059": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-060": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-061": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-062": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-063": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-064": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-065": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-066": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-067": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-068": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-069": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-070": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-071": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-072": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-073": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-074": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-075": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-076": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-077": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-078": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-079": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-080": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-081": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-082": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-083": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-084": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-085": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-086": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-087": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-088": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-089": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-090": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-091": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-092": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-093": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-094": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-095": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-096": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-097": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-098": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-099": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-100": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-101": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-102": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-103": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-104": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-L3-105": [
+    {
+      "criterion": "Escolha e aplicação justificada do método",
+      "weight": 0.35
+    },
+    {
+      "criterion": "Desenvolvimento matemático correto",
+      "weight": 0.4
+    },
+    {
+      "criterion": "Conclusão completa, domínio e casos pertinentes",
+      "weight": 0.25
+    }
+  ],
+  "DER-DIAG-D01": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D02": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D03": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D04": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D05": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D06": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D07": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-DIAG-D08": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M1-B": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M1-I": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M1-A": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M1-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M2-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M3-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M4-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M5-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M6-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M7-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M8-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M9-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M10-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M11-C": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-SIM-A-Q01": [
+    {
+      "criterion": "Primeiro pedido, com justificativa",
+      "weight": 0.6
+    },
+    {
+      "criterion": "Pedido adicional e condições",
+      "weight": 0.4
+    }
+  ],
+  "DER-SIM-A-Q02": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-SIM-A-Q03": [
+    {
+      "criterion": "Primeiro pedido, com justificativa",
+      "weight": 0.6
+    },
+    {
+      "criterion": "Pedido adicional e condições",
+      "weight": 0.4
+    }
+  ],
+  "DER-SIM-A-Q04": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-SIM-B-Q01": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-SIM-B-Q02": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-SIM-B-Q03": [
+    {
+      "criterion": "Primeiro pedido, com justificativa",
+      "weight": 0.6
+    },
+    {
+      "criterion": "Pedido adicional e condições",
+      "weight": 0.4
+    }
+  ],
+  "DER-SIM-B-Q04": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M4-B": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M6-B": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ],
+  "DER-AUT-M10-B": [
+    {
+      "criterion": "Método e hipóteses",
+      "weight": 0.3
+    },
+    {
+      "criterion": "Cálculo ou argumento",
+      "weight": 0.5
+    },
+    {
+      "criterion": "Conclusão e condições",
+      "weight": 0.2
+    }
+  ]
+}

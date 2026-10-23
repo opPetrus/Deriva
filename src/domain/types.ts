@@ -1,0 +1,17 @@
+export interface SourceReference {source_id:string;pdf_pages?:number[];printed_pages?:number[];section?:string;exercise_number?:number;relation?:string}
+export interface Example {id:string;statement_md:string;steps_md:string[];answer_md:string}
+export interface Lesson {id:string;module_id:string;title:string;objectives:string[];intuition_md:string;theory_md:string;formulas_conditions:string[];worked_examples:Example[];common_errors:string[];practice_ids:string[];mastery_criterion_md:string;prerequisite_lesson_ids:string[];sources:SourceReference[];estimated_theory_minutes:number}
+export interface Module {id:string;title:string;lesson_ids:string[];theory_minutes:number;practice_minutes:number;challenge_ids:string[]}
+export interface Exercise {id:string;origin:'pdf'|'authored_variant';lesson_ids:string[];module_id:string;statement_md:string;subparts:{id:string;label:string}[];hints:{id:string;text_md:string}[];solution_id:string;sources:SourceReference[];difficulty:'B'|'I'|'A';role:string;recommended_final_attempt_after_module?:string}
+export interface Solution {id:string;exercise_id:string;answer_md:string;steps_md:string[];conditions_md:string;rubric:{criterion:string;weight:number}[];subpart_answers:{subpart_id:string;answer_md:string}[];assets?:{path:string;alt:string}[]}
+export interface Assessment {id:string;kind:'diagnostic'|'exam';title:string;duration_minutes:number;correction_minutes?:number;exercise_ids:string[];points:Record<string,number>;instructions_md:string}
+export interface ReferenceNote {id:string;title:string;text_md?:string;explanation_md?:string;worked_example_md?:string;lesson_ids:string[]}
+export type Category='conceito'|'técnica'|'álgebra'|'domínio'|'modelagem'|'atenção';
+export type CorrectionOrigin='self'|'external';
+export interface Correction {score:number;origin:CorrectionOrigin;rubricScores:number[];notes:string;categories:Category[];gradedAt:string}
+export interface Attempt {id:string;exerciseId:string;response:string;createdAt:string;assisted:boolean;hintCount:number;solutionViewed:boolean;kind:'practice'|'assessment';examRunId?:string;correction?:Correction}
+export interface ErrorEntry {id:string;attemptId:string;exerciseId:string;categories:Category[];notes:string;createdAt:string;resolvedBy?:string;resolvedAt?:string}
+export interface ReviewTask {exerciseId:string;dueAt:string;stage:number;lastAttemptId:string}
+export interface ExamRun {id:string;assessmentId:string;startedAt:string;deadlineAt:string;status:'running'|'submitted';responses:Record<string,string>;submittedAt?:string;attemptIds:string[];timedOut?:boolean}
+export interface Progress {schemaVersion:1;contentVersion:'1.0.0';revision:number;completedLessons:string[];drafts:Record<string,string>;assistance:Record<string,{hintCount:number;solutionViewed:boolean}>;attempts:Attempt[];errors:ErrorEntry[];reviews:Record<string,ReviewTask>;examRuns:ExamRun[];studySeconds:number;theme:'light'|'dark';lastLessonId?:string}
+export type Action={type:'lesson';id:string;completed:boolean}|{type:'lastLesson';id:string}|{type:'draft';id:string;response:string}|{type:'help';id:string;hintCount?:number;solution?:boolean}|{type:'attempt';attempt:Attempt}|{type:'grade';attemptId:string;correction:Correction}|{type:'startExam';run:ExamRun}|{type:'examAnswer';runId:string;exerciseId:string;response:string}|{type:'finishExam';runId:string;now:string}|{type:'study';seconds:number}|{type:'theme';theme:'light'|'dark'};

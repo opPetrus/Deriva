@@ -1,0 +1,106 @@
+{
+  "id": "DER-REVIEW-POLICY",
+  "error_categories": [
+    "conceito",
+    "técnica",
+    "álgebra",
+    "domínio",
+    "modelagem",
+    "atenção"
+  ],
+  "priority_order": [
+    "erro conceitual recorrente",
+    "pré-requisito frágil",
+    "revisão vencida",
+    "assunto sem tentativa"
+  ],
+  "suggested_delays_days": [
+    1,
+    3,
+    7
+  ],
+  "compressed_schedule_md": "Se o prazo da prova for curto, use a sessão seguinte em vez de aguardar dias. As seis revisões de5min são seleções de um item, com alternativas. Depois de simulado, priorize erros da rubrica antes de acrescentar exercícios novos.",
+  "record_fields": [
+    "exercise_id",
+    "submitted_answer",
+    "assistance_used",
+    "error_category",
+    "correction_origin",
+    "rubric_score",
+    "next_review"
+  ],
+  "activities": [
+    {
+      "id": "DER-REV-01",
+      "title": "Regras e conceito",
+      "exercise_ids": [
+        "DER-L3-007",
+        "DER-L3-024",
+        "DER-AUT-M1-I"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    },
+    {
+      "id": "DER-REV-02",
+      "title": "Cadeia e generalizações",
+      "exercise_ids": [
+        "DER-L3-032",
+        "DER-L3-038",
+        "DER-L3-041"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    },
+    {
+      "id": "DER-REV-03",
+      "title": "TVM e gráficos",
+      "exercise_ids": [
+        "DER-L3-058",
+        "DER-L3-055",
+        "DER-L3-079"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    },
+    {
+      "id": "DER-REV-04",
+      "title": "Modelagem",
+      "exercise_ids": [
+        "DER-L3-074",
+        "DER-L3-077",
+        "DER-AUT-M8-C"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    },
+    {
+      "id": "DER-REV-05",
+      "title": "Aproximações",
+      "exercise_ids": [
+        "DER-L3-090",
+        "DER-L3-098",
+        "DER-L3-099"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    },
+    {
+      "id": "DER-REV-06",
+      "title": "Mistura final",
+      "exercise_ids": [
+        "DER-L3-042",
+        "DER-L3-047",
+        "DER-L3-102"
+      ],
+      "mode": "active_recall",
+      "instructions_md": "Antes de abrir soluções, escreva de memória as hipóteses ou o plano de resolução. Em cada revisão escolha 1 questão, priorizando erro recente; as demais são alternativas, não uma obrigação dentro dos 30 minutos. Registre conceito/técnica/álgebra/domínio/modelagem como categoria do erro.",
+      "suggested_minutes": 5
+    }
+  ]
+}

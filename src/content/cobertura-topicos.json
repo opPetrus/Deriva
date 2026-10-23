@@ -1,0 +1,1735 @@
+[
+  {
+    "id": "DER-COV-M1.1",
+    "lesson_id": "M1.1",
+    "title": "Derivada: taxa instantânea e tangente",
+    "objectives": [
+      "Calcular uma derivada pela definição",
+      "Interpretar inclinação e unidades"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M1.1-EX01",
+      "M1.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-AUT-M1-B",
+      "DER-AUT-M1-I"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M1.2",
+    "lesson_id": "M1.2",
+    "title": "Continuidade e derivadas laterais",
+    "objectives": [
+      "Distinguir continuidade e derivabilidade",
+      "Testar uma junção por partes"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M1.2-EX01",
+      "M1.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-039",
+      "DER-L3-057",
+      "DER-AUT-M1-I"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01",
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M1.3",
+    "lesson_id": "M1.3",
+    "title": "Cantos, oscilação e tangente vertical",
+    "objectives": [
+      "Reconhecer por que uma derivada falha",
+      "Distinguir tangente vertical de derivada finita"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M1.3-EX01",
+      "M1.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-AUT-M1-A",
+      "DER-AUT-M1-C"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M2.1",
+    "lesson_id": "M2.1",
+    "title": "Potências, soma, produto e quociente",
+    "objectives": [
+      "Escolher a regra externa correta",
+      "Preservar domínio ao simplificar"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3;3.5–3.6",
+        "printed_pages": [
+          97,
+          98,
+          99,
+          100,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          99,
+          100,
+          101,
+          102,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M2.1-EX01",
+      "M2.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-001",
+      "DER-L3-002",
+      "DER-L3-003",
+      "DER-L3-006"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M2.2",
+    "lesson_id": "M2.2",
+    "title": "Derivadas trigonométricas e domínio",
+    "objectives": [
+      "Usar as seis fórmulas em radianos",
+      "Combinar trigonometria com produto/quociente"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3;3.5–3.6",
+        "printed_pages": [
+          97,
+          98,
+          99,
+          100,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          99,
+          100,
+          101,
+          102,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M2.2-EX01",
+      "M2.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-002",
+      "DER-L3-004",
+      "DER-L3-005",
+      "DER-L3-008"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M2.3",
+    "lesson_id": "M2.3",
+    "title": "Cadeia: uma camada de cada vez",
+    "objectives": [
+      "Decompor expressões aninhadas",
+      "Aplicar fatores internos sem expandir desnecessariamente"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3;3.5–3.6",
+        "printed_pages": [
+          97,
+          98,
+          99,
+          100,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          99,
+          100,
+          101,
+          102,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M2.3-EX01",
+      "M2.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-026",
+      "DER-L3-027",
+      "DER-L3-028",
+      "DER-L3-029",
+      "DER-L3-031"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M2.4",
+    "lesson_id": "M2.4",
+    "title": "Função inversa e inversas trigonométricas",
+    "objectives": [
+      "Distinguir função inversa e recíproco",
+      "Derivar inversas com os ramos e domínios corretos"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3;3.5–3.6",
+        "printed_pages": [
+          97,
+          98,
+          99,
+          100,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          99,
+          100,
+          101,
+          102,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M2.4-EX01",
+      "M2.4-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-007",
+      "DER-L3-009",
+      "DER-L3-010",
+      "DER-L3-030"
+    ],
+    "assessment_ids": [
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M3.1",
+    "lesson_id": "M3.1",
+    "title": "Tangente, normal, paralelismo e ângulo",
+    "objectives": [
+      "Traduzir geometria em condições sobre f′",
+      "Construir a equação completa de uma reta"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M3.1-EX01",
+      "M3.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-011",
+      "DER-L3-012",
+      "DER-L3-013",
+      "DER-L3-014",
+      "DER-L3-015",
+      "DER-L3-016"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M3.2",
+    "lesson_id": "M3.2",
+    "title": "Tangência com contato desconhecido",
+    "objectives": [
+      "Impor passagem por ponto externo",
+      "Excluir e comparar todas as soluções admissíveis"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M3.2-EX01",
+      "M3.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-018",
+      "DER-L3-019",
+      "DER-L3-020",
+      "DER-L3-021",
+      "DER-L3-022",
+      "DER-L3-033"
+    ],
+    "assessment_ids": [
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M3.3",
+    "lesson_id": "M3.3",
+    "title": "Cadeia abstrata, simetria e periodicidade",
+    "objectives": [
+      "Trabalhar com dados f(a),f′(a) sem fórmula de f",
+      "Escrever provas curtas a partir de identidades"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M3.3-EX01",
+      "M3.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-017",
+      "DER-L3-024",
+      "DER-L3-032",
+      "DER-L3-034",
+      "DER-L3-060"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M3.4",
+    "lesson_id": "M3.4",
+    "title": "Radianos, contraexemplos e condições globais",
+    "objectives": [
+      "Converter graus na derivação",
+      "Testar recíprocas e condições em toda a reta"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "printed_pages": [
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "pdf_pages": [
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M3.4-EX01",
+      "M3.4-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-037",
+      "DER-L3-039",
+      "DER-L3-042"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M4.1",
+    "lesson_id": "M4.1",
+    "title": "Derivadas de ordem superior e fórmulas gerais",
+    "objectives": [
+      "Calcular derivadas sucessivas",
+      "Conjecturar e provar padrões para n"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.7",
+        "printed_pages": [
+          109,
+          110,
+          111
+        ],
+        "pdf_pages": [
+          111,
+          112,
+          113
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M4.1-EX01",
+      "M4.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-035",
+      "DER-L3-036",
+      "DER-L3-040",
+      "DER-AUT-M4-B"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M4.2",
+    "lesson_id": "M4.2",
+    "title": "Regularidade Cⁿ e indução",
+    "objectives": [
+      "Distinguir derivabilidade de continuidade da derivada",
+      "Provar estabilidade por produto e composição"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.7",
+        "printed_pages": [
+          109,
+          110,
+          111
+        ],
+        "pdf_pages": [
+          111,
+          112,
+          113
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M4.2-EX01",
+      "M4.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-038",
+      "DER-AUT-M4-C"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M4.3",
+    "lesson_id": "M4.3",
+    "title": "Segunda cadeia e recorrência para arcsen",
+    "objectives": [
+      "Derivar produtos gerados pela primeira cadeia",
+      "Obter todas as derivadas no ponto sem séries"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.7",
+        "printed_pages": [
+          109,
+          110,
+          111
+        ],
+        "pdf_pages": [
+          111,
+          112,
+          113
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M4.3-EX01",
+      "M4.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-040",
+      "DER-L3-041"
+    ],
+    "assessment_ids": [
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M5.1",
+    "lesson_id": "M5.1",
+    "title": "Movimento, velocidade e aceleração",
+    "objectives": [
+      "Interpretar sinal da velocidade",
+      "Separar posição, velocidade e aceleração"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.4;3.8",
+        "printed_pages": [
+          100,
+          101,
+          102,
+          111,
+          112
+        ],
+        "pdf_pages": [
+          102,
+          103,
+          104,
+          113,
+          114
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M5.1-EX01",
+      "M5.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-023"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M5.2",
+    "lesson_id": "M5.2",
+    "title": "Derivação implícita e ramos",
+    "objectives": [
+      "Derivar relações sem explicitar y",
+      "Identificar divisões válidas e pontos inconclusivos"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.4;3.8",
+        "printed_pages": [
+          100,
+          101,
+          102,
+          111,
+          112
+        ],
+        "pdf_pages": [
+          102,
+          103,
+          104,
+          113,
+          114
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M5.2-EX01",
+      "M5.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-043",
+      "DER-L3-044",
+      "DER-L3-045",
+      "DER-L3-046",
+      "DER-L3-047",
+      "DER-L3-048"
+    ],
+    "assessment_ids": [
+      "DER-SIM-B"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M5.3",
+    "lesson_id": "M5.3",
+    "title": "Taxas relacionadas",
+    "objectives": [
+      "Modelar relações geométricas variáveis",
+      "Derivar antes de substituir dados instantâneos"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.4;3.8",
+        "printed_pages": [
+          100,
+          101,
+          102,
+          111,
+          112
+        ],
+        "pdf_pages": [
+          102,
+          103,
+          104,
+          113,
+          114
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M5.3-EX01",
+      "M5.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-025",
+      "DER-AUT-M5-C"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M6.1",
+    "lesson_id": "M6.1",
+    "title": "Fermat, Rolle e Valor Médio",
+    "objectives": [
+      "Verificar hipóteses antes de aplicar teoremas",
+      "Distinguir existência e unicidade"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M6.1-EX01",
+      "M6.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-061",
+      "DER-L3-062",
+      "DER-AUT-M6-B"
+    ],
+    "assessment_ids": [
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M6.2",
+    "lesson_id": "M6.2",
+    "title": "Cotas para derivadas e crescimento",
+    "objectives": [
+      "Usar TVM para construir desigualdades",
+      "Entender os usos pontuais do infinito na lista"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M6.2-EX01",
+      "M6.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-058",
+      "DER-L3-065"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M6.3",
+    "lesson_id": "M6.3",
+    "title": "Como escrever prova ou contraexemplo",
+    "objectives": [
+      "Escolher a estratégia compatível com o enunciado",
+      "Verificar domínio global e conclusão"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M6.3-EX01",
+      "M6.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-059",
+      "DER-L3-060",
+      "DER-L3-079",
+      "DER-L3-080"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M7.1",
+    "lesson_id": "M7.1",
+    "title": "Extremos locais, globais e bordas",
+    "objectives": [
+      "Listar todos os candidatos",
+      "Classificar por sinais sem depender só de f″"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9;3.11–3.12.1",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M7.1-EX01",
+      "M7.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-049",
+      "DER-L3-057"
+    ],
+    "assessment_ids": [
+      "DER-DIAG-01"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M7.2",
+    "lesson_id": "M7.2",
+    "title": "Convexidade, concavidade e inflexão",
+    "objectives": [
+      "Relacionar forma do gráfico a f′ e f″",
+      "Evitar falsos pontos de inflexão"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9;3.11–3.12.1",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M7.2-EX01",
+      "M7.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-050",
+      "DER-L3-051",
+      "DER-L3-052",
+      "DER-L3-053",
+      "DER-L3-054",
+      "DER-L3-055",
+      "DER-L3-056",
+      "DER-L3-063",
+      "DER-L3-064",
+      "DER-L3-072"
+    ],
+    "assessment_ids": [
+      "DER-SIM-A"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M7.3",
+    "lesson_id": "M7.3",
+    "title": "Esboço completo por derivadas",
+    "objectives": [
+      "Combinar domínio, sinais, extremos e fronteiras",
+      "Desenhar ramos compatíveis com as conclusões"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9;3.11–3.12.1",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M7.3-EX01"
+    ],
+    "practice_ids": [
+      "DER-L3-081",
+      "DER-L3-082",
+      "DER-L3-083",
+      "DER-L3-084",
+      "DER-L3-085",
+      "DER-L3-086"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M7.4",
+    "lesson_id": "M7.4",
+    "title": "Raízes, convexidade estrita e unicidade",
+    "objectives": [
+      "Contar raízes sem resolver uma cúbica geral",
+      "Provar existência e unicidade de mínimo"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9;3.11–3.12.1",
+        "printed_pages": [
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142
+        ],
+        "pdf_pages": [
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M7.4-EX01",
+      "M7.4-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-065",
+      "DER-L3-071",
+      "DER-L3-079",
+      "DER-L3-080"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M8.1",
+    "lesson_id": "M8.1",
+    "title": "Otimização: objetivo, restrição e domínio",
+    "objectives": [
+      "Transformar pedido verbal numa função",
+      "Provar que um candidato é ótimo global"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.12",
+        "printed_pages": [
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139
+        ],
+        "pdf_pages": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M8.1-EX01",
+      "M8.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-066",
+      "DER-L3-067",
+      "DER-L3-069"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M8.2",
+    "lesson_id": "M8.2",
+    "title": "Áreas, volumes e custos ponderados",
+    "objectives": [
+      "Construir modelos geométricos da lista",
+      "Distinguir área geométrica e objetivo ponderado"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.12",
+        "printed_pages": [
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139
+        ],
+        "pdf_pages": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M8.2-EX01",
+      "M8.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-068",
+      "DER-L3-070",
+      "DER-L3-073",
+      "DER-L3-074",
+      "DER-L3-075"
+    ],
+    "assessment_ids": [
+      "DER-SIM-B"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M8.3",
+    "lesson_id": "M8.3",
+    "title": "Distância, tempo e iluminação",
+    "objectives": [
+      "Escolher transformações que preservam o mínimo",
+      "Comparar pontos críticos e trajetórias de borda"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.12",
+        "printed_pages": [
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139
+        ],
+        "pdf_pages": [
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M8.3-EX01",
+      "M8.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-069",
+      "DER-L3-076",
+      "DER-L3-077",
+      "DER-L3-078"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M9.1",
+    "lesson_id": "M9.1",
+    "title": "Diferencial e aproximação linear",
+    "objectives": [
+      "Separar valor, variação exata e variação aproximada",
+      "Usar a derivada no ponto inicial"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.1",
+        "printed_pages": [
+          143,
+          144,
+          145,
+          146,
+          147
+        ],
+        "pdf_pages": [
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M9.1-EX01",
+      "M9.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-087",
+      "DER-L3-088",
+      "DER-L3-092"
+    ],
+    "assessment_ids": [
+      "DER-SIM-B"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M9.2",
+    "lesson_id": "M9.2",
+    "title": "Medidas, unidades e erros",
+    "objectives": [
+      "Converter corretamente raio e diâmetro",
+      "Estimar mudanças de área com diferencial"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.1",
+        "printed_pages": [
+          143,
+          144,
+          145,
+          146,
+          147
+        ],
+        "pdf_pages": [
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M9.2-EX01",
+      "M9.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-089",
+      "DER-L3-090",
+      "DER-L3-091"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M10.1",
+    "lesson_id": "M10.1",
+    "title": "Taylor finito em torno de um centro",
+    "objectives": [
+      "Construir coeficientes pelo fatorial",
+      "Distinguir ordem e grau efetivo"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "printed_pages": [
+          147,
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "pdf_pages": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M10.1-EX01",
+      "M10.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-093",
+      "DER-L3-094",
+      "DER-L3-095",
+      "DER-L3-096",
+      "DER-AUT-M10-B"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M10.2",
+    "lesson_id": "M10.2",
+    "title": "Aproximações com Taylor e deslocamentos",
+    "objectives": [
+      "Aplicar o polinômio na entrada correta",
+      "Converter graus e organizar derivadas até ordem4"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "printed_pages": [
+          147,
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "pdf_pages": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M10.2-EX01",
+      "M10.2-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-094",
+      "DER-L3-095",
+      "DER-L3-096",
+      "DER-L3-097",
+      "DER-L3-098"
+    ],
+    "assessment_ids": [],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M10.3",
+    "lesson_id": "M10.3",
+    "title": "Resto de Lagrange e erro absoluto",
+    "objectives": [
+      "Obter uma cota válida num intervalo",
+      "Escolher a ordem que aproveita termos nulos"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "printed_pages": [
+          147,
+          148,
+          149,
+          150,
+          151,
+          152
+        ],
+        "pdf_pages": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M10.3-EX01",
+      "M10.3-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-099",
+      "DER-AUT-M10-C"
+    ],
+    "assessment_ids": [
+      "DER-SIM-B"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  },
+  {
+    "id": "DER-COV-M11.1",
+    "lesson_id": "M11.1",
+    "title": "L’Hôpital nos exercícios exigidos",
+    "objectives": [
+      "Reconhecer formas autorizadas e transformar outras",
+      "Justificar reaplicações e parâmetros"
+    ],
+    "source_references": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.10",
+        "printed_pages": [
+          121,
+          122,
+          123
+        ],
+        "pdf_pages": [
+          123,
+          124,
+          125
+        ]
+      }
+    ],
+    "worked_example_ids": [
+      "M11.1-EX01",
+      "M11.1-EX02"
+    ],
+    "practice_ids": [
+      "DER-L3-100",
+      "DER-L3-101",
+      "DER-L3-102",
+      "DER-L3-103",
+      "DER-L3-104",
+      "DER-L3-105"
+    ],
+    "assessment_ids": [
+      "DER-SIM-B"
+    ],
+    "coverage_status": "authored_and_reviewed"
+  }
+]

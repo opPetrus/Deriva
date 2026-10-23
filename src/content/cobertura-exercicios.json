@@ -1,0 +1,3779 @@
+[
+  {
+    "id": "DER-COV-L3-001",
+    "exercise_id": "DER-L3-001",
+    "source_exercise_number": 1,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 1
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 1
+      }
+    ],
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-ALG"
+    ],
+    "solution_id": "DER-L3-001-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-002",
+    "exercise_id": "DER-L3-002",
+    "source_exercise_number": 2,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 2
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 2
+      }
+    ],
+    "lesson_ids": [
+      "M2.2",
+      "M2.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-002-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-003",
+    "exercise_id": "DER-L3-003",
+    "source_exercise_number": 3,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 3
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 3
+      }
+    ],
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-ALG"
+    ],
+    "solution_id": "DER-L3-003-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-004",
+    "exercise_id": "DER-L3-004",
+    "source_exercise_number": 4,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 4
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 4
+      }
+    ],
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-004-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-005",
+    "exercise_id": "DER-L3-005",
+    "source_exercise_number": 5,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 5
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 5
+      }
+    ],
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-005-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-006",
+    "exercise_id": "DER-L3-006",
+    "source_exercise_number": 6,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 6
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 6
+      }
+    ],
+    "lesson_ids": [
+      "M2.3",
+      "M2.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-POW"
+    ],
+    "solution_id": "DER-L3-006-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-007",
+    "exercise_id": "DER-L3-007",
+    "source_exercise_number": 7,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 7
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 7
+      }
+    ],
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-DOM"
+    ],
+    "solution_id": "DER-L3-007-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-008",
+    "exercise_id": "DER-L3-008",
+    "source_exercise_number": 8,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 8
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 8
+      }
+    ],
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-ALG"
+    ],
+    "solution_id": "DER-L3-008-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-009",
+    "exercise_id": "DER-L3-009",
+    "source_exercise_number": 9,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 9
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 9
+      }
+    ],
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-DOM"
+    ],
+    "solution_id": "DER-L3-009-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-010",
+    "exercise_id": "DER-L3-010",
+    "source_exercise_number": 10,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 10
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 10
+      }
+    ],
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-010-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-011",
+    "exercise_id": "DER-L3-011",
+    "source_exercise_number": 11,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 11
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 11
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-LINE"
+    ],
+    "solution_id": "DER-L3-011-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-011-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-011-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-011-c",
+        "label": "c"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-012",
+    "exercise_id": "DER-L3-012",
+    "source_exercise_number": 12,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 12
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 12
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-SIGN",
+      "DER-PRE-LINE"
+    ],
+    "solution_id": "DER-L3-012-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-012-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-012-b",
+        "label": "b"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-013",
+    "exercise_id": "DER-L3-013",
+    "source_exercise_number": 13,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 13
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 13
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-TRIG"
+    ],
+    "solution_id": "DER-L3-013-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-014",
+    "exercise_id": "DER-L3-014",
+    "source_exercise_number": 14,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 14
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 14
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-TRIG"
+    ],
+    "solution_id": "DER-L3-014-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-015",
+    "exercise_id": "DER-L3-015",
+    "source_exercise_number": 15,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 15
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 15
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-LINE"
+    ],
+    "solution_id": "DER-L3-015-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-016",
+    "exercise_id": "DER-L3-016",
+    "source_exercise_number": 16,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 16
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 16
+      }
+    ],
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-016-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-017",
+    "exercise_id": "DER-L3-017",
+    "source_exercise_number": 17,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 17
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 17
+      }
+    ],
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-017-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-018",
+    "exercise_id": "DER-L3-018",
+    "source_exercise_number": 18,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 18
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 18
+      }
+    ],
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-018-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-019",
+    "exercise_id": "DER-L3-019",
+    "source_exercise_number": 19,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 19
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 19
+      }
+    ],
+    "lesson_ids": [
+      "M3.2",
+      "M7.4",
+      "M6.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-ALG"
+    ],
+    "solution_id": "DER-L3-019-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-020",
+    "exercise_id": "DER-L3-020",
+    "source_exercise_number": 20,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 20
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 20
+      }
+    ],
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-020-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-021",
+    "exercise_id": "DER-L3-021",
+    "source_exercise_number": 21,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 21
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 21
+      }
+    ],
+    "lesson_ids": [
+      "M3.2",
+      "M6.1",
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-021-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-022",
+    "exercise_id": "DER-L3-022",
+    "source_exercise_number": 22,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 22
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 22
+      }
+    ],
+    "lesson_ids": [
+      "M3.2",
+      "M6.1",
+      "M7.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-022-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-023",
+    "exercise_id": "DER-L3-023",
+    "source_exercise_number": 23,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 23
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 23
+      }
+    ],
+    "lesson_ids": [
+      "M5.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-SIGN"
+    ],
+    "solution_id": "DER-L3-023-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-023-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-023-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-023-velocidade_nula",
+        "label": "velocidade_nula"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-024",
+    "exercise_id": "DER-L3-024",
+    "source_exercise_number": 24,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 24
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 24
+      }
+    ],
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-024-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-025",
+    "exercise_id": "DER-L3-025",
+    "source_exercise_number": 25,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2,
+          3
+        ],
+        "exercise_number": 25
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 25
+      }
+    ],
+    "lesson_ids": [
+      "M5.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-025-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-026",
+    "exercise_id": "DER-L3-026",
+    "source_exercise_number": 26,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 26
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 26
+      }
+    ],
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-026-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-027",
+    "exercise_id": "DER-L3-027",
+    "source_exercise_number": 27,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 27
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 27
+      }
+    ],
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-027-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-028",
+    "exercise_id": "DER-L3-028",
+    "source_exercise_number": 28,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 28
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 28
+      }
+    ],
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-028-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-029",
+    "exercise_id": "DER-L3-029",
+    "source_exercise_number": 29,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 29
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 29
+      }
+    ],
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-POW"
+    ],
+    "solution_id": "DER-L3-029-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-030",
+    "exercise_id": "DER-L3-030",
+    "source_exercise_number": 30,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 30
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 30
+      }
+    ],
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-030-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-031",
+    "exercise_id": "DER-L3-031",
+    "source_exercise_number": 31,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 31
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 31
+      }
+    ],
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-DOM"
+    ],
+    "solution_id": "DER-L3-031-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-032",
+    "exercise_id": "DER-L3-032",
+    "source_exercise_number": 32,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 32
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 32
+      }
+    ],
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-IND"
+    ],
+    "solution_id": "DER-L3-032-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-033",
+    "exercise_id": "DER-L3-033",
+    "source_exercise_number": 33,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 33
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 33
+      }
+    ],
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-033-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-034",
+    "exercise_id": "DER-L3-034",
+    "source_exercise_number": 34,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 34
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 34
+      }
+    ],
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-034-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-035",
+    "exercise_id": "DER-L3-035",
+    "source_exercise_number": 35,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 35
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 35
+      }
+    ],
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-IND"
+    ],
+    "solution_id": "DER-L3-035-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-036",
+    "exercise_id": "DER-L3-036",
+    "source_exercise_number": 36,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 36
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 36
+      }
+    ],
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-POW",
+      "DER-PRE-IND"
+    ],
+    "solution_id": "DER-L3-036-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-037",
+    "exercise_id": "DER-L3-037",
+    "source_exercise_number": 37,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 37
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 37
+      }
+    ],
+    "lesson_ids": [
+      "M3.4"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-TRIG"
+    ],
+    "solution_id": "DER-L3-037-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-038",
+    "exercise_id": "DER-L3-038",
+    "source_exercise_number": 38,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 38
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 38
+      }
+    ],
+    "lesson_ids": [
+      "M4.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-IND"
+    ],
+    "solution_id": "DER-L3-038-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-039",
+    "exercise_id": "DER-L3-039",
+    "source_exercise_number": 39,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 39
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 39
+      }
+    ],
+    "lesson_ids": [
+      "M3.4",
+      "M1.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-039-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-039-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-039-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-039-c",
+        "label": "c"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-040",
+    "exercise_id": "DER-L3-040",
+    "source_exercise_number": 40,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 40
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 40
+      }
+    ],
+    "lesson_ids": [
+      "M4.3",
+      "M4.1",
+      "M2.4"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-IND"
+    ],
+    "solution_id": "DER-L3-040-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-041",
+    "exercise_id": "DER-L3-041",
+    "source_exercise_number": 41,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 41
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 41
+      }
+    ],
+    "lesson_ids": [
+      "M4.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-041-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-042",
+    "exercise_id": "DER-L3-042",
+    "source_exercise_number": 42,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 42
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 42
+      }
+    ],
+    "lesson_ids": [
+      "M3.4"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-DOM"
+    ],
+    "solution_id": "DER-L3-042-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-043",
+    "exercise_id": "DER-L3-043",
+    "source_exercise_number": 43,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 43
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 43
+      }
+    ],
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-043-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-044",
+    "exercise_id": "DER-L3-044",
+    "source_exercise_number": 44,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 44
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 44
+      }
+    ],
+    "lesson_ids": [
+      "M5.2",
+      "M1.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-044-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-045",
+    "exercise_id": "DER-L3-045",
+    "source_exercise_number": 45,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 45
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 45
+      }
+    ],
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-045-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-046",
+    "exercise_id": "DER-L3-046",
+    "source_exercise_number": 46,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 46
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 46
+      }
+    ],
+    "lesson_ids": [
+      "M5.2",
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-046-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-047",
+    "exercise_id": "DER-L3-047",
+    "source_exercise_number": 47,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 47
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 47
+      }
+    ],
+    "lesson_ids": [
+      "M5.2",
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-047-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-048",
+    "exercise_id": "DER-L3-048",
+    "source_exercise_number": 48,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 48
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 48
+      }
+    ],
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-048-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-049",
+    "exercise_id": "DER-L3-049",
+    "source_exercise_number": 49,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 49
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 49
+      }
+    ],
+    "lesson_ids": [
+      "M7.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-SIGN"
+    ],
+    "solution_id": "DER-L3-049-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-050",
+    "exercise_id": "DER-L3-050",
+    "source_exercise_number": 50,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 50
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 50
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-050-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-051",
+    "exercise_id": "DER-L3-051",
+    "source_exercise_number": 51,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 51
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 51
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-051-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-052",
+    "exercise_id": "DER-L3-052",
+    "source_exercise_number": 52,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 52
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 52
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-052-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-053",
+    "exercise_id": "DER-L3-053",
+    "source_exercise_number": 53,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 53
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 53
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-053-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-054",
+    "exercise_id": "DER-L3-054",
+    "source_exercise_number": 54,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 54
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 54
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-054-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-055",
+    "exercise_id": "DER-L3-055",
+    "source_exercise_number": 55,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 55
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 55
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-055-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-056",
+    "exercise_id": "DER-L3-056",
+    "source_exercise_number": 56,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 56
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 56
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-SIGN"
+    ],
+    "solution_id": "DER-L3-056-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-057",
+    "exercise_id": "DER-L3-057",
+    "source_exercise_number": 57,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 57
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 57
+      }
+    ],
+    "lesson_ids": [
+      "M7.1",
+      "M1.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-057-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-058",
+    "exercise_id": "DER-L3-058",
+    "source_exercise_number": 58,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 58
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 58
+      }
+    ],
+    "lesson_ids": [
+      "M6.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-CONT",
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-058-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-059",
+    "exercise_id": "DER-L3-059",
+    "source_exercise_number": 59,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 59
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 59
+      }
+    ],
+    "lesson_ids": [
+      "M6.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-059-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-060",
+    "exercise_id": "DER-L3-060",
+    "source_exercise_number": 60,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 60
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 60
+      }
+    ],
+    "lesson_ids": [
+      "M3.3",
+      "M6.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-060-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-061",
+    "exercise_id": "DER-L3-061",
+    "source_exercise_number": 61,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 61
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 61
+      }
+    ],
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-061-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-062",
+    "exercise_id": "DER-L3-062",
+    "source_exercise_number": 62,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 62
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 62
+      }
+    ],
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-CONT"
+    ],
+    "solution_id": "DER-L3-062-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-063",
+    "exercise_id": "DER-L3-063",
+    "source_exercise_number": 63,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 63
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 63
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-063-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-064",
+    "exercise_id": "DER-L3-064",
+    "source_exercise_number": 64,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 64
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 64
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-064-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-065",
+    "exercise_id": "DER-L3-065",
+    "source_exercise_number": 65,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 65
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 65
+      }
+    ],
+    "lesson_ids": [
+      "M7.4",
+      "M6.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-065-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-066",
+    "exercise_id": "DER-L3-066",
+    "source_exercise_number": 66,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 66
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 66
+      }
+    ],
+    "lesson_ids": [
+      "M8.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-066-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-067",
+    "exercise_id": "DER-L3-067",
+    "source_exercise_number": 67,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 67
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 67
+      }
+    ],
+    "lesson_ids": [
+      "M8.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-067-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-068",
+    "exercise_id": "DER-L3-068",
+    "source_exercise_number": 68,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 68
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 68
+      }
+    ],
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-068-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-069",
+    "exercise_id": "DER-L3-069",
+    "source_exercise_number": 69,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 69
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 69
+      }
+    ],
+    "lesson_ids": [
+      "M8.3",
+      "M8.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-LINE"
+    ],
+    "solution_id": "DER-L3-069-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-069-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-069-b",
+        "label": "b"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-070",
+    "exercise_id": "DER-L3-070",
+    "source_exercise_number": 70,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 70
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156,
+          157
+        ],
+        "pdf_pages": [
+          158,
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 70
+      }
+    ],
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-070-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-071",
+    "exercise_id": "DER-L3-071",
+    "source_exercise_number": 71,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 71
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 71
+      }
+    ],
+    "lesson_ids": [
+      "M7.4",
+      "M6.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-CONT"
+    ],
+    "solution_id": "DER-L3-071-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-071-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-071-b",
+        "label": "b"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-072",
+    "exercise_id": "DER-L3-072",
+    "source_exercise_number": 72,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 72
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 72
+      }
+    ],
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-072-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-073",
+    "exercise_id": "DER-L3-073",
+    "source_exercise_number": 73,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 73
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 73
+      }
+    ],
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-073-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-074",
+    "exercise_id": "DER-L3-074",
+    "source_exercise_number": 74,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "exercise_number": 74
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 74
+      }
+    ],
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-074-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-075",
+    "exercise_id": "DER-L3-075",
+    "source_exercise_number": 75,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 75
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 75
+      }
+    ],
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-075-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-076",
+    "exercise_id": "DER-L3-076",
+    "source_exercise_number": 76,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 76
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 76
+      }
+    ],
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-076-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-077",
+    "exercise_id": "DER-L3-077",
+    "source_exercise_number": 77,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 77
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 77
+      }
+    ],
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-077-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-078",
+    "exercise_id": "DER-L3-078",
+    "source_exercise_number": 78,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 78
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 78
+      }
+    ],
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-078-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-079",
+    "exercise_id": "DER-L3-079",
+    "source_exercise_number": 79,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 79
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 79
+      }
+    ],
+    "lesson_ids": [
+      "M7.4",
+      "M6.3",
+      "M6.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-CONT"
+    ],
+    "solution_id": "DER-L3-079-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-080",
+    "exercise_id": "DER-L3-080",
+    "source_exercise_number": 80,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 80
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 80
+      }
+    ],
+    "lesson_ids": [
+      "M7.4",
+      "M6.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-080-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-081",
+    "exercise_id": "DER-L3-081",
+    "source_exercise_number": 81,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 81
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 81
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-081-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-082",
+    "exercise_id": "DER-L3-082",
+    "source_exercise_number": 82,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 82
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 82
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-082-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-083",
+    "exercise_id": "DER-L3-083",
+    "source_exercise_number": 83,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 83
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 83
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-083-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-084",
+    "exercise_id": "DER-L3-084",
+    "source_exercise_number": 84,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 84
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 84
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-084-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-085",
+    "exercise_id": "DER-L3-085",
+    "source_exercise_number": 85,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 85
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 85
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-POW",
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-085-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-086",
+    "exercise_id": "DER-L3-086",
+    "source_exercise_number": 86,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 86
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 86
+      }
+    ],
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-TRIG"
+    ],
+    "solution_id": "DER-L3-086-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-087",
+    "exercise_id": "DER-L3-087",
+    "source_exercise_number": 87,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 87
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 87
+      }
+    ],
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-087-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-088",
+    "exercise_id": "DER-L3-088",
+    "source_exercise_number": 88,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 88
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 88
+      }
+    ],
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-088-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-089",
+    "exercise_id": "DER-L3-089",
+    "source_exercise_number": 89,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 89
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 89
+      }
+    ],
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-089-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-090",
+    "exercise_id": "DER-L3-090",
+    "source_exercise_number": 90,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 90
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 90
+      }
+    ],
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-GEO"
+    ],
+    "solution_id": "DER-L3-090-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-091",
+    "exercise_id": "DER-L3-091",
+    "source_exercise_number": 91,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 91
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 91
+      }
+    ],
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-091-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-092",
+    "exercise_id": "DER-L3-092",
+    "source_exercise_number": 92,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 92
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 92
+      }
+    ],
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-092-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-093",
+    "exercise_id": "DER-L3-093",
+    "source_exercise_number": 93,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 93
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 93
+      }
+    ],
+    "lesson_ids": [
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-093-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-094",
+    "exercise_id": "DER-L3-094",
+    "source_exercise_number": 94,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 94
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 94
+      }
+    ],
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-094-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-095",
+    "exercise_id": "DER-L3-095",
+    "source_exercise_number": 95,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 95
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 95
+      }
+    ],
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-095-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-096",
+    "exercise_id": "DER-L3-096",
+    "source_exercise_number": 96,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 96
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 96
+      }
+    ],
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-096-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-097",
+    "exercise_id": "DER-L3-097",
+    "source_exercise_number": 97,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 97
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 97
+      }
+    ],
+    "lesson_ids": [
+      "M10.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-097-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-098",
+    "exercise_id": "DER-L3-098",
+    "source_exercise_number": 98,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 98
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 98
+      }
+    ],
+    "lesson_ids": [
+      "M10.2"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-098-SOL",
+    "subparts": [
+      {
+        "id": "DER-L3-098-sen89",
+        "label": "sen89"
+      },
+      {
+        "id": "DER-L3-098-cos47",
+        "label": "cos47"
+      },
+      {
+        "id": "DER-L3-098-raiz4_03",
+        "label": "raiz4_03"
+      }
+    ],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-099",
+    "exercise_id": "DER-L3-099",
+    "source_exercise_number": 99,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8,
+          9
+        ],
+        "exercise_number": 99
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 99
+      }
+    ],
+    "lesson_ids": [
+      "M10.3"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-099-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-100",
+    "exercise_id": "DER-L3-100",
+    "source_exercise_number": 100,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 100
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 100
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-100-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-101",
+    "exercise_id": "DER-L3-101",
+    "source_exercise_number": 101,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 101
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 101
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-101-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-102",
+    "exercise_id": "DER-L3-102",
+    "source_exercise_number": 102,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 102
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 102
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-ALG"
+    ],
+    "solution_id": "DER-L3-102-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-103",
+    "exercise_id": "DER-L3-103",
+    "source_exercise_number": 103,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 103
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 103
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-INF"
+    ],
+    "solution_id": "DER-L3-103-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-104",
+    "exercise_id": "DER-L3-104",
+    "source_exercise_number": 104,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 104
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 104
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [
+      "DER-PRE-TRIG"
+    ],
+    "solution_id": "DER-L3-104-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  },
+  {
+    "id": "DER-COV-L3-105",
+    "exercise_id": "DER-L3-105",
+    "source_exercise_number": 105,
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 105
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 105
+      }
+    ],
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "prerequisite_ids": [],
+    "solution_id": "DER-L3-105-SOL",
+    "subparts": [],
+    "solution_complete": true,
+    "review_status": "reviewed_by_author",
+    "coverage_type": "numbered_exercises_1_to_105"
+  }
+]

@@ -1,0 +1,4316 @@
+{
+  "id": "DER-MATH-AUDIT",
+  "scope_md": "Revisão argumentativa de138 soluções e65 exemplos pelo autor. Checagens simbólicas/exatas complementares verificam identidades, coeficientes, limites e candidatos, não a totalidade das provas por automação. Sem revisor externo nem prova formal computacional.",
+  "symbolic_engine": "SymPy 1.14.0",
+  "checks": [
+    {
+      "exercise_id": "DER-L3-001",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-001"
+    },
+    {
+      "exercise_id": "DER-L3-002",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-002"
+    },
+    {
+      "exercise_id": "DER-L3-003",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-003"
+    },
+    {
+      "exercise_id": "DER-L3-004",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-004"
+    },
+    {
+      "exercise_id": "DER-L3-005",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-005"
+    },
+    {
+      "exercise_id": "DER-L3-006",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-006"
+    },
+    {
+      "exercise_id": "DER-L3-008",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-007"
+    },
+    {
+      "exercise_id": "DER-L3-009",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-008"
+    },
+    {
+      "exercise_id": "DER-L3-010",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-009"
+    },
+    {
+      "exercise_id": "DER-L3-026",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-010"
+    },
+    {
+      "exercise_id": "DER-L3-027",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-011"
+    },
+    {
+      "exercise_id": "DER-L3-028",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-012"
+    },
+    {
+      "exercise_id": "DER-L3-029",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-013"
+    },
+    {
+      "exercise_id": "DER-L3-030",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-014"
+    },
+    {
+      "exercise_id": "DER-L3-031",
+      "check": "derivada da expressão original",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-015"
+    },
+    {
+      "exercise_id": "DER-L3-007",
+      "check": "derivada de arcsec no semieixo 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-016"
+    },
+    {
+      "exercise_id": "DER-L3-007",
+      "check": "quociente com arcsec, ramo 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-017"
+    },
+    {
+      "exercise_id": "DER-L3-007",
+      "check": "derivada de arcsec no semieixo -1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-018"
+    },
+    {
+      "exercise_id": "DER-L3-007",
+      "check": "quociente com arcsec, ramo -1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-019"
+    },
+    {
+      "exercise_id": "DER-L3-030",
+      "check": "leitura alternativa √(arctan A)",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-020"
+    },
+    {
+      "exercise_id": "DER-L3-011",
+      "check": "inclinação em 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-021"
+    },
+    {
+      "exercise_id": "DER-L3-011",
+      "check": "inclinação em 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-022"
+    },
+    {
+      "exercise_id": "DER-L3-011",
+      "check": "inclinação em -2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-023"
+    },
+    {
+      "exercise_id": "DER-L3-012",
+      "check": "horizontal em -2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-024"
+    },
+    {
+      "exercise_id": "DER-L3-012",
+      "check": "horizontal em 2/3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-025"
+    },
+    {
+      "exercise_id": "DER-L3-012",
+      "check": "inclinação −4 em 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-026"
+    },
+    {
+      "exercise_id": "DER-L3-012",
+      "check": "inclinação −4 em -4/3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-027"
+    },
+    {
+      "exercise_id": "DER-L3-013",
+      "check": "igualdade das inclinações no representante",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-028"
+    },
+    {
+      "exercise_id": "DER-L3-015",
+      "check": "inclinação da parábola",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-029"
+    },
+    {
+      "exercise_id": "DER-L3-016",
+      "check": "fatoração da diferença",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-030"
+    },
+    {
+      "exercise_id": "DER-L3-018",
+      "check": "condição de passagem pela origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-031"
+    },
+    {
+      "exercise_id": "DER-L3-019",
+      "check": "fatoração da quartica",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-032"
+    },
+    {
+      "exercise_id": "DER-L3-019",
+      "check": "raiz numérica no intervalo declarado",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-033"
+    },
+    {
+      "exercise_id": "DER-L3-020",
+      "check": "valor da parábola no contato",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-034"
+    },
+    {
+      "exercise_id": "DER-L3-020",
+      "check": "inclinação no contato",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-035"
+    },
+    {
+      "exercise_id": "DER-L3-023",
+      "check": "raízes da velocidade: produto",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-036"
+    },
+    {
+      "exercise_id": "DER-L3-024",
+      "check": "cadeia pontual",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-037"
+    },
+    {
+      "exercise_id": "DER-L3-025",
+      "check": "taxa da escada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-038"
+    },
+    {
+      "exercise_id": "DER-L3-033",
+      "check": "intercepto da tangente",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-039"
+    },
+    {
+      "exercise_id": "DER-L3-035",
+      "check": "passo indutivo",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-040"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-041"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-042"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-043"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 4",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-044"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 5",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-045"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 6",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-046"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 7",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-047"
+    },
+    {
+      "exercise_id": "DER-L3-036",
+      "check": "derivada ordem 8",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-048"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 0 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-049"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 1 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-050"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 2 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-051"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 3 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-052"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 4 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-053"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 5 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-054"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 6 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-055"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 7 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-056"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 8 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-057"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 9 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-058"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 10 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-059"
+    },
+    {
+      "exercise_id": "DER-L3-040",
+      "check": "derivada ordem 11 na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-060"
+    },
+    {
+      "exercise_id": "DER-L3-042",
+      "check": "numerador da derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-061"
+    },
+    {
+      "exercise_id": "DER-L3-043",
+      "check": "resíduo da diferenciação implícita",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-062"
+    },
+    {
+      "exercise_id": "DER-L3-044",
+      "check": "resíduo da diferenciação implícita",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-063"
+    },
+    {
+      "exercise_id": "DER-L3-046",
+      "check": "resíduo da diferenciação implícita",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-064"
+    },
+    {
+      "exercise_id": "DER-L3-047",
+      "check": "resíduo da diferenciação implícita",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-065"
+    },
+    {
+      "exercise_id": "DER-L3-048",
+      "check": "resíduo da diferenciação implícita",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-066"
+    },
+    {
+      "exercise_id": "DER-L3-044",
+      "check": "ponto singular pertence à curva (0, 0)",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-067"
+    },
+    {
+      "exercise_id": "DER-L3-044",
+      "check": "coeficiente de y′ no singular (0, 0)",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-068"
+    },
+    {
+      "exercise_id": "DER-L3-044",
+      "check": "ponto singular pertence à curva (27/256, -9/64)",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-069"
+    },
+    {
+      "exercise_id": "DER-L3-044",
+      "check": "coeficiente de y′ no singular (27/256, -9/64)",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-070"
+    },
+    {
+      "exercise_id": "DER-L3-049",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-071"
+    },
+    {
+      "exercise_id": "DER-L3-049",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-072"
+    },
+    {
+      "exercise_id": "DER-L3-050",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-073"
+    },
+    {
+      "exercise_id": "DER-L3-050",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-074"
+    },
+    {
+      "exercise_id": "DER-L3-051",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-075"
+    },
+    {
+      "exercise_id": "DER-L3-051",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-076"
+    },
+    {
+      "exercise_id": "DER-L3-052",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-077"
+    },
+    {
+      "exercise_id": "DER-L3-052",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-078"
+    },
+    {
+      "exercise_id": "DER-L3-053",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-079"
+    },
+    {
+      "exercise_id": "DER-L3-053",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-080"
+    },
+    {
+      "exercise_id": "DER-L3-054",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-081"
+    },
+    {
+      "exercise_id": "DER-L3-054",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-082"
+    },
+    {
+      "exercise_id": "DER-L3-055",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-083"
+    },
+    {
+      "exercise_id": "DER-L3-055",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-084"
+    },
+    {
+      "exercise_id": "DER-L3-056",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-085"
+    },
+    {
+      "exercise_id": "DER-L3-056",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-086"
+    },
+    {
+      "exercise_id": "DER-L3-081",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-087"
+    },
+    {
+      "exercise_id": "DER-L3-081",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-088"
+    },
+    {
+      "exercise_id": "DER-L3-082",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-089"
+    },
+    {
+      "exercise_id": "DER-L3-082",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-090"
+    },
+    {
+      "exercise_id": "DER-L3-083",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-091"
+    },
+    {
+      "exercise_id": "DER-L3-083",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-092"
+    },
+    {
+      "exercise_id": "DER-L3-084",
+      "check": "recomposição da derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-093"
+    },
+    {
+      "exercise_id": "DER-L3-084",
+      "check": "recomposição da segunda derivada fatorada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-094"
+    },
+    {
+      "exercise_id": "DER-L3-057",
+      "check": "representação do máximo global",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-095"
+    },
+    {
+      "exercise_id": "DER-L3-059",
+      "check": "derivada do contraexemplo",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-096"
+    },
+    {
+      "exercise_id": "DER-L3-059",
+      "check": "limite da derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-097"
+    },
+    {
+      "exercise_id": "DER-L3-061",
+      "check": "ponto médio satisfaz TVM",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-098"
+    },
+    {
+      "exercise_id": "DER-L3-066",
+      "check": "zero da derivada da inclinação",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-099"
+    },
+    {
+      "exercise_id": "DER-L3-066",
+      "check": "inclinação máxima",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-100"
+    },
+    {
+      "exercise_id": "DER-L3-067",
+      "check": "quadrado completado",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-101"
+    },
+    {
+      "exercise_id": "DER-L3-068",
+      "check": "área ótima",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-102"
+    },
+    {
+      "exercise_id": "DER-L3-069",
+      "check": "equação estacionária",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-103"
+    },
+    {
+      "exercise_id": "DER-L3-073",
+      "check": "equação estacionária",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-104"
+    },
+    {
+      "exercise_id": "DER-L3-074",
+      "check": "equação estacionária",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-105"
+    },
+    {
+      "exercise_id": "DER-L3-075",
+      "check": "equação estacionária",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-106"
+    },
+    {
+      "exercise_id": "DER-L3-076",
+      "check": "equação estacionária",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-107"
+    },
+    {
+      "exercise_id": "DER-L3-071",
+      "check": "valor no máximo",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-108"
+    },
+    {
+      "exercise_id": "DER-L3-071",
+      "check": "valor no mínimo",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-109"
+    },
+    {
+      "exercise_id": "DER-L3-077",
+      "check": "ponto estacionário é máximo: derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-110"
+    },
+    {
+      "exercise_id": "DER-L3-077",
+      "check": "segunda derivada negativa no crítico",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-111"
+    },
+    {
+      "exercise_id": "DER-L3-077",
+      "check": "borda caminhada vence diâmetro",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-112"
+    },
+    {
+      "exercise_id": "DER-L3-078",
+      "check": "derivada no ponto ótimo",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-113"
+    },
+    {
+      "exercise_id": "DER-L3-085",
+      "check": "segunda derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-114"
+    },
+    {
+      "exercise_id": "DER-L3-086",
+      "check": "identidade de deslocamento",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-115"
+    },
+    {
+      "exercise_id": "DER-L3-087",
+      "check": "variação linear",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-116"
+    },
+    {
+      "exercise_id": "DER-L3-088",
+      "check": "linearização",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-117"
+    },
+    {
+      "exercise_id": "DER-L3-089",
+      "check": "diferencial de área",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-118"
+    },
+    {
+      "exercise_id": "DER-L3-090",
+      "check": "diferencial de superfície",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-119"
+    },
+    {
+      "exercise_id": "DER-L3-091",
+      "check": "variação estimada de área",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-120"
+    },
+    {
+      "exercise_id": "DER-L3-092",
+      "check": "valor exato",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-121"
+    },
+    {
+      "exercise_id": "DER-L3-094",
+      "check": "coeficiente de ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-122"
+    },
+    {
+      "exercise_id": "DER-L3-094",
+      "check": "coeficiente de ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-123"
+    },
+    {
+      "exercise_id": "DER-L3-094",
+      "check": "coeficiente de ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-124"
+    },
+    {
+      "exercise_id": "DER-L3-094",
+      "check": "coeficiente de ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-125"
+    },
+    {
+      "exercise_id": "DER-L3-095",
+      "check": "coeficiente de ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-126"
+    },
+    {
+      "exercise_id": "DER-L3-095",
+      "check": "coeficiente de ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-127"
+    },
+    {
+      "exercise_id": "DER-L3-095",
+      "check": "coeficiente de ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-128"
+    },
+    {
+      "exercise_id": "DER-L3-095",
+      "check": "coeficiente de ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-129"
+    },
+    {
+      "exercise_id": "DER-L3-096",
+      "check": "coeficiente de ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-130"
+    },
+    {
+      "exercise_id": "DER-L3-096",
+      "check": "coeficiente de ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-131"
+    },
+    {
+      "exercise_id": "DER-L3-096",
+      "check": "coeficiente de ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-132"
+    },
+    {
+      "exercise_id": "DER-L3-096",
+      "check": "coeficiente de ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-133"
+    },
+    {
+      "exercise_id": "DER-L3-097",
+      "check": "coeficiente de ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-134"
+    },
+    {
+      "exercise_id": "DER-L3-097",
+      "check": "coeficiente de ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-135"
+    },
+    {
+      "exercise_id": "DER-L3-097",
+      "check": "coeficiente de ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-136"
+    },
+    {
+      "exercise_id": "DER-L3-097",
+      "check": "coeficiente de ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-137"
+    },
+    {
+      "exercise_id": "DER-L3-097",
+      "check": "coeficiente de ordem 4",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-138"
+    },
+    {
+      "exercise_id": "DER-L3-099",
+      "check": "cota uniforme",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-139"
+    },
+    {
+      "exercise_id": "DER-L3-100",
+      "check": "limite lateral +",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-140"
+    },
+    {
+      "exercise_id": "DER-L3-100",
+      "check": "limite lateral -",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-141"
+    },
+    {
+      "exercise_id": "DER-L3-101",
+      "check": "limite lateral +",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-142"
+    },
+    {
+      "exercise_id": "DER-L3-101",
+      "check": "limite lateral -",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-143"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "limite lateral +",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-144"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "limite lateral -",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-145"
+    },
+    {
+      "exercise_id": "DER-L3-104",
+      "check": "limite lateral +",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-146"
+    },
+    {
+      "exercise_id": "DER-L3-104",
+      "check": "limite lateral -",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-147"
+    },
+    {
+      "exercise_id": "DER-L3-105",
+      "check": "limite lateral +",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-148"
+    },
+    {
+      "exercise_id": "DER-L3-105",
+      "check": "limite lateral -",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-149"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do numerador ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-150"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do denominador ordem 0",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-151"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do numerador ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-152"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do denominador ordem 1",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-153"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do numerador ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-154"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do denominador ordem 2",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-155"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do numerador ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-156"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "zero do denominador ordem 3",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-157"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "quarta derivada N",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-158"
+    },
+    {
+      "exercise_id": "DER-L3-102",
+      "check": "quarta derivada D",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-159"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=-2,n=0",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-160"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=-2,n=1",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-161"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=-2,n=2",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-162"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=-2,n=3",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-163"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=0,n=0",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-164"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=0,n=1",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-165"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=0,n=2",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-166"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=0,n=3",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-167"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=2,n=0",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-168"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=2,n=1",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-169"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=2,n=2",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-170"
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "check": "parâmetros a=2,n=3",
+      "method": "exact_arithmetic_or_inequality",
+      "passed": true,
+      "id": "DER-CHECK-171"
+    },
+    {
+      "exercise_id": "DER-AUT-M5-C",
+      "check": "aceleração relacionada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-172"
+    },
+    {
+      "exercise_id": "DER-AUT-M8-C",
+      "check": "raio do custo ponderado",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-173"
+    },
+    {
+      "exercise_id": "DER-AUT-M10-C",
+      "check": "cota de terceira derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-174"
+    },
+    {
+      "exercise_id": "DER-SIM-A-Q01",
+      "check": "primeira derivada",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-175"
+    },
+    {
+      "exercise_id": "DER-SIM-A-Q01",
+      "check": "segunda derivada na origem",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-176"
+    },
+    {
+      "exercise_id": "DER-SIM-A-Q04",
+      "check": "valor de inflexão",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-177"
+    },
+    {
+      "exercise_id": "DER-SIM-B-Q02",
+      "check": "candidato da caixa",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-178"
+    },
+    {
+      "exercise_id": "DER-SIM-B-Q03",
+      "check": "cota do Taylor",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-179"
+    },
+    {
+      "exercise_id": "DER-SIM-B-Q04",
+      "check": "limite",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-180"
+    },
+    {
+      "exercise_id": "DER-AUT-M11-C",
+      "check": "limite",
+      "method": "symbolic_identity",
+      "passed": true,
+      "id": "DER-CHECK-181"
+    }
+  ],
+  "solution_reviews": [
+    {
+      "id": "DER-REVIEW-DER-L3-001",
+      "exercise_id": "DER-L3-001",
+      "solution_id": "DER-L3-001-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-001"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-002",
+      "exercise_id": "DER-L3-002",
+      "solution_id": "DER-L3-002-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-002"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-003",
+      "exercise_id": "DER-L3-003",
+      "solution_id": "DER-L3-003-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-003"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-004",
+      "exercise_id": "DER-L3-004",
+      "solution_id": "DER-L3-004-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-004"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-005",
+      "exercise_id": "DER-L3-005",
+      "solution_id": "DER-L3-005-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-005"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-006",
+      "exercise_id": "DER-L3-006",
+      "solution_id": "DER-L3-006-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-006"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-007",
+      "exercise_id": "DER-L3-007",
+      "solution_id": "DER-L3-007-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-016",
+          "DER-CHECK-017",
+          "DER-CHECK-018",
+          "DER-CHECK-019"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-008",
+      "exercise_id": "DER-L3-008",
+      "solution_id": "DER-L3-008-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-007"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-009",
+      "exercise_id": "DER-L3-009",
+      "solution_id": "DER-L3-009-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-008"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-010",
+      "exercise_id": "DER-L3-010",
+      "solution_id": "DER-L3-010-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-009"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-011",
+      "exercise_id": "DER-L3-011",
+      "solution_id": "DER-L3-011-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 3 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-021",
+          "DER-CHECK-022",
+          "DER-CHECK-023"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-012",
+      "exercise_id": "DER-L3-012",
+      "solution_id": "DER-L3-012-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-024",
+          "DER-CHECK-025",
+          "DER-CHECK-026",
+          "DER-CHECK-027"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-013",
+      "exercise_id": "DER-L3-013",
+      "solution_id": "DER-L3-013-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-028"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-014",
+      "exercise_id": "DER-L3-014",
+      "solution_id": "DER-L3-014-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-015",
+      "exercise_id": "DER-L3-015",
+      "solution_id": "DER-L3-015-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-029"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-016",
+      "exercise_id": "DER-L3-016",
+      "solution_id": "DER-L3-016-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-030"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-017",
+      "exercise_id": "DER-L3-017",
+      "solution_id": "DER-L3-017-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-018",
+      "exercise_id": "DER-L3-018",
+      "solution_id": "DER-L3-018-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-031"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-019",
+      "exercise_id": "DER-L3-019",
+      "solution_id": "DER-L3-019-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-032",
+          "DER-CHECK-033"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-020",
+      "exercise_id": "DER-L3-020",
+      "solution_id": "DER-L3-020-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-034",
+          "DER-CHECK-035"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-021",
+      "exercise_id": "DER-L3-021",
+      "solution_id": "DER-L3-021-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-022",
+      "exercise_id": "DER-L3-022",
+      "solution_id": "DER-L3-022-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-023",
+      "exercise_id": "DER-L3-023",
+      "solution_id": "DER-L3-023-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-036"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-024",
+      "exercise_id": "DER-L3-024",
+      "solution_id": "DER-L3-024-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-037"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-025",
+      "exercise_id": "DER-L3-025",
+      "solution_id": "DER-L3-025-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-038"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-026",
+      "exercise_id": "DER-L3-026",
+      "solution_id": "DER-L3-026-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-010"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-027",
+      "exercise_id": "DER-L3-027",
+      "solution_id": "DER-L3-027-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-011"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-028",
+      "exercise_id": "DER-L3-028",
+      "solution_id": "DER-L3-028-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-012"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-029",
+      "exercise_id": "DER-L3-029",
+      "solution_id": "DER-L3-029-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-013"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-030",
+      "exercise_id": "DER-L3-030",
+      "solution_id": "DER-L3-030-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-014",
+          "DER-CHECK-020"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-031",
+      "exercise_id": "DER-L3-031",
+      "solution_id": "DER-L3-031-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-015"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-032",
+      "exercise_id": "DER-L3-032",
+      "solution_id": "DER-L3-032-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-033",
+      "exercise_id": "DER-L3-033",
+      "solution_id": "DER-L3-033-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-039"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-034",
+      "exercise_id": "DER-L3-034",
+      "solution_id": "DER-L3-034-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-035",
+      "exercise_id": "DER-L3-035",
+      "solution_id": "DER-L3-035-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-040"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-036",
+      "exercise_id": "DER-L3-036",
+      "solution_id": "DER-L3-036-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 8 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-041",
+          "DER-CHECK-042",
+          "DER-CHECK-043",
+          "DER-CHECK-044",
+          "DER-CHECK-045",
+          "DER-CHECK-046",
+          "DER-CHECK-047",
+          "DER-CHECK-048"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-037",
+      "exercise_id": "DER-L3-037",
+      "solution_id": "DER-L3-037-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-038",
+      "exercise_id": "DER-L3-038",
+      "solution_id": "DER-L3-038-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-039",
+      "exercise_id": "DER-L3-039",
+      "solution_id": "DER-L3-039-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-040",
+      "exercise_id": "DER-L3-040",
+      "solution_id": "DER-L3-040-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-049",
+          "DER-CHECK-050",
+          "DER-CHECK-051",
+          "DER-CHECK-052",
+          "DER-CHECK-053",
+          "DER-CHECK-054",
+          "DER-CHECK-055",
+          "DER-CHECK-056",
+          "DER-CHECK-057",
+          "DER-CHECK-058",
+          "DER-CHECK-059",
+          "DER-CHECK-060"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-041",
+      "exercise_id": "DER-L3-041",
+      "solution_id": "DER-L3-041-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-042",
+      "exercise_id": "DER-L3-042",
+      "solution_id": "DER-L3-042-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-061"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-043",
+      "exercise_id": "DER-L3-043",
+      "solution_id": "DER-L3-043-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-062"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-044",
+      "exercise_id": "DER-L3-044",
+      "solution_id": "DER-L3-044-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 5 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-063",
+          "DER-CHECK-067",
+          "DER-CHECK-068",
+          "DER-CHECK-069",
+          "DER-CHECK-070"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-045",
+      "exercise_id": "DER-L3-045",
+      "solution_id": "DER-L3-045-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-046",
+      "exercise_id": "DER-L3-046",
+      "solution_id": "DER-L3-046-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-064"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-047",
+      "exercise_id": "DER-L3-047",
+      "solution_id": "DER-L3-047-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-065"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-048",
+      "exercise_id": "DER-L3-048",
+      "solution_id": "DER-L3-048-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-066"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-049",
+      "exercise_id": "DER-L3-049",
+      "solution_id": "DER-L3-049-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-071",
+          "DER-CHECK-072"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-050",
+      "exercise_id": "DER-L3-050",
+      "solution_id": "DER-L3-050-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-073",
+          "DER-CHECK-074"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-051",
+      "exercise_id": "DER-L3-051",
+      "solution_id": "DER-L3-051-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-075",
+          "DER-CHECK-076"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-052",
+      "exercise_id": "DER-L3-052",
+      "solution_id": "DER-L3-052-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-077",
+          "DER-CHECK-078"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-053",
+      "exercise_id": "DER-L3-053",
+      "solution_id": "DER-L3-053-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-079",
+          "DER-CHECK-080"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-054",
+      "exercise_id": "DER-L3-054",
+      "solution_id": "DER-L3-054-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-081",
+          "DER-CHECK-082"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-055",
+      "exercise_id": "DER-L3-055",
+      "solution_id": "DER-L3-055-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-083",
+          "DER-CHECK-084"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-056",
+      "exercise_id": "DER-L3-056",
+      "solution_id": "DER-L3-056-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-085",
+          "DER-CHECK-086"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-057",
+      "exercise_id": "DER-L3-057",
+      "solution_id": "DER-L3-057-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-095"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-058",
+      "exercise_id": "DER-L3-058",
+      "solution_id": "DER-L3-058-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-059",
+      "exercise_id": "DER-L3-059",
+      "solution_id": "DER-L3-059-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-096",
+          "DER-CHECK-097"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-060",
+      "exercise_id": "DER-L3-060",
+      "solution_id": "DER-L3-060-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-061",
+      "exercise_id": "DER-L3-061",
+      "solution_id": "DER-L3-061-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-098"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-062",
+      "exercise_id": "DER-L3-062",
+      "solution_id": "DER-L3-062-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-063",
+      "exercise_id": "DER-L3-063",
+      "solution_id": "DER-L3-063-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-064",
+      "exercise_id": "DER-L3-064",
+      "solution_id": "DER-L3-064-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-065",
+      "exercise_id": "DER-L3-065",
+      "solution_id": "DER-L3-065-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-066",
+      "exercise_id": "DER-L3-066",
+      "solution_id": "DER-L3-066-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-099",
+          "DER-CHECK-100"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-067",
+      "exercise_id": "DER-L3-067",
+      "solution_id": "DER-L3-067-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-101"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-068",
+      "exercise_id": "DER-L3-068",
+      "solution_id": "DER-L3-068-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-102"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-069",
+      "exercise_id": "DER-L3-069",
+      "solution_id": "DER-L3-069-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-103"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-070",
+      "exercise_id": "DER-L3-070",
+      "solution_id": "DER-L3-070-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-071",
+      "exercise_id": "DER-L3-071",
+      "solution_id": "DER-L3-071-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-108",
+          "DER-CHECK-109"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-072",
+      "exercise_id": "DER-L3-072",
+      "solution_id": "DER-L3-072-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-073",
+      "exercise_id": "DER-L3-073",
+      "solution_id": "DER-L3-073-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-104"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-074",
+      "exercise_id": "DER-L3-074",
+      "solution_id": "DER-L3-074-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-105"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-075",
+      "exercise_id": "DER-L3-075",
+      "solution_id": "DER-L3-075-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-106"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-076",
+      "exercise_id": "DER-L3-076",
+      "solution_id": "DER-L3-076-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-107"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-077",
+      "exercise_id": "DER-L3-077",
+      "solution_id": "DER-L3-077-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 3 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-110",
+          "DER-CHECK-111",
+          "DER-CHECK-112"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-078",
+      "exercise_id": "DER-L3-078",
+      "solution_id": "DER-L3-078-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-113"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-079",
+      "exercise_id": "DER-L3-079",
+      "solution_id": "DER-L3-079-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-080",
+      "exercise_id": "DER-L3-080",
+      "solution_id": "DER-L3-080-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-081",
+      "exercise_id": "DER-L3-081",
+      "solution_id": "DER-L3-081-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-087",
+          "DER-CHECK-088"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-082",
+      "exercise_id": "DER-L3-082",
+      "solution_id": "DER-L3-082-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-089",
+          "DER-CHECK-090"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-083",
+      "exercise_id": "DER-L3-083",
+      "solution_id": "DER-L3-083-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-091",
+          "DER-CHECK-092"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-084",
+      "exercise_id": "DER-L3-084",
+      "solution_id": "DER-L3-084-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-093",
+          "DER-CHECK-094"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-085",
+      "exercise_id": "DER-L3-085",
+      "solution_id": "DER-L3-085-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-114"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-086",
+      "exercise_id": "DER-L3-086",
+      "solution_id": "DER-L3-086-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-115"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-087",
+      "exercise_id": "DER-L3-087",
+      "solution_id": "DER-L3-087-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-116"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-088",
+      "exercise_id": "DER-L3-088",
+      "solution_id": "DER-L3-088-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-117"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-089",
+      "exercise_id": "DER-L3-089",
+      "solution_id": "DER-L3-089-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-118"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-090",
+      "exercise_id": "DER-L3-090",
+      "solution_id": "DER-L3-090-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-119"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-091",
+      "exercise_id": "DER-L3-091",
+      "solution_id": "DER-L3-091-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-120"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-092",
+      "exercise_id": "DER-L3-092",
+      "solution_id": "DER-L3-092-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-121"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-093",
+      "exercise_id": "DER-L3-093",
+      "solution_id": "DER-L3-093-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-094",
+      "exercise_id": "DER-L3-094",
+      "solution_id": "DER-L3-094-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-122",
+          "DER-CHECK-123",
+          "DER-CHECK-124",
+          "DER-CHECK-125"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-095",
+      "exercise_id": "DER-L3-095",
+      "solution_id": "DER-L3-095-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-126",
+          "DER-CHECK-127",
+          "DER-CHECK-128",
+          "DER-CHECK-129"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-096",
+      "exercise_id": "DER-L3-096",
+      "solution_id": "DER-L3-096-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-130",
+          "DER-CHECK-131",
+          "DER-CHECK-132",
+          "DER-CHECK-133"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-097",
+      "exercise_id": "DER-L3-097",
+      "solution_id": "DER-L3-097-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 5 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-134",
+          "DER-CHECK-135",
+          "DER-CHECK-136",
+          "DER-CHECK-137",
+          "DER-CHECK-138"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-098",
+      "exercise_id": "DER-L3-098",
+      "solution_id": "DER-L3-098-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-099",
+      "exercise_id": "DER-L3-099",
+      "solution_id": "DER-L3-099-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-139"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-100",
+      "exercise_id": "DER-L3-100",
+      "solution_id": "DER-L3-100-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-140",
+          "DER-CHECK-141"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-101",
+      "exercise_id": "DER-L3-101",
+      "solution_id": "DER-L3-101-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-142",
+          "DER-CHECK-143"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-102",
+      "exercise_id": "DER-L3-102",
+      "solution_id": "DER-L3-102-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-144",
+          "DER-CHECK-145",
+          "DER-CHECK-150",
+          "DER-CHECK-151",
+          "DER-CHECK-152",
+          "DER-CHECK-153",
+          "DER-CHECK-154",
+          "DER-CHECK-155",
+          "DER-CHECK-156",
+          "DER-CHECK-157",
+          "DER-CHECK-158",
+          "DER-CHECK-159"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-103",
+      "exercise_id": "DER-L3-103",
+      "solution_id": "DER-L3-103-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-160",
+          "DER-CHECK-161",
+          "DER-CHECK-162",
+          "DER-CHECK-163",
+          "DER-CHECK-164",
+          "DER-CHECK-165",
+          "DER-CHECK-166",
+          "DER-CHECK-167",
+          "DER-CHECK-168",
+          "DER-CHECK-169",
+          "DER-CHECK-170",
+          "DER-CHECK-171"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-104",
+      "exercise_id": "DER-L3-104",
+      "solution_id": "DER-L3-104-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-146",
+          "DER-CHECK-147"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-L3-105",
+      "exercise_id": "DER-L3-105",
+      "solution_id": "DER-L3-105-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-148",
+          "DER-CHECK-149"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D01",
+      "exercise_id": "DER-DIAG-D01",
+      "solution_id": "DER-DIAG-D01-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D02",
+      "exercise_id": "DER-DIAG-D02",
+      "solution_id": "DER-DIAG-D02-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D03",
+      "exercise_id": "DER-DIAG-D03",
+      "solution_id": "DER-DIAG-D03-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D04",
+      "exercise_id": "DER-DIAG-D04",
+      "solution_id": "DER-DIAG-D04-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D05",
+      "exercise_id": "DER-DIAG-D05",
+      "solution_id": "DER-DIAG-D05-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D06",
+      "exercise_id": "DER-DIAG-D06",
+      "solution_id": "DER-DIAG-D06-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D07",
+      "exercise_id": "DER-DIAG-D07",
+      "solution_id": "DER-DIAG-D07-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-DIAG-D08",
+      "exercise_id": "DER-DIAG-D08",
+      "solution_id": "DER-DIAG-D08-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M1-B",
+      "exercise_id": "DER-AUT-M1-B",
+      "solution_id": "DER-AUT-M1-B-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M1-I",
+      "exercise_id": "DER-AUT-M1-I",
+      "solution_id": "DER-AUT-M1-I-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M1-A",
+      "exercise_id": "DER-AUT-M1-A",
+      "solution_id": "DER-AUT-M1-A-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M1-C",
+      "exercise_id": "DER-AUT-M1-C",
+      "solution_id": "DER-AUT-M1-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M2-C",
+      "exercise_id": "DER-AUT-M2-C",
+      "solution_id": "DER-AUT-M2-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M3-C",
+      "exercise_id": "DER-AUT-M3-C",
+      "solution_id": "DER-AUT-M3-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M4-C",
+      "exercise_id": "DER-AUT-M4-C",
+      "solution_id": "DER-AUT-M4-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M5-C",
+      "exercise_id": "DER-AUT-M5-C",
+      "solution_id": "DER-AUT-M5-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-172"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M6-C",
+      "exercise_id": "DER-AUT-M6-C",
+      "solution_id": "DER-AUT-M6-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M7-C",
+      "exercise_id": "DER-AUT-M7-C",
+      "solution_id": "DER-AUT-M7-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M8-C",
+      "exercise_id": "DER-AUT-M8-C",
+      "solution_id": "DER-AUT-M8-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-173"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M9-C",
+      "exercise_id": "DER-AUT-M9-C",
+      "solution_id": "DER-AUT-M9-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M10-C",
+      "exercise_id": "DER-AUT-M10-C",
+      "solution_id": "DER-AUT-M10-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-174"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M11-C",
+      "exercise_id": "DER-AUT-M11-C",
+      "solution_id": "DER-AUT-M11-C-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-181"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-A-Q01",
+      "exercise_id": "DER-SIM-A-Q01",
+      "solution_id": "DER-SIM-A-Q01-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-175",
+          "DER-CHECK-176"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-A-Q02",
+      "exercise_id": "DER-SIM-A-Q02",
+      "solution_id": "DER-SIM-A-Q02-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-A-Q03",
+      "exercise_id": "DER-SIM-A-Q03",
+      "solution_id": "DER-SIM-A-Q03-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-A-Q04",
+      "exercise_id": "DER-SIM-A-Q04",
+      "solution_id": "DER-SIM-A-Q04-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-177"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-B-Q01",
+      "exercise_id": "DER-SIM-B-Q01",
+      "solution_id": "DER-SIM-B-Q01-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-B-Q02",
+      "exercise_id": "DER-SIM-B-Q02",
+      "solution_id": "DER-SIM-B-Q02-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-178"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-B-Q03",
+      "exercise_id": "DER-SIM-B-Q03",
+      "solution_id": "DER-SIM-B-Q03-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-179"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-SIM-B-Q04",
+      "exercise_id": "DER-SIM-B-Q04",
+      "solution_id": "DER-SIM-B-Q04-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review_with_symbolic_supplement",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+        "check_ids": [
+          "DER-CHECK-180"
+        ],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M4-B",
+      "exercise_id": "DER-AUT-M4-B",
+      "solution_id": "DER-AUT-M4-B-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M6-B",
+      "exercise_id": "DER-AUT-M6-B",
+      "solution_id": "DER-AUT-M6-B-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    },
+    {
+      "id": "DER-REVIEW-DER-AUT-M10-B",
+      "exercise_id": "DER-AUT-M10-B",
+      "solution_id": "DER-AUT-M10-B-SOL",
+      "status": "reviewed_by_author",
+      "evidence": {
+        "status": "reviewed",
+        "method": "argument_review",
+        "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+        "check_ids": [],
+        "reviewer": "author_assistant",
+        "external_independent_review": false
+      },
+      "review_scope": [
+        "calculation_or_proof_steps",
+        "domain_and_hypotheses",
+        "special_cases_when_relevant",
+        "completeness_of_conclusion"
+      ]
+    }
+  ],
+  "editorial_ambiguities": [
+    {
+      "exercise_id": "DER-L3-030",
+      "status": "two_interpretations_documented",
+      "affects_technical_coverage": false,
+      "intended_reading_confirmed_by_teacher": false
+    }
+  ]
+}

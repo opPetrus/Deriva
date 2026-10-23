@@ -1,0 +1,46 @@
+{
+  "id": "DERIVA-DERIVADAS-01",
+  "schema_version": "1.0.0",
+  "language": "pt-BR",
+  "title": "Deriva — derivadas para a Lista 3",
+  "date": "2026-10-22",
+  "scope_status": "approved",
+  "delivery": "pedagogical_content_only",
+  "module_ids": [
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "M5",
+    "M6",
+    "M7",
+    "M8",
+    "M9",
+    "M10",
+    "M11"
+  ],
+  "budget": {
+    "total_minutes": 1200,
+    "theory_and_worked_examples_minutes": 480,
+    "active_practice_minutes": 720,
+    "diagnostic_minutes": 30,
+    "distributed_review_minutes": 30,
+    "exam_and_correction_minutes": 100
+  },
+  "policy": {
+    "all_lessons_available_from_start": true,
+    "solutions_hidden_initially": true,
+    "no_general_limits_module": true,
+    "no_integrals": true,
+    "no_realtime_generation_required": true,
+    "no_interface_implemented": true
+  },
+  "study_instructions_md": "Faça o diagnóstico; consulte somente os pré-requisitos indicados pelos erros. Leia uma aula, feche os exemplos e tente exercícios sem consulta. Registre a tentativa antes de usar dicas; consulte solução somente depois e refaça uma variante. Os 105 itens e subitens estão disponíveis; o percurso de20h seleciona treino representativo e pode precisar de tempo extra se houver lacunas. Marcar aula lida não comprova domínio. Retome 19,21,22 depois deM7; as notas singulares de46,47 podem ser lidas apósM10.",
+  "grading_policy_md": "Nenhuma expressão livre ou prova recebe classificação automática por comparação de texto. Corrigir pelas rubricas, conferir condições e registrar a origem da avaliação. Ajuda ou revelação marca a tentativa como assistida. Para domínio, exigir resolução sem ajuda de uma variante e revisão posterior.",
+  "mastery_policy": {
+    "module_minimum_rubric_score": 0.9,
+    "require_unassisted_variant": true,
+    "require_delayed_retrieval": true,
+    "final_criterion_md": "Dois simulados distintos com≥90% da rubrica e sem erro conceitual recorrente, mais resolução autônoma de uma questão inédita por família principal. Isso é critério de treino, não garantia de nota oficial."
+  }
+}

@@ -1,0 +1,5106 @@
+[
+  {
+    "id": "DER-L3-001-SOL",
+    "exercise_id": "DER-L3-001",
+    "answer_md": "$f'(x)=9x^2+8x$.",
+    "steps_md": [
+      "A derivada de 3x³ é 9x²; a de 4x² é 8x; a constante desaparece.",
+      "Somando, f′=9x²+8x."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: R.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-001"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-002-SOL",
+    "exercise_id": "DER-L3-002",
+    "answer_md": "$f'(x)=2x\\csc x-x^2\\csc x\\cot x$.",
+    "steps_md": [
+      "Produto: (x²)′csc x+x²(csc x)′.",
+      "Use (csc x)′=−csc x cot x e reúna os termos."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: x∉πZ.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-002"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-003-SOL",
+    "exercise_id": "DER-L3-003",
+    "answer_md": "$h\\prime(t)=3t^2+2/t^3$.",
+    "steps_md": [
+      "Reescreva a fração como potência negativa.",
+      "(−t⁻²)′=+2t⁻³: o sinal negativo é multiplicado por −2."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: t≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-003"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-004-SOL",
+    "exercise_id": "DER-L3-004",
+    "answer_md": "$f'(x)=-2\\cos x\\sin x\\cot x-\\cos^2x\\csc^2x$.",
+    "steps_md": [
+      "Produto: derive cos²x e cot x separadamente.",
+      "(cos²x)′=−2cos x sen x; cot′x=−csc²x.",
+      "Substitua na regra do produto."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: x∉πZ.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-004"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-005-SOL",
+    "exercise_id": "DER-L3-005",
+    "answer_md": "$r\\prime(s)=2\\sec^2s\\tan s+\\tan s+s\\sec^2s$.",
+    "steps_md": [
+      "Cadeia: (sec²s)′=2sec s·sec s tan s.",
+      "Produto: (s tan s)′=tan s+s sec²s.",
+      "Some as duas expressões."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: cos s≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-005"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-006-SOL",
+    "exercise_id": "DER-L3-006",
+    "answer_md": "$f'(x)=-15(3x)^{-6}$.",
+    "steps_md": [
+      "Ponha u=3x. A derivada externa é −5u⁻⁶.",
+      "Multiplique por u′=3."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: x≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-006"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-007-SOL",
+    "exercise_id": "DER-L3-007",
+    "answer_md": "$f'(x)=\\frac{\\operatorname{arcsec}x-x/(|x|\\sqrt{x^2-1})}{(\\operatorname{arcsec}x)^2}$.",
+    "steps_md": [
+      "Use quociente: [arcsec x−x(arcsec x)′]/(arcsec x)².",
+      "Insira (arcsec x)′=1/(|x|√(x²−1)).",
+      "Não cancele o módulo substituindo |x| por x para x<−1."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: |x|>1. A função também está definida em x=−1, mas ali não tem derivada finita; x=1 é excluído pois arcsec 1=0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-016",
+        "DER-CHECK-017",
+        "DER-CHECK-018",
+        "DER-CHECK-019"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-008-SOL",
+    "exercise_id": "DER-L3-008",
+    "answer_md": "$f'(x)=\\frac{2\\sin x}{\\cos^3x}+\\frac{4\\sin^3x}{\\cos^5x}$.",
+    "steps_md": [
+      "No domínio original, sec²x/cot²x=sen²x/cos⁴x.",
+      "Derive sen²x cos⁻⁴x por produto e cadeia.",
+      "Obtenha 2sen x/cos³x+4sen³x/cos⁵x. A simplificação não restaura os zeros do seno."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: sen x≠0 e cos x≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-007"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-009-SOL",
+    "exercise_id": "DER-L3-009",
+    "answer_md": "$f'(x)=-\\frac{3(\\arccos x)^2}{\\sqrt{1-x^2}}$.",
+    "steps_md": [
+      "Potência externa: 3(arccos x)².",
+      "Multiplique por −1/√(1−x²).",
+      "Em x=1 a derivada lateral esquerda é 0, pois (arccos x)³ é da ordem de (1−x)^(3/2); em x=−1 não há derivada lateral finita. O cálculo usual de derivada interior usa (−1,1)."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: −1<x<1.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-008"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-010-SOL",
+    "exercise_id": "DER-L3-010",
+    "answer_md": "$f'(x)=-\\frac1{(1+x^2)(\\arctan x)^2}$.",
+    "steps_md": [
+      "Escreva (arctan x)⁻¹.",
+      "Cadeia: −(arctan x)⁻²/(1+x²)."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: x≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-009"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-011-SOL",
+    "exercise_id": "DER-L3-011",
+    "answer_md": "(a) y=5; (b) y−5/2=−(5/2)(x−1); (c) y−1=(4/5)(x+2).",
+    "steps_md": [
+      "f′(x)=−10x/(1+x²)².",
+      "Nos três pontos as inclinações são 0, −5/2 e 4/5.",
+      "Para cada a, use y−f(a)=f′(a)(x−a)."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 3 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-021",
+        "DER-CHECK-022",
+        "DER-CHECK-023"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-011-a",
+        "answer_md": "y=5"
+      },
+      {
+        "subpart_id": "DER-L3-011-b",
+        "answer_md": "y−5/2=−(5/2)(x−1)"
+      },
+      {
+        "subpart_id": "DER-L3-011-c",
+        "answer_md": "y−1=(4/5)(x+2)"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-012-SOL",
+    "exercise_id": "DER-L3-012",
+    "answer_md": "(a) x=−2 ou 2/3. (b) x=0 ou −4/3.",
+    "steps_md": [
+      "f′=3x²+4x−4.",
+      "(a) Resolva 3x²+4x−4=0: raízes (−4±8)/6.",
+      "(b) A reta dada tem inclinação −4; imponha 3x²+4x−4=−4, logo x(3x+4)=0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-024",
+        "DER-CHECK-025",
+        "DER-CHECK-026",
+        "DER-CHECK-027"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-012-a",
+        "answer_md": "x=−2 ou2/3"
+      },
+      {
+        "subpart_id": "DER-L3-012-b",
+        "answer_md": "x=0 ou−4/3"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-013-SOL",
+    "exercise_id": "DER-L3-013",
+    "answer_md": "$x=-\\pi/4+k\\pi$, k∈Z.",
+    "steps_md": [
+      "As inclinações são cos x e −sen x.",
+      "Igualando: sen x+cos x=0, ou √2 sen(x+π/4)=0.",
+      "Assim x+π/4=kπ."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-028"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-014-SOL",
+    "exercise_id": "DER-L3-014",
+    "answer_md": "$\\theta=2\\arctan(1/\\sqrt2)$ (aproximadamente 70,53°).",
+    "steps_md": [
+      "As interseções ocorrem em x=π/4+kπ.",
+      "As inclinações são m e −m, com |m|=1/√2.",
+      "Pela definição fornecida, θ=|arctan m−arctan(−m)|=2arctan(1/√2)."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-015-SOL",
+    "exercise_id": "DER-L3-015",
+    "answer_md": "$\\pi/6$ (30°).",
+    "steps_md": [
+      "A reta tem inclinação √3/3, cujo arctan é π/6.",
+      "A parábola tem derivada 2x, logo inclinação √3 no ponto e arctan π/3.",
+      "A diferença dos ângulos é π/3−π/6=π/6."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-029"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-016-SOL",
+    "exercise_id": "DER-L3-016",
+    "answer_md": "Tangente comum: y=6x−3.",
+    "steps_md": [
+      "Ambas valem 3 em x=1. Suas derivadas, 6x e 6x², valem 6 em 1.",
+      "A tangente é y−3=6(x−1).",
+      "Para esboçar: a parábola tem vértice (0,0); a cúbica é crescente, passa por (0,1) e tem inflexão ali. A diferença (2x³+1)−3x²=(x−1)²(2x+1): além do contato em 1, cruzam em x=−1/2."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-030"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-016.png",
+        "alt": "Esboço matemático do exercício16, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-017-SOL",
+    "exercise_id": "DER-L3-017",
+    "answer_md": "f′(x+T)=f′(x) para todo x.",
+    "steps_md": [
+      "A identidade f(x+T)=f(x) vale em R.",
+      "Derive os dois lados: f′(x+T)·1=f′(x).",
+      "Isso prova que T é um período de f′, sem afirmar que seja seu período fundamental."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-018-SOL",
+    "exercise_id": "DER-L3-018",
+    "answer_md": "y=0 e y=(27/4)x.",
+    "steps_md": [
+      "Na abscissa a, a tangente tem intercepto f(a)−af′(a). Para passar pela origem, esse intercepto deve ser zero.",
+      "(a+1)³−3a(a+1)²=(a+1)²(1−2a)=0.",
+      "Os contatos são a=−1 e a=1/2; as inclinações são 0 e 27/4. São retas distintas e não há outras raízes para a condição."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-031"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-019-SOL",
+    "exercise_id": "DER-L3-019",
+    "answer_md": "x=1 ou x=r, onde r é a única raiz real de r³+r²+3r−1=0; r≈0,2955977425.",
+    "steps_md": [
+      "A inclinação desejada é −1/2. Assim −2a/(1+a²)²=−1/2.",
+      "A equação é a⁴+2a²−4a+1=(a−1)(a³+a²+3a−1)=0.",
+      "A derivada do fator cúbico é 3a²+2a+3=3(a+1/3)²+8/3>0; ele tem uma única raiz real, entre 0 e 1/3.",
+      "Bisseção ou aproximação numérica fornece r≈0,2955977425. A descrição por raiz única é exata; não é necessária uma fórmula geral de cúbicas."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-032",
+        "DER-CHECK-033"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-020-SOL",
+    "exercise_id": "DER-L3-020",
+    "answer_md": "λ=1/8; contato em (4,3).",
+    "steps_md": [
+      "A interseção satisfaz λx²−x+2=0.",
+      "Tangência exige uma raiz dupla: discriminante 1−8λ=0.",
+      "Logo λ=1/8 e x=1/(2λ)=4. Confira f(4)=3 e f′(4)=1."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-034",
+        "DER-CHECK-035"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-021-SOL",
+    "exercise_id": "DER-L3-021",
+    "answer_md": "Sim: (π/2+kπ,0), k∈Z.",
+    "steps_md": [
+      "Se cos a=0, escreva x=a+u. A igualdade entre o cosseno e sua tangente reduz-se a sen u=u, cuja única solução é u=0: para 0<|u|≤1, |sen u|<|u|; para |u|>1, |sen u|≤1<|u|, com os pontos |u|=1 já cobertos pela desigualdade estrita.",
+      "Se sen a=0, a tangente é horizontal y=±1 e tem infinitos contatos.",
+      "Se sen a≠0 e cos a≠0, H(x)=cos x−[cos a−sen a(x−a)] tem sinal local não nulo igual ao de −cos a dos dois lados de a, pois H(a)=H′(a)=0 e H″(a)=−cos a.",
+      "Como a parte linear domina o cosseno limitado, H tende a sinais opostos em +∞ e −∞. Em um dos lados há troca de sinal entre perto de a e longe de a. Pelo valor intermediário existe outra raiz. Restam exatamente os pontos anunciados."
+    ],
+    "conditions_md": "A justificativa completa deve ser retomada após M6 e M7. A desigualdade |sen u|<|u| decorre do TVM e da monotonicidade de u−sen u para u>0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-022-SOL",
+    "exercise_id": "DER-L3-022",
+    "answer_md": "Sim, em a=kπ: a tangente é y=(−1)^k. Esses são todos os casos.",
+    "steps_md": [
+      "Nesses pontos sen a=0; a tangente é horizontal e cos x=(−1)^k em infinitas abscissas.",
+      "Se sen a≠0, fora de um intervalo limitado a reta está fora da faixa [−1,1]. Dentro desse intervalo, os zeros de H′=−sen x+sen a são finitos, pois em cada período a equação tem no máximo dois zeros.",
+      "Entre zeros consecutivos de H′, H é estritamente monótona e tem no máximo uma raiz; portanto o número de interseções é finito."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-023-SOL",
+    "exercise_id": "DER-L3-023",
+    "answer_md": "t₋=(21−√381)/6; t₊=(21+√381)/6. Para t≥0: positivo em [0,t₋) e (t₊,∞); negativo em (t₋,t₊); nulo em t₋ e t₊.",
+    "steps_md": [
+      "v=s′=6t²−42t+10=2(3t²−21t+5).",
+      "As raízes são (21±√381)/6, ambas positivas.",
+      "A parábola v tem coeficiente positivo: sinal positivo fora das raízes e negativo entre elas. Intersecte com o domínio físico t≥0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-036"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-023-a",
+        "answer_md": "[0,t₋) e(t₊,∞), para t≥0"
+      },
+      {
+        "subpart_id": "DER-L3-023-b",
+        "answer_md": "(t₋,t₊)"
+      },
+      {
+        "subpart_id": "DER-L3-023-velocidade_nula",
+        "answer_md": "t₋=(21−√381)/6 e t₊=(21+√381)/6"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-024-SOL",
+    "exercise_id": "DER-L3-024",
+    "answer_md": "y−2=16(x−2).",
+    "steps_md": [
+      "A função interna u vale 3 em x=2. Sua derivada 3x²−2x vale 8.",
+      "g′(2)=f′(3)·8=16.",
+      "A tangente passa por (2,2) com essa inclinação."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-037"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-025-SOL",
+    "exercise_id": "DER-L3-025",
+    "answer_md": "y′=−3/2 m/s: o topo desce a 1,5 m/s.",
+    "steps_md": [
+      "Se x é distância horizontal e y altura, x²+y²=25.",
+      "Derivando no tempo: 2xx′+2yy′=0, logo y′=−xx′/y.",
+      "Quando x=3, y=4; portanto y′=−3·2/4=−3/2."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-038"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-026-SOL",
+    "exercise_id": "DER-L3-026",
+    "answer_md": "$f'(x)=5(4x^3-2x^2+5)^4(12x^2-4x)$.",
+    "steps_md": [
+      "Tome u=4x³−2x²+5.",
+      "Use (u⁵)′=5u⁴u′ e u′=12x²−4x."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: R.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-010"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-027-SOL",
+    "exercise_id": "DER-L3-027",
+    "answer_md": "$f'(x)=500(5x-3)^{99}$.",
+    "steps_md": [
+      "A potência externa produz o fator 100.",
+      "A derivada interna é 5; o coeficiente final é 500."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: R.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-011"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-028-SOL",
+    "exercise_id": "DER-L3-028",
+    "answer_md": "$h\\prime(t)=-2[\\tan u]^{-3}\\sec^2u(15t^4-6t^2+1)$, $u=3t^5-2t^3+t$.",
+    "steps_md": [
+      "Defina u=3t⁵−2t³+t e v=tan u.",
+      "A derivada de v⁻² é −2v⁻³v′.",
+      "v′=sec²u·(15t⁴−6t²+1); substitua."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: sen u≠0 e cos u≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-012"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-029-SOL",
+    "exercise_id": "DER-L3-029",
+    "answer_md": "$k\\prime(s)=7(s^2+s^{-2})^6(2s-2s^{-3})$.",
+    "steps_md": [
+      "Identifique u=s²+s⁻².",
+      "u′=2s−2s⁻³; multiplique por 7u⁶."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: s≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-013"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-030-SOL",
+    "exercise_id": "DER-L3-030",
+    "answer_md": "$f'(x)=\\frac{10(2x-1)^9}{\\sqrt{(2x-1)^{10}+2}\\,[(2x-1)^{10}+3]}$.",
+    "steps_md": [
+      "Fixe a leitura arctan(√A), com A=(2x−1)¹⁰+2>0.",
+      "A′=20(2x−1)⁹; (√A)′=10(2x−1)⁹/√A.",
+      "A derivada de arctan(√A) é (√A)′/(1+A)."
+    ],
+    "conditions_md": "A notação da fonte não explicita os parênteses da função inversa. Adota-se arctan(√A), leitura pela potência aplicada ao bloco entre colchetes. Se a intenção fosse √(arctan A), a derivada seria 10(2x−1)⁹/[(1+A²)√(arctan A)]. Ambas as leituras são documentadas; não tratá-las como equivalentes.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-014",
+        "DER-CHECK-020"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-031-SOL",
+    "exercise_id": "DER-L3-031",
+    "answer_md": "$n\\prime(t)=20(t^{-4}-2t^{-2}+1)^{-6}(t^{-5}-t^{-3})$.",
+    "steps_md": [
+      "u=t⁻⁴−2t⁻²+1=(t⁻²−1)²; exclua t=0 e u=0.",
+      "u′=−4t⁻⁵+4t⁻³.",
+      "(u⁻⁵)′=−5u⁻⁶u′; distribua apenas o coeficiente."
+    ],
+    "conditions_md": "Domínio de validade da fórmula derivada: t∉{−1,0,1}.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-015"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-032-SOL",
+    "exercise_id": "DER-L3-032",
+    "answer_md": "w′(x₀)=f′(z₀)g′(y₀)h′(x₀); para n funções, produto das n derivadas nos argumentos intermediários.",
+    "steps_md": [
+      "A cadeia aplicada a v=g∘h dá v′(x₀)=g′(y₀)h′(x₀).",
+      "Aplicando-a a w=f∘v, w′(x₀)=f′(v(x₀))v′(x₀), que fornece a fórmula.",
+      "Indução: suponha a fórmula para n−1 funções. Componha a função externa restante e aplique uma vez a cadeia; surge o n-ésimo fator. Todas devem ser diferenciáveis nos respectivos argumentos intermediários."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-033-SOL",
+    "exercise_id": "DER-L3-033",
+    "answer_md": "P=(4,2), tangente y=x/2.",
+    "steps_md": [
+      "Para a>2, f′(a)=1/√(2a−4).",
+      "A condição f(a)−af′(a)=0 fornece (2a−4)−a=0, logo a=4.",
+      "f(4)=2 e f′(4)=1/2. Em a=2 há tangente vertical x=2, que não passa pela origem."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-039"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-034-SOL",
+    "exercise_id": "DER-L3-034",
+    "answer_md": "Par ⇒ f′(−x)=−f′(x). Ímpar ⇒ f′(−x)=f′(x).",
+    "steps_md": [
+      "No caso par, derive f(−x)=f(x): −f′(−x)=f′(x).",
+      "No caso ímpar, derive f(−x)=−f(x): −f′(−x)=−f′(x).",
+      "A conclusão vale em domínio simétrico onde a função seja diferenciável."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-035-SOL",
+    "exercise_id": "DER-L3-035",
+    "answer_md": "$f^{(n)}(x)=(-1)^n n!x^{-n-1}$ e $f^{(n)}(1)=(-1)^n n!$.",
+    "steps_md": [
+      "As primeiras derivadas são −x⁻², 2x⁻³ e −6x⁻⁴.",
+      "Base n=1 verificada. Supondo a fórmula para n, derive: (−1)ⁿn!(−n−1)x⁻ⁿ⁻²=(−1)ⁿ⁺¹(n+1)!x⁻ⁿ⁻².",
+      "A indução prova todas as ordens. Substitua x=1."
+    ],
+    "conditions_md": "x≠0.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-040"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-036-SOL",
+    "exercise_id": "DER-L3-036",
+    "answer_md": "$f^{(n)}(x)=\\left[\\prod_{j=0}^{n-1}(1/2-j)\\right]x^{1/2-n}=(-1)^{n-1}(2n-3)!!\\,x^{1/2-n}/2^n$.",
+    "steps_md": [
+      "A regra da potência produz os coeficientes 1/2, (1/2)(−1/2), (1/2)(−1/2)(−3/2), etc.",
+      "Assuma o produto para n e derive x^(1/2−n): aparece exatamente o fator seguinte 1/2−n.",
+      "A fórmula segue por indução. Na forma com duplo fatorial adote (−1)!!=1 para n=1."
+    ],
+    "conditions_md": "x>0; em zero não há derivada lateral finita de primeira ordem.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 8 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-041",
+        "DER-CHECK-042",
+        "DER-CHECK-043",
+        "DER-CHECK-044",
+        "DER-CHECK-045",
+        "DER-CHECK-046",
+        "DER-CHECK-047",
+        "DER-CHECK-048"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-037-SOL",
+    "exercise_id": "DER-L3-037",
+    "answer_md": "S′(x)=(π/180)cos(πx/180); C′(x)=−(π/180)sen(πx/180); T′(x)=(π/180)sec²(πx/180).",
+    "steps_md": [
+      "Defina S(x)=sen(πx/180), C(x)=cos(πx/180), T(x)=tan(πx/180).",
+      "A cadeia introduz π/180 em cada fórmula. Tangente só onde cos(πx/180)≠0.",
+      "Cosseno tem amplitude 1 em ambos os casos, mas período 360 no eixo em graus e 2π no eixo em radianos. O gráfico em graus é uma dilatação horizontal por 180/π."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-037-radianos.png",
+        "alt": "Esboço matemático do exercício37, ilustrando as conclusões da solução."
+      },
+      {
+        "path": "graficos/DER-L3-037-graus.png",
+        "alt": "Esboço matemático do exercício37, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-038-SOL",
+    "exercise_id": "DER-L3-038",
+    "answer_md": "Se f,g∈Cⁿ(R), então f∘g∈Cⁿ(R), para todo n≥1; o mesmo vale para C∞.",
+    "steps_md": [
+      "Para C¹, (f∘g)′=(f′∘g)g′ é contínua por composição e produto de contínuas.",
+      "Hipótese indutiva: composições de funções Cⁿ⁻¹ são Cⁿ⁻¹. Se f,g∈Cⁿ, então f′∈Cⁿ⁻¹ e g,g′∈Cⁿ⁻¹.",
+      "Assim f′∘g e o produto (f′∘g)g′ são Cⁿ⁻¹. Logo f∘g é Cⁿ. Produtos preservam Cᵏ por aplicações sucessivas da regra do produto, também demonstráveis por indução.",
+      "Se ambas são C∞, aplique a conclusão para cada n finito."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-039-SOL",
+    "exercise_id": "DER-L3-039",
+    "answer_md": "(a) f(u)=u²,g(x)=|x|. (b) f(u)=|u|,g(x)=x². (c) f(u)=u² para u≥0 e f(u)=u para u<0; g(x)=|x|. Nos três casos h(x)=x².",
+    "steps_md": [
+      "(a) g tem derivadas laterais −1 e1 em0, mas f(g(x))=|x|²=x².",
+      "(b) f tem canto em0, mas f(g(x))=|x²|=x².",
+      "(c) f tem derivada lateral esquerda1 e direita0 em0; g também não é derivável em0. Como g(x)≥0, a composição usa só o ramo quadrático: f(g(x))=|x|²=x².",
+      "A composição é diferenciável em toda R apesar dessas falhas. A cadeia fornece condição suficiente, sem recíproca."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-039-a",
+        "answer_md": "f(u)=u²,g(x)=|x|"
+      },
+      {
+        "subpart_id": "DER-L3-039-b",
+        "answer_md": "f(u)=|u|,g(x)=x²"
+      },
+      {
+        "subpart_id": "DER-L3-039-c",
+        "answer_md": "f(u)=u² se u≥0 e u se u<0; g(x)=|x|"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-040-SOL",
+    "exercise_id": "DER-L3-040",
+    "answer_md": "Para m≥0: $f^{(2m)}(0)=0$ e $f^{(2m+1)}(0)=[(2m-1)!!]^2$, com (−1)!!=1.",
+    "steps_md": [
+      "y′=(1−x²)⁻¹/² e y″=x(1−x²)⁻³/², portanto (1−x²)y″=xy′.",
+      "Derive n vezes e avalie em zero. No primeiro membro só sobrevivem y⁽ⁿ⁺²⁾(0)−n(n−1)y⁽ⁿ⁾(0); no segundo, n y⁽ⁿ⁾(0).",
+      "Logo a_(n+2)=n²a_n, para n≥0, com a₀=0 e a₁=1.",
+      "As ordens pares são zero. As ímpares são 1,1,9,225,…, o produto dos quadrados dos ímpares anteriores. Isso prova a fórmula sem expansão em série."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-049",
+        "DER-CHECK-050",
+        "DER-CHECK-051",
+        "DER-CHECK-052",
+        "DER-CHECK-053",
+        "DER-CHECK-054",
+        "DER-CHECK-055",
+        "DER-CHECK-056",
+        "DER-CHECK-057",
+        "DER-CHECK-058",
+        "DER-CHECK-059",
+        "DER-CHECK-060"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-041-SOL",
+    "exercise_id": "DER-L3-041",
+    "answer_md": "$f^{\\prime\\prime}(g(h))[g\\prime(h)]^2(h\\prime)^2+f\\prime(g(h))g^{\\prime\\prime}(h)(h\\prime)^2+f\\prime(g(h))g\\prime(h)h^{\\prime\\prime}$.",
+    "steps_md": [
+      "A primeira derivada é f′(g(h(x)))g′(h(x))h′(x).",
+      "Use produto de três fatores: derive um de cada vez, mantendo os outros dois.",
+      "O primeiro fator produz f″(g(h))g′(h)h′; o segundo g″(h)h′; o terceiro h″. Reúna os três termos da resposta."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-042-SOL",
+    "exercise_id": "DER-L3-042",
+    "answer_md": "Ou (i) a>0, ac−b²>0, α≠0, β=αb/a; ou (ii) a=b=0, c>0, α≠0, β arbitrário.",
+    "steps_md": [
+      "Primeiro q=ax²+2bx+c deve ser estritamente positivo em R. Isso ocorre exatamente em (i) a>0 e ac−b²>0, ou (ii) a=b=0,c>0.",
+      "Pelo quociente/cadeia, f′=[(αb−aβ)x+αc−bβ]/q^(3/2).",
+      "Um numerador afim nunca nulo em R precisa ser constante não nulo: αb−aβ=0 e αc−bβ≠0.",
+      "Em (i), substitua β=αb/a: a constante é α(ac−b²)/a, não nula se e somente se α≠0. Em (ii), a condição reduz-se a αc≠0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-061"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-043-SOL",
+    "exercise_id": "DER-L3-043",
+    "answer_md": "$y\\prime=-x^2/y^2$ onde y≠0.",
+    "steps_md": [
+      "a é constante. Derivando: 3x²+3y²y′=0.",
+      "Divida por 3y² se y≠0.",
+      "Se a=0, a relação real é y=−x: em (0,0) a fórmula 0/0 é inconclusiva, mas a função tem derivada −1. Se a≠0 e y=0, a equação derivada não permite uma derivada finita."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-062"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-044-SOL",
+    "exercise_id": "DER-L3-044",
+    "answer_md": "$y\\prime=-(3x^2+2xy)/(x^2+4y^3)$ quando o denominador é não nulo.",
+    "steps_md": [
+      "Derivando termo a termo: 3x²+2xy+x²y′+4y³y′=0.",
+      "Agrupe: (x²+4y³)y′=−3x²−2xy.",
+      "Se x²+4y³=0 na curva, os pontos possíveis são (0,0) e (27/256,−9/64). No segundo, 3x²+2xy≠0 e a equação derivada impossibilita y′ finita. Na origem, para qualquer ramo diferenciável com y(0)=0, escreva y(x)=mx+o(x); ao dividir a equação por x³ e tomar x→0 resulta 1+m=0, pois y⁴/x³→0. Logo um ramo diferenciável ali tem y′(0)=−1, embora a fórmula racional dê0/0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 5 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-063",
+        "DER-CHECK-067",
+        "DER-CHECK-068",
+        "DER-CHECK-069",
+        "DER-CHECK-070"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-045-SOL",
+    "exercise_id": "DER-L3-045",
+    "answer_md": "Se a≠0 e houver ramo real, y′=−1. Se a=b=0, não há derivada determinada pela equação. Se a=0,b≠0 ou b/a∉[0,1], não há ramo real.",
+    "steps_md": [
+      "Derivando: −2a cos(x+y)sen(x+y)(1+y′)=0.",
+      "Quando o coeficiente é não nulo, y′=−1 imediatamente.",
+      "Mesmo se b/a for 0 ou 1 e o coeficiente zerar, a conclusão para a≠0 permanece: cos²z=b/a tem um conjunto discreto de soluções z. Como x+y(x) é contínua num intervalo conectado e só assume valores nesse conjunto, é constante. Logo y=C−x e y′=−1.",
+      "Se a=0,b=0, a identidade 0=0 admite qualquer y diferenciável. Os demais casos acima são impossíveis."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-046-SOL",
+    "exercise_id": "DER-L3-046",
+    "answer_md": "$y\\prime=y/(\\sec^2y-x)$ onde sec²y−x≠0.",
+    "steps_md": [
+      "A cadeia dá sec²y·y′=y+xy′.",
+      "Agrupando, (sec²y−x)y′=y.",
+      "O domínio exige cos y≠0. O único ponto da curva em que sec²y−x=0 é (1,0): para y≠0, isso exigiria y=sen y cos y, impossível porque |sen(2y)|<2|y|. Naquele ponto, o ramo y=0 tem derivada0; todo ramo diferenciável em intervalo aberto passando por ele também tem derivada0 (pela expansão tan y=y+O(y³), a relação (x−1)y=O(y³) exclui derivada não nula)."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-064"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-047-SOL",
+    "exercise_id": "DER-L3-047",
+    "answer_md": "$y\\prime=\\dfrac{y[1-(x^2+y^2)]}{x[1+x^2+y^2]}$ para x≠0 e y≠0.",
+    "steps_md": [
+      "O domínio original exige y≠0.",
+      "Derivando: y+xy′=[(y−xy′)/y²]/[1+(x/y)²]=(y−xy′)/(x²+y²).",
+      "Multiplique por x²+y² e agrupe: x(1+x²+y²)y′=y(1−x²−y²).",
+      "Se x=0, o denominador da fórmula zera. Para um ramo diferenciável com y(0)=y₀≠0, arctan(x/y)=x/y+O(x³) dá y²=1+O(x²), portanto y₀=±1. Escrevendo y=y₀+mx+o(x), a mesma igualdade implica m=0. Assim os ramos diferenciáveis que passam por (0,±1) têm y′(0)=0; os outros pontos x=0,y≠0 não podem pertencer a tal ramo. A expansão usada é o Taylor finito de M10, ou pode ser conferida pela derivada da arctan."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-065"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-048-SOL",
+    "exercise_id": "DER-L3-048",
+    "answer_md": "$y\\prime=(x+y)^2=\\tan^2x$.",
+    "steps_md": [
+      "A cadeia dá (1+y′)/[1+(x+y)²]=1.",
+      "Logo y′=(x+y)².",
+      "A relação equivale a y=tan x−x, com −π/2<x<π/2, confirmando y′=sec²x−1=tan²x."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-066"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-049-SOL",
+    "exercise_id": "DER-L3-049",
+    "answer_md": "Crescente em $(2,\\infty)$; decrescente em $(-\\infty,2)$. Máximos locais: nenhum; mínimos locais: $(2,-1)$. Inflexões: nenhum.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=2 x - 4$ e $f\\prime\\prime=2$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(2,\\infty)$, negativo em $(-\\infty,2)$.",
+      "Para f″: positivo (convexa) em $(-\\infty,\\infty)$; negativo (côncava) em nenhum intervalo. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(2,\\infty)$; decrescente em $(-\\infty,2)$. Máximos locais: nenhum; mínimos locais: $(2,-1)$. Inflexões: nenhum."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-071",
+        "DER-CHECK-072"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-050-SOL",
+    "exercise_id": "DER-L3-050",
+    "answer_md": "Crescente em $(-1,1)$; decrescente em $(-\\infty,-1)$, $(1,\\infty)$. Máximos locais: $(1,6)$; mínimos locais: $(-1,2)$. Inflexões: $(0,4)$.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=3 - 3 x^{2}$ e $f\\prime\\prime=- 6 x$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-1,1)$, negativo em $(-\\infty,-1)$, $(1,\\infty)$.",
+      "Para f″: positivo (convexa) em $(-\\infty,0)$; negativo (côncava) em $(0,\\infty)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-1,1)$; decrescente em $(-\\infty,-1)$, $(1,\\infty)$. Máximos locais: $(1,6)$; mínimos locais: $(-1,2)$. Inflexões: $(0,4)$."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-073",
+        "DER-CHECK-074"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-051-SOL",
+    "exercise_id": "DER-L3-051",
+    "answer_md": "Crescente em $(-\\infty,-2)$, $(2,\\infty)$; decrescente em $(-2,0)$, $(0,2)$. Máximos locais: $(-2,-4)$; mínimos locais: $(2,4)$. Inflexões: nenhum.",
+    "steps_md": [
+      "Domínio: R exceto 0. Calcule $f\\prime=1 - \\frac{4}{x^{2}}$ e $f\\prime\\prime=\\frac{8}{x^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-\\infty,-2)$, $(2,\\infty)$, negativo em $(-2,0)$, $(0,2)$.",
+      "Para f″: positivo (convexa) em $(0,\\infty)$; negativo (côncava) em $(-\\infty,0)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-\\infty,-2)$, $(2,\\infty)$; decrescente em $(-2,0)$, $(0,2)$. Máximos locais: $(-2,-4)$; mínimos locais: $(2,4)$. Inflexões: nenhum."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-075",
+        "DER-CHECK-076"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-052-SOL",
+    "exercise_id": "DER-L3-052",
+    "answer_md": "Crescente em $(-\\infty,-1)$, $(-1,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: nenhum.",
+    "steps_md": [
+      "Domínio: R exceto -1. Calcule $f\\prime=\\frac{1}{\\left(x + 1\\right)^{2}}$ e $f\\prime\\prime=- \\frac{2}{\\left(x + 1\\right)^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-\\infty,-1)$, $(-1,\\infty)$, negativo em nenhum intervalo.",
+      "Para f″: positivo (convexa) em $(-\\infty,-1)$; negativo (côncava) em $(-1,\\infty)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-\\infty,-1)$, $(-1,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: nenhum."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-077",
+        "DER-CHECK-078"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-053-SOL",
+    "exercise_id": "DER-L3-053",
+    "answer_md": "Crescente em $(0,6)$, $(12,\\infty)$; decrescente em $(-\\infty,0)$, $(6,12)$. Máximos locais: $(6,1296)$; mínimos locais: $(0,0)$, $(12,0)$. Inflexões: $(6 - 2 \\sqrt{3},576)$, $(2 \\sqrt{3} + 6,576)$.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=4 x \\left(x - 12\\right) \\left(x - 6\\right)$ e $f\\prime\\prime=12 x^{2} - 144 x + 288$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(0,6)$, $(12,\\infty)$, negativo em $(-\\infty,0)$, $(6,12)$.",
+      "Para f″: positivo (convexa) em $(-\\infty,6 - 2 \\sqrt{3})$, $(2 \\sqrt{3} + 6,\\infty)$; negativo (côncava) em $(6 - 2 \\sqrt{3},2 \\sqrt{3} + 6)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(0,6)$, $(12,\\infty)$; decrescente em $(-\\infty,0)$, $(6,12)$. Máximos locais: $(6,1296)$; mínimos locais: $(0,0)$, $(12,0)$. Inflexões: $(6 - 2 \\sqrt{3},576)$, $(2 \\sqrt{3} + 6,576)$."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-079",
+        "DER-CHECK-080"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-054-SOL",
+    "exercise_id": "DER-L3-054",
+    "answer_md": "Crescente em nenhum intervalo; decrescente em $(-\\infty,-3)$, $(-3,\\infty)$. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: nenhum.",
+    "steps_md": [
+      "Domínio: R exceto -3. Calcule $f\\prime=- \\frac{1}{\\left(x + 3\\right)^{2}}$ e $f\\prime\\prime=\\frac{2}{\\left(x + 3\\right)^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em nenhum intervalo, negativo em $(-\\infty,-3)$, $(-3,\\infty)$.",
+      "Para f″: positivo (convexa) em $(-3,\\infty)$; negativo (côncava) em $(-\\infty,-3)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em nenhum intervalo; decrescente em $(-\\infty,-3)$, $(-3,\\infty)$. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: nenhum."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-081",
+        "DER-CHECK-082"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-055-SOL",
+    "exercise_id": "DER-L3-055",
+    "answer_md": "Crescente em $(-\\infty,0)$, $(0,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: $(-3,- \\frac{9}{4})$, $(0,0)$, $(3,\\frac{9}{4})$. A função é estritamente crescente em toda R, incluindo a passagem pelo ponto estacionário 0.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=\\frac{x^{2} \\left(x^{2} + 9\\right)}{\\left(x^{2} + 3\\right)^{2}}$ e $f\\prime\\prime=- \\frac{6 x \\left(x - 3\\right) \\left(x + 3\\right)}{\\left(x^{2} + 3\\right)^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-\\infty,0)$, $(0,\\infty)$, negativo em nenhum intervalo.",
+      "Para f″: positivo (convexa) em $(-\\infty,-3)$, $(0,3)$; negativo (côncava) em $(-3,0)$, $(3,\\infty)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-\\infty,0)$, $(0,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: $(-3,- \\frac{9}{4})$, $(0,0)$, $(3,\\frac{9}{4})$.",
+      "Em x=0, f′=0 sem troca de sinal; isso não interrompe a monotonicidade estrita nem cria extremo."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-083",
+        "DER-CHECK-084"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-056-SOL",
+    "exercise_id": "DER-L3-056",
+    "answer_md": "Crescente em $(1,\\infty)$; decrescente em $(-\\infty,0)$, $(0,1)$. Máximos locais: nenhum; mínimos locais: $(1,3)$. Inflexões: $(- \\sqrt[3]{2},0)$.",
+    "steps_md": [
+      "Domínio: R exceto 0. Calcule $f\\prime=2 x - \\frac{2}{x^{2}}$ e $f\\prime\\prime=2 + \\frac{4}{x^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(1,\\infty)$, negativo em $(-\\infty,0)$, $(0,1)$.",
+      "Para f″: positivo (convexa) em $(-\\infty,- \\sqrt[3]{2})$, $(0,\\infty)$; negativo (côncava) em $(- \\sqrt[3]{2},0)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(1,\\infty)$; decrescente em $(-\\infty,0)$, $(0,1)$. Máximos locais: nenhum; mínimos locais: $(1,3)$. Inflexões: $(- \\sqrt[3]{2},0)$."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-085",
+        "DER-CHECK-086"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-057-SOL",
+    "exercise_id": "DER-L3-057",
+    "answer_md": "Máximos globais em (−1,1) e (1,1); mínimo local em (0,0), sem mínimo global. Cresce em (−∞,−1) e (0,1); decresce em (−1,0) e (1,∞). Não há inflexões.",
+    "steps_md": [
+      "Para x<0, p=−2x−x², p′=−2−2x. Para x>0, p=2x−x², p′=2−2x.",
+      "As trocas de + para − em ±1 dão máximos. Em 0, a função é contínua e troca de decrescente para crescente, dando mínimo mesmo sem derivada.",
+      "As laterais de p′ em 0 são −2 e 2. Nos dois semieixos p″=−2, logo não há troca de concavidade em 0.",
+      "p=1−(|x|−1)²≤1 e p→−∞ no infinito: os máximos são globais e não há mínimo global."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-095"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-058-SOL",
+    "exercise_id": "DER-L3-058",
+    "answer_md": "Para x suficientemente grande, f(x)≥f(A)+(σ/2)(x−A)→∞.",
+    "steps_md": [
+      "Pela definição de f′→σ, existe A tal que t>A implica f′(t)>σ/2.",
+      "Para x>A, f é contínua em [A,x] e diferenciável em (A,x), portanto o TVM fornece c nesse intervalo com f(x)−f(A)=f′(c)(x−A).",
+      "Como c>A, a diferença é maior que (σ/2)(x−A). Essa cota tende a +∞, provando a conclusão."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-059-SOL",
+    "exercise_id": "DER-L3-059",
+    "answer_md": "Não. f(x)=(1+x²)^(1/4) é um contraexemplo.",
+    "steps_md": [
+      "Essa função é diferenciável em toda R porque 1+x²>0.",
+      "f′(x)=x/[2(1+x²)^(3/4)]→0, pois a razão cresce como 1/(2√x) para x>0 grande.",
+      "Entretanto f(x)≥√x para x≥0, logo tende a +∞. A conclusão de limite finito é falsa."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-096",
+        "DER-CHECK-097"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-060-SOL",
+    "exercise_id": "DER-L3-060",
+    "answer_md": "f′(x+T)=f′(x). Recíproca falsa: f(x)=x tem f′≡1.",
+    "steps_md": [
+      "Derivando f(x+T)=f(x), a cadeia dá f′(x+T)=f′(x).",
+      "Para f(x)=x, a derivada 1 é periódica para qualquer T>0.",
+      "Porém f(x+T)=x+T≠x para T>0. Logo a função não é periódica."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-061-SOL",
+    "exercise_id": "DER-L3-061",
+    "answer_md": "ξ=(a+b)/2.",
+    "steps_md": [
+      "Escreva f(x)=Ax²+Bx+C, com A≠0.",
+      "Divida f(b)−f(a) por b−a: A(a+b)+B. Igualando a f′(ξ)=2Aξ+B, obtém-se ξ=(a+b)/2.",
+      "Como a<b, esse ponto está no intervalo; como A≠0, a equação linear determina ξ unicamente. As hipóteses do TVM também são satisfeitas."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-098"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-062-SOL",
+    "exercise_id": "DER-L3-062",
+    "answer_md": "Segue do Teorema de Rolle.",
+    "steps_md": [
+      "Se a<b e f(a)=f(b)=0, o polinômio é contínuo em [a,b] e diferenciável em (a,b).",
+      "Rolle fornece c∈(a,b) com f′(c)=0.",
+      "O teorema garante existência, não unicidade. O polinômio identicamente zero também satisfaz a conclusão."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-063-SOL",
+    "exercise_id": "DER-L3-063",
+    "answer_md": "Não há pontos de inflexão.",
+    "steps_md": [
+      "Se f=Ax²+Bx+C com A≠0, f″=2A tem sinal constante.",
+      "A função é estritamente convexa em toda R se A>0 e estritamente côncava se A<0.",
+      "Não há mudança de concavidade, condição necessária para inflexão."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-064-SOL",
+    "exercise_id": "DER-L3-064",
+    "answer_md": "Abscissa c=−B/(3A), se f=Ax³+Bx²+Cx+D, A≠0.",
+    "steps_md": [
+      "f″=6Ax+2B tem exatamente uma raiz c=−B/(3A).",
+      "Sendo afim com inclinação não nula, f″ troca de sinal nesse ponto.",
+      "A função é contínua e muda de concavidade ali; fora dele não há outros zeros de f″. A inflexão é (c,f(c))."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-065-SOL",
+    "exercise_id": "DER-L3-065",
+    "answer_md": "Para x>a+1, f(x)≥f(a)+(x−a)[f(a+1)−f(a)]→∞.",
+    "steps_md": [
+      "Ponha m=f(a+1)−f(a)>0.",
+      "A convexidade implica que, para x>a+1, a inclinação da secante de a até x é pelo menos a inclinação de a até a+1: [f(x)−f(a)]/(x−a)≥m.",
+      "Multiplique por x−a>0 para obter a cota linear. Ela cresce sem limite porque m>0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-066-SOL",
+    "exercise_id": "DER-L3-066",
+    "answer_md": "Único ponto: (−1/√3,3/4); inclinação máxima 3√3/8.",
+    "steps_md": [
+      "O objetivo é m(x)=f′(x)=−2x/(1+x²)², não f(x).",
+      "m′(x)=(6x²−2)/(1+x²)³; seus zeros são ±1/√3.",
+      "m′ é positivo fora desses zeros e negativo entre eles. Logo −1/√3 dá máximo local e +1/√3 mínimo local.",
+      "m→0 nos dois infinitos e o máximo local é positivo, portanto é global. Substitua a abscissa em f e m."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-099",
+        "DER-CHECK-100"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-067-SOL",
+    "exercise_id": "DER-L3-067",
+    "answer_md": "x=y=a/2; produto máximo a²/4.",
+    "steps_md": [
+      "Elimine y=a−x e use 0<x<a.",
+      "P(x)=ax−x²; P′=a−2x e P″=−2<0.",
+      "O único crítico é x=a/2, admissível. Ou complete o quadrado: P=a²/4−(x−a/2)², provando máximo global."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-101"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-068-SOL",
+    "exercise_id": "DER-L3-068",
+    "answer_md": "Base 4, altura 8, área máxima 32.",
+    "steps_md": [
+      "A mesma altura h dos vértices superiores implica abscissas ±x; tome 0≤x≤√12.",
+      "Área A=2x(12−x²); A′=24−6x².",
+      "O crítico positivo é x=2; A cresce antes e decresce depois. As bordas dão área zero.",
+      "Base=2x=4 e altura=12−4=8."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-102"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-069-SOL",
+    "exercise_id": "DER-L3-069",
+    "answer_md": "(a) (c−1/2,√(c−1/2)); (b) (0,0). Em c=1/2, a fórmula de (a) também dá (0,0).",
+    "steps_md": [
+      "Para x≥0, a distância ao quadrado é D²=(x−c)²+x. Minimizar D² equivale a minimizar D, pois a raiz é crescente.",
+      "Derivada: 2x−2c+1; a segunda derivada é 2>0.",
+      "Se c≥1/2, o vértice x=c−1/2 pertence ao domínio; se c<1/2, a derivada é positiva em todo x≥0 e o mínimo está na borda x=0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-103"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-069-a",
+        "answer_md": "(c−1/2,√(c−1/2))"
+      },
+      {
+        "subpart_id": "DER-L3-069-b",
+        "answer_md": "(0,0)"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-070-SOL",
+    "exercise_id": "DER-L3-070",
+    "answer_md": "Base b/2, altura h/2; lados iguais √(b²/16+h²/4); área bh/8.",
+    "steps_md": [
+      "Tome t como a altura da base paralela em relação à base original, com 0≤t≤h.",
+      "Por semelhança, o comprimento da seção horizontal é B(t)=b(1−t/h). O triângulo inscrito tem altura t e área A(t)=bt(1−t/h)/2.",
+      "A′=(b/2)(1−2t/h); A″=−b/h<0. O máximo ocorre em t=h/2.",
+      "Substitua para obter a base e a área; Pitágoras dá os lados iguais."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-071-SOL",
+    "exercise_id": "DER-L3-071",
+    "answer_md": "(a) λ=−5 ou 27. (b) −5<λ<27.",
+    "steps_md": [
+      "f′=3(x+1)(x−3): máximo local em −1, mínimo local em 3.",
+      "f(−1)=λ+5 e f(3)=λ−27. A raiz é dupla se algum desses valores é zero; f″(−1)=−12 e f″(3)=12 são não nulos.",
+      "Para três raízes distintas, o máximo precisa ser positivo e o mínimo negativo, ou seja λ>−5 e λ<27.",
+      "A monotonicidade nos três intervalos, os sinais no infinito e o valor intermediário dão exatamente uma raiz em cada intervalo. Nas igualdades, há apenas duas raízes distintas, uma dupla."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-108",
+        "DER-CHECK-109"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-071-a",
+        "answer_md": "λ=−5 ou27"
+      },
+      {
+        "subpart_id": "DER-L3-071-b",
+        "answer_md": "−5<λ<27"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-072-SOL",
+    "exercise_id": "DER-L3-072",
+    "answer_md": "Seno: x=kπ. Cosseno: x=π/2+kπ, k∈Z.",
+    "steps_md": [
+      "Para seno, f″=−sen x, que se anula e troca de sinal exatamente nos kπ.",
+      "Para cosseno, f″=−cos x, que troca de sinal exatamente nos π/2+kπ.",
+      "Entre zeros consecutivos os sinais são constantes. Como as funções são contínuas, as trocas correspondem a inflexões e não há outras."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-073-SOL",
+    "exercise_id": "DER-L3-073",
+    "answer_md": "x=(5−√7)/6 dm≈0,392375 dm.",
+    "steps_md": [
+      "A altura é x, e a base tem lados 3−2x e 2−2x; portanto 0<x<1.",
+      "V=x(3−2x)(2−2x)=6x−10x²+4x³.",
+      "V′=6−20x+12x²=0 dá x=(5±√7)/6. Só a raiz menor é admissível.",
+      "A derivada muda de + para − nessa raiz; o volume tende a zero nas duas bordas. Logo ela dá máximo global."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-104"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-074-SOL",
+    "exercise_id": "DER-L3-074",
+    "answer_md": "Raio r=2 m e altura h=6 m.",
+    "steps_md": [
+      "Meça custo na unidade do material lateral: C=3πr²+2πrh. A restrição é πr²h=24π, portanto h=24/r².",
+      "C(r)=3πr²+48π/r para r>0.",
+      "C′=6πr−48π/r²=0 implica r³=8, logo r=2. C″=6π+96π/r³>0 em r>0.",
+      "C tende a +∞ nas duas fronteiras r→0⁺ e r→∞, portanto o crítico é o mínimo global. h=24/4=6."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-105"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-075-SOL",
+    "exercise_id": "DER-L3-075",
+    "answer_md": "Raio r=9/[2(3+π)] m; largura 2r=9/(3+π) m; altura retangular h=3(6+π)/[4(3+π)] m.",
+    "steps_md": [
+      "O perímetro externo é 2h+2r+πr=6; o diâmetro interno não é contado outra vez. Assim h=[6−(2+π)r]/2, com 0≤r≤6/(2+π).",
+      "A luminosidade relativa é L=2rh+(2/3)(πr²/2)=2rh+πr²/3.",
+      "Substitua h: L=6r−(2+2π/3)r². É uma parábola estritamente côncava.",
+      "L′=6−(4+4π/3)r=0 dá o r anunciado, que está no domínio. Substitua na restrição para h; a concavidade prova máximo global."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-106"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-076-SOL",
+    "exercise_id": "DER-L3-076",
+    "answer_md": "Às 13h + 1250/949 horas, aproximadamente 14h19min01,83s.",
+    "steps_md": [
+      "Use B(0)=(0,0) e A(0)=(0,−50). Após t horas: A=(0,−50+25t), B=(−18t,0).",
+      "D²=324t²+(50−25t)²=949t²−2500t+2500, para t≥0.",
+      "A parábola convexa tem vértice em t=2500/(2·949)=1250/949.",
+      "Some esse intervalo a 13h, convertendo a parte fracionária em minutos e segundos."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-107"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-077-SOL",
+    "exercise_id": "DER-L3-077",
+    "answer_md": "Caminhar toda a semicircunferência, sem nadar. Tempo mínimo πR/(2v), se v é a velocidade de nado.",
+    "steps_md": [
+      "Considere R o raio e α∈[0,π] o arco total caminhado, em radianos, ao longo de uma semicircunferência na direção do destino. O nado em linha reta é uma corda de ângulo central π−α, comprimento 2R cos(α/2).",
+      "Como caminhar tem velocidade 2v, T(α)=(R/v)[α/2+2cos(α/2)]. T′=(R/v)[1/2−sen(α/2)].",
+      "O único crítico interior α=π/3 é máximo, pois T″=−(R/(2v))cos(α/2)<0 no interior. Compare bordas: T(0)=2R/v e T(π)=πR/(2v), menor.",
+      "A conclusão é global mesmo permitindo vários trechos. Entre quaisquer dois pontos da borda, seja θ∈(0,π] o menor ângulo central. Pela concavidade do seno em[0,π/2], sen(θ/2)≥θ/π. Nadar a corda leva 2Rsen(θ/2)/v≥2Rθ/(πv), enquanto caminhar o arco menor leva Rθ/(2v), estritamente menos porque π<4. Substituir cada trecho nadado por esse arco reduz o tempo; entre rotas só caminhadas, a menor para pontos diametrais é a semicircunferência. Logo nenhuma combinação supera caminhar todo o percurso."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 3 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-110",
+        "DER-CHECK-111",
+        "DER-CHECK-112"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-078-SOL",
+    "exercise_id": "DER-L3-078",
+    "answer_md": "Distância da fonte 1: $x=\\dfrac{l\\sqrt[3]{P_1}}{\\sqrt[3]{P_1}+\\sqrt[3]{P_2}}$.",
+    "steps_md": [
+      "Despreze uma constante positiva comum: I(x)=P₁/x²+P₂/(l−x)², 0<x<l.",
+      "I′=−2P₁/x³+2P₂/(l−x)³. Igualando a zero: x/(l−x)=(P₁/P₂)^(1/3).",
+      "Resolva a proporção para obter x.",
+      "I″=6P₁/x⁴+6P₂/(l−x)⁴>0; há um único mínimo e I→∞ nas duas pontas."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-113"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-079-SOL",
+    "exercise_id": "DER-L3-079",
+    "answer_md": "Existência pela continuidade em compacto; unicidade pela convexidade estrita.",
+    "steps_md": [
+      "O Teorema do Valor Extremo garante um minimizador em I, pois I é compacto e f contínua.",
+      "Se houvesse dois minimizadores distintos u<v com valor m, seu ponto médio estaria em I.",
+      "A convexidade estrita daria f((u+v)/2)<[f(u)+f(v)]/2=m, contradição.",
+      "Se I contém um só ponto, a conclusão é imediata."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-080-SOL",
+    "exercise_id": "DER-L3-080",
+    "answer_md": "f(x)=x² em I=(0,1) é contínua e estritamente convexa, mas não atinge mínimo.",
+    "steps_md": [
+      "f″=2>0, logo a função é estritamente convexa.",
+      "Para todo x∈(0,1), x/2 também pertence ao intervalo e f(x/2)=f(x)/4<f(x).",
+      "Assim não há minimizador, embora o ínfimo seja 0. O que falha é a existência; convexidade estrita ainda impede dois minimizadores se algum existir."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-081-SOL",
+    "exercise_id": "DER-L3-081",
+    "answer_md": "Crescente em $(-\\infty,0)$, $(2,\\infty)$; decrescente em $(0,2)$. Máximos locais: $(0,0)$; mínimos locais: $(2,-4)$. Inflexões: $(1,-2)$.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=3 x \\left(x - 2\\right)$ e $f\\prime\\prime=6 x - 6$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-\\infty,0)$, $(2,\\infty)$, negativo em $(0,2)$.",
+      "Para f″: positivo (convexa) em $(1,\\infty)$; negativo (côncava) em $(-\\infty,1)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-\\infty,0)$, $(2,\\infty)$; decrescente em $(0,2)$. Máximos locais: $(0,0)$; mínimos locais: $(2,-4)$. Inflexões: $(1,-2)$.",
+      "Interceptos com o eixo x: $x=0$, $x=3$.",
+      "Comportamento nas fronteiras: $\\lim_{x\\to -\\infty}f(x)=-\\infty$; $\\lim_{x\\to \\infty}f(x)=\\infty$. Trace ramos contínuos que respeitem esses dados, os extremos e as inflexões; não una através de polos."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-087",
+        "DER-CHECK-088"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-081.png",
+        "alt": "Esboço matemático do exercício81, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-082-SOL",
+    "exercise_id": "DER-L3-082",
+    "answer_md": "Crescente em $(1,\\infty)$; decrescente em $(-\\infty,0)$, $(0,1)$. Máximos locais: nenhum; mínimos locais: $(1,3)$. Inflexões: $(- \\sqrt[3]{2},0)$.",
+    "steps_md": [
+      "Domínio: R exceto 0. Calcule $f\\prime=2 x - \\frac{2}{x^{2}}$ e $f\\prime\\prime=2 + \\frac{4}{x^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(1,\\infty)$, negativo em $(-\\infty,0)$, $(0,1)$.",
+      "Para f″: positivo (convexa) em $(-\\infty,- \\sqrt[3]{2})$, $(0,\\infty)$; negativo (côncava) em $(- \\sqrt[3]{2},0)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(1,\\infty)$; decrescente em $(-\\infty,0)$, $(0,1)$. Máximos locais: nenhum; mínimos locais: $(1,3)$. Inflexões: $(- \\sqrt[3]{2},0)$.",
+      "Interceptos com o eixo x: $x=- \\sqrt[3]{2}$.",
+      "Comportamento nas fronteiras: $\\lim_{x\\to 0^-}f(x)=-\\infty$; $\\lim_{x\\to 0^+}f(x)=\\infty$; $\\lim_{x\\to -\\infty}f(x)=\\infty$; $\\lim_{x\\to \\infty}f(x)=\\infty$. Trace ramos contínuos que respeitem esses dados, os extremos e as inflexões; não una através de polos.",
+      "Para |x| grande, f(x)−x²=2/x→0: o ramo acompanha a parábola x², não uma reta horizontal."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-089",
+        "DER-CHECK-090"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-082.png",
+        "alt": "Esboço matemático do exercício82, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-083-SOL",
+    "exercise_id": "DER-L3-083",
+    "answer_md": "Crescente em $(-2,2)$; decrescente em $(-\\infty,-2)$, $(2,\\infty)$. Máximos locais: $(2,1)$; mínimos locais: $(-2,-1)$. Inflexões: $(- 2 \\sqrt{3},- \\frac{\\sqrt{3}}{2})$, $(0,0)$, $(2 \\sqrt{3},\\frac{\\sqrt{3}}{2})$.",
+    "steps_md": [
+      "Domínio: R. Calcule $f\\prime=- \\frac{4 \\left(x - 2\\right) \\left(x + 2\\right)}{\\left(x^{2} + 4\\right)^{2}}$ e $f\\prime\\prime=\\frac{8 x \\left(x^{2} - 12\\right)}{\\left(x^{2} + 4\\right)^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-2,2)$, negativo em $(-\\infty,-2)$, $(2,\\infty)$.",
+      "Para f″: positivo (convexa) em $(- 2 \\sqrt{3},0)$, $(2 \\sqrt{3},\\infty)$; negativo (côncava) em $(-\\infty,- 2 \\sqrt{3})$, $(0,2 \\sqrt{3})$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-2,2)$; decrescente em $(-\\infty,-2)$, $(2,\\infty)$. Máximos locais: $(2,1)$; mínimos locais: $(-2,-1)$. Inflexões: $(- 2 \\sqrt{3},- \\frac{\\sqrt{3}}{2})$, $(0,0)$, $(2 \\sqrt{3},\\frac{\\sqrt{3}}{2})$.",
+      "Interceptos com o eixo x: $x=0$.",
+      "Comportamento nas fronteiras: $\\lim_{x\\to -\\infty}f(x)=0$; $\\lim_{x\\to \\infty}f(x)=0$. Trace ramos contínuos que respeitem esses dados, os extremos e as inflexões; não una através de polos.",
+      "A função é ímpar e tem assíntota horizontal y=0."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-091",
+        "DER-CHECK-092"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-083.png",
+        "alt": "Esboço matemático do exercício83, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-084-SOL",
+    "exercise_id": "DER-L3-084",
+    "answer_md": "Crescente em $(-\\infty,0)$, $(0,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: $(-1,2)$, $(1,-2)$.",
+    "steps_md": [
+      "Domínio: R exceto 0. Calcule $f\\prime=\\frac{3 \\left(x^{4} + 1\\right)}{x^{2}}$ e $f\\prime\\prime=6 x - \\frac{6}{x^{3}}$.",
+      "Os zeros e polos dos fatores delimitam intervalos sem troca de sinal interna. Para f′: sinal positivo em $(-\\infty,0)$, $(0,\\infty)$, negativo em nenhum intervalo.",
+      "Para f″: positivo (convexa) em $(-1,0)$, $(1,\\infty)$; negativo (côncava) em $(-\\infty,-1)$, $(0,1)$. Só há inflexão em ponto do domínio onde a concavidade muda.",
+      "Classifique as trocas de f′: + para − dá máximo; − para + dá mínimo. As coordenadas resultam de substituir cada abscissa em f. Crescente em $(-\\infty,0)$, $(0,\\infty)$; decrescente em nenhum intervalo. Máximos locais: nenhum; mínimos locais: nenhum. Inflexões: $(-1,2)$, $(1,-2)$.",
+      "Interceptos com o eixo x: $x=- \\sqrt[4]{3}$, $x=\\sqrt[4]{3}$.",
+      "Comportamento nas fronteiras: $\\lim_{x\\to 0^-}f(x)=\\infty$; $\\lim_{x\\to 0^+}f(x)=-\\infty$; $\\lim_{x\\to -\\infty}f(x)=-\\infty$; $\\lim_{x\\to \\infty}f(x)=\\infty$. Trace ramos contínuos que respeitem esses dados, os extremos e as inflexões; não una através de polos.",
+      "f(x)−x³=−3/x→0: comportamento cúbico no infinito; assíntota vertical x=0, sem assíntota horizontal."
+    ],
+    "conditions_md": "Extremos acima são locais. Em intervalos desconectados, monotonicidade é afirmada em cada componente indicada. As tabelas usam intervalos abertos; pontos críticos contínuos podem ser incluídos como extremidades.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-093",
+        "DER-CHECK-094"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-084.png",
+        "alt": "Esboço matemático do exercício84, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-085-SOL",
+    "exercise_id": "DER-L3-085",
+    "answer_md": "Domínio (−2,2); função par, positiva; mínimo global (0,2); decresce em (−2,0), cresce em (0,2); estritamente convexa; sem inflexões; assíntotas verticais x=±2.",
+    "steps_md": [
+      "O denominador exige 4−x²>0. A função é par e u(0)=2; não tem zeros.",
+      "u′=4x/(4−x²)^(3/2), com sinal de x.",
+      "u″=8(x²+2)/(4−x²)^(5/2)>0 em todo domínio.",
+      "Nos limites x→−2⁺ e x→2⁻, u→+∞. Esboce um ramo convexo em forma de vale, simétrico e com fundo em (0,2)."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-114"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-085.png",
+        "alt": "Esboço matemático do exercício85, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-086-SOL",
+    "exercise_id": "DER-L3-086",
+    "answer_md": "v=√2 sen(x+π/4): amplitude √2, período 2π, máximos em (π/4+2kπ,√2), mínimos em (5π/4+2kπ,−√2), inflexões em (−π/4+kπ,0).",
+    "steps_md": [
+      "A identidade de adição fornece √2 sen(x+π/4). Os zeros são −π/4+kπ e v(0)=1.",
+      "v′=cos x−sen x=√2 cos(x+π/4): cresce em (−3π/4+2kπ,π/4+2kπ) e decresce em (π/4+2kπ,5π/4+2kπ).",
+      "v″=−v: é convexa onde v<0 e côncava onde v>0; troca nos zeros de v.",
+      "Desenhe um período com esses pontos e repita por translação de 2π. Não há assíntotas."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-115"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "assets": [
+      {
+        "path": "graficos/DER-L3-086.png",
+        "alt": "Esboço matemático do exercício86, ilustrando as conclusões da solução."
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-087-SOL",
+    "exercise_id": "DER-L3-087",
+    "answer_md": "dw=(3z²−6z+2)dz; Δw≈−1,3.",
+    "steps_md": [
+      "A derivada em z é 3z²−6z+2; portanto dw é esse coeficiente multiplicado por dz.",
+      "Em z=4, w′=26 e dz=−0,05.",
+      "Logo dw=−1,3 estima a variação. w(4)=17; o valor final é estimado por 15,7. Não confundir variação com valor da função."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-116"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-088-SOL",
+    "exercise_id": "DER-L3-088",
+    "answer_md": "f(1,02)≈1,04.",
+    "steps_md": [
+      "f(1)=1 e f′=2x/(2−x²)², logo f′(1)=2.",
+      "dx=0,02; dy=2·0,02=0,04.",
+      "f(1+dx)≈f(1)+dy=1,04."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-117"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-089-SOL",
+    "exercise_id": "DER-L3-089",
+    "answer_md": "ΔA≈0,96π m²≈3,01593 m².",
+    "steps_md": [
+      "A=πr², dA=2πr dr.",
+      "Com r=8 e dr=0,06, dA=2π·8·0,06=0,96π.",
+      "O aumento exato seria π(2r dr+dr²); a estimativa desconsidera πdr²=0,0036π."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-118"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-090-SOL",
+    "exercise_id": "DER-L3-090",
+    "answer_md": "ΔS≈0,08π m²≈0,251327 m².",
+    "steps_md": [
+      "O raio inicial é 1 m e seu acréscimo é 0,01 m, metade do acréscimo do diâmetro.",
+      "dS=8πr dr=8π·1·0,01=0,08π.",
+      "Equivalentemente S=πD² e dS=2πD dD com D=2 e dD=0,02."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-119"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-091-SOL",
+    "exercise_id": "DER-L3-091",
+    "answer_md": "Δr=3/π cm (exato); ΔA≈90 cm².",
+    "steps_md": [
+      "C=2πr é linear, portanto Δr=ΔC/(2π)=6/(2π)=3/π.",
+      "A=πr²; dA=2πr dr. Usando r=15 e dr=3/π, dA=90.",
+      "A variação real de área é 90+9/π cm²; a diferencial fornece a primeira parcela."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-120"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-092-SOL",
+    "exercise_id": "DER-L3-092",
+    "answer_md": "Aproximação 24,19; exato 24,190701; erro absoluto 0,000701.",
+    "steps_md": [
+      "f(3)=27−18+12+3=24; f′(x)=3x²−4x+4, f′(3)=19.",
+      "A linearização é 24+19·0,01=24,19.",
+      "A expansão exata acrescenta 7·(0,01)²+(0,01)³=0,000701. Portanto P=24,190701."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-121"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-093-SOL",
+    "exercise_id": "DER-L3-093",
+    "answer_md": "$P_n(x)=\\sum_{k=0}^n f^{(k)}(a)(x-a)^k/k!=f(x)$.",
+    "steps_md": [
+      "Expanda f(a+h) pelo binômio como polinômio em h: Σc_k hᵏ.",
+      "Derivando k vezes e avaliando h=0, resulta f⁽ᵏ⁾(a)=k!c_k, logo c_k=f⁽ᵏ⁾(a)/k!.",
+      "Como o grau é n, não há termos depois de hⁿ. Substitua h=x−a; a identidade vale para todo real, não só perto do centro.",
+      "Alternativamente, o resto de Lagrange é nulo porque f⁽ⁿ⁺¹⁾≡0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-094-SOL",
+    "exercise_id": "DER-L3-094",
+    "answer_md": "$P_3(x)=1-\\frac12(x-\\pi/2)^2$.",
+    "steps_md": [
+      "As derivadas de ordens 0,1,2,3 no centro são 1,0,−1,0.",
+      "Insira em f(a)+f′(a)h+f″(a)h²/2!+f‴(a)h³/3!, h=x−π/2.",
+      "Termos ímpares nulos não mudam o fato de ser o Taylor de ordem 3, embora o grau efetivo seja 2."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-122",
+        "DER-CHECK-123",
+        "DER-CHECK-124",
+        "DER-CHECK-125"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-095-SOL",
+    "exercise_id": "DER-L3-095",
+    "answer_md": "$P_3=\\frac{\\sqrt2}{2}(1-h-h^2/2+h^3/6)$, $h=x-\\pi/4$.",
+    "steps_md": [
+      "As derivadas no centro são √2/2, −√2/2, −√2/2, √2/2.",
+      "Divida cada derivada de ordem k por k! e multiplique por hᵏ.",
+      "Fatore √2/2 para obter a resposta."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-126",
+        "DER-CHECK-127",
+        "DER-CHECK-128",
+        "DER-CHECK-129"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-096-SOL",
+    "exercise_id": "DER-L3-096",
+    "answer_md": "$P_3=2+h/4-h^2/64+h^3/512$, h=x−4.",
+    "steps_md": [
+      "f(4)=2; f′(4)=1/4; f″(4)=−1/32; f‴(4)=3/256.",
+      "Divida por 1!, 2! e 3!, respectivamente.",
+      "Os coeficientes são 1/4, −1/64 e 1/512."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 4 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-130",
+        "DER-CHECK-131",
+        "DER-CHECK-132",
+        "DER-CHECK-133"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-097-SOL",
+    "exercise_id": "DER-L3-097",
+    "answer_md": "$P_4=1+2h+2h^2+(8/3)h^3+(10/3)h^4$, h=x−π/4.",
+    "steps_md": [
+      "Use t=tan x, t′=1+t². As derivadas seguintes podem ser obtidas derivando polinômios em t e multiplicando por 1+t².",
+      "No centro t=1, as derivadas de ordens 0 a 4 são 1,2,4,16,80.",
+      "Divida por k!: coeficientes 1,2,2,8/3,10/3."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 5 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-134",
+        "DER-CHECK-135",
+        "DER-CHECK-136",
+        "DER-CHECK-137",
+        "DER-CHECK-138"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-098-SOL",
+    "exercise_id": "DER-L3-098",
+    "answer_md": "sen89°≈1−π²/64800≈0,9998476913; cos47°≈(√2/2)[1−π/90−(π/90)²/2+(π/90)³/6]≈0,6819983166; √4,03≈2+0,03/4−0,03²/64+0,03³/512≈2,0074859902.",
+    "steps_md": [
+      "Para seno, o deslocamento em relação a 90° é −π/180 radianos; substitua no P₃ do 94.",
+      "Para cosseno, o deslocamento em relação a 45° é +2π/180=π/90; use o P₃ do 95.",
+      "Para raiz, o deslocamento em relação a 4 é 0,03; use o P₃ do 96.",
+      "São aproximações, não igualdades exatas. Uma cota do erro deve usar o resto no intervalo entre centro e ponto."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": [
+      {
+        "subpart_id": "DER-L3-098-sen89",
+        "answer_md": "1−π²/64800"
+      },
+      {
+        "subpart_id": "DER-L3-098-cos47",
+        "answer_md": "(√2/2)[1−π/90−(π/90)²/2+(π/90)³/6]"
+      },
+      {
+        "subpart_id": "DER-L3-098-raiz4_03",
+        "answer_md": "2+0,03/4−0,03²/64+0,03³/512"
+      }
+    ]
+  },
+  {
+    "id": "DER-L3-099-SOL",
+    "exercise_id": "DER-L3-099",
+    "answer_md": "$|\\cos x-(1-x^2/2)|\\le |x|^4/24<1/384\\approx0,00260417$.",
+    "steps_md": [
+      "O Taylor de ordem 3 do cosseno em zero é 1−x²/2, pois o termo cúbico é nulo.",
+      "Pelo resto de Lagrange, E₃=cos(ξ)x⁴/4! para ξ entre 0 e x.",
+      "Como |cos ξ|≤1, |E₃|≤|x|⁴/24. Use |x|<1/2 para a cota uniforme."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-139"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-100-SOL",
+    "exercise_id": "DER-L3-100",
+    "answer_md": "8/9.",
+    "steps_md": [
+      "Numerador e denominador tendem a zero. São diferenciáveis e a derivada do denominador 2x+1 é não nula perto de 4.",
+      "L’Hôpital dá lim 2x/(2x+1)=8/9.",
+      "Conferência: fatorando, a razão se reduz a (x+4)/(x+5) para x≠4."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-140",
+        "DER-CHECK-141"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-101-SOL",
+    "exercise_id": "DER-L3-101",
+    "answer_md": "2.",
+    "steps_md": [
+      "A forma é 0/0. Depois da primeira aplicação: tan²x/(1−cos x).",
+      "No domínio perfurado próximo de zero, tan²x/(1−cos x)=(1−cos²x)/[cos²x(1−cos x)]=(1+cos x)/cos²x.",
+      "O limite dessa expressão é 2. A derivada do denominador original é 1−cos x>0 para 0<|x| pequeno, justificando L’Hôpital."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-142",
+        "DER-CHECK-143"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-102-SOL",
+    "exercise_id": "DER-L3-102",
+    "answer_md": "1/3.",
+    "steps_md": [
+      "Una as frações: (x²−sen²x)/(x²sen²x), forma 0/0.",
+      "Defina N=x²−sen²x e D=x²sen²x. Em zero, N e D e suas três primeiras derivadas são nulas.",
+      "N⁽⁴⁾(0)=8 e D⁽⁴⁾(0)=24. Aplicando L’Hôpital quatro vezes, o limite é 8/24=1/3.",
+      "A legitimidade das reaplicações pode ser conferida perto de zero: D⁽⁴⁾ é contínua e positiva perto de 0; como D‴(0)=D″(0)=D′(0)=0, TVM garante que D‴, D″ e D′ não se anulam num intervalo perfurado suficientemente pequeno. As formas intermediárias continuam 0/0."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-144",
+        "DER-CHECK-145",
+        "DER-CHECK-150",
+        "DER-CHECK-151",
+        "DER-CHECK-152",
+        "DER-CHECK-153",
+        "DER-CHECK-154",
+        "DER-CHECK-155",
+        "DER-CHECK-156",
+        "DER-CHECK-157",
+        "DER-CHECK-158",
+        "DER-CHECK-159"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-103-SOL",
+    "exercise_id": "DER-L3-103",
+    "answer_md": "Se a=0: 0 para todo n. Se a≠0 e n=1: a. Se n>1: +∞ para a>0 e −∞ para a<0. Se 0∈N e n=0: 0.",
+    "steps_md": [
+      "Para n≥1, reescreva como sen(a/x)/x⁻ⁿ, uma forma 0/0.",
+      "A razão das derivadas é [−a cos(a/x)/x²]/[−n x⁻ⁿ⁻¹]=(a/n)xⁿ⁻¹ cos(a/x).",
+      "Se n=1, o limite é a. Se n>1 e a≠0, cos(a/x)→1 e o sinal de a determina a divergência. A derivada do denominador é não nula para x>0.",
+      "Trate antes a=0, quando a expressão é identicamente zero; e n=0, se adotado, quando sen(a/x)→0 sem indeterminação."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 12 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-160",
+        "DER-CHECK-161",
+        "DER-CHECK-162",
+        "DER-CHECK-163",
+        "DER-CHECK-164",
+        "DER-CHECK-165",
+        "DER-CHECK-166",
+        "DER-CHECK-167",
+        "DER-CHECK-168",
+        "DER-CHECK-169",
+        "DER-CHECK-170",
+        "DER-CHECK-171"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-104-SOL",
+    "exercise_id": "DER-L3-104",
+    "answer_md": "1/9.",
+    "steps_md": [
+      "Em pontos próximos onde definida, a razão é cos²x/cos²(3x), forma 0/0.",
+      "Derivadas: N′=−sen(2x), D′=−3sen(6x), ainda 0/0 em π/2.",
+      "Segundas derivadas no ponto: N″=−2cosπ=2 e D″=−18cos3π=18. Logo o limite é 1/9.",
+      "D′≠0 em intervalo perfurado suficientemente pequeno em torno de π/2; D″≠0 numa vizinhança. Conferência alternativa: cos3x=cos x(4cos²x−3), logo a razão é 1/(4cos²x−3)²."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-146",
+        "DER-CHECK-147"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-L3-105-SOL",
+    "exercise_id": "DER-L3-105",
+    "answer_md": "1.",
+    "steps_md": [
+      "A forma é 0/0, e a derivada do denominador é 1.",
+      "A razão das derivadas é 1/(1+x²).",
+      "Seu limite em zero é 1. Confirma a inclinação da arctan na origem."
+    ],
+    "conditions_md": "",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-148",
+        "DER-CHECK-149"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Escolha e aplicação justificada do método",
+        "weight": 0.35
+      },
+      {
+        "criterion": "Desenvolvimento matemático correto",
+        "weight": 0.4
+      },
+      {
+        "criterion": "Conclusão completa, domínio e casos pertinentes",
+        "weight": 0.25
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D01-SOL",
+    "exercise_id": "DER-DIAG-D01",
+    "answer_md": "x+1 para x≠1.",
+    "steps_md": [
+      "Fatore x²−1=(x−1)(x+1).",
+      "Cancele para x≠1; a expressão original continua sem valor em1."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D02-SOL",
+    "exercise_id": "DER-DIAG-D02",
+    "answer_md": "(−∞,2)∪(2,5].",
+    "steps_md": [
+      "Exija 5−x≥0, isto é x≤5.",
+      "Exclua x=2 por causa do denominador."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D03-SOL",
+    "exercise_id": "DER-DIAG-D03",
+    "answer_md": "(f∘g)(x)=(3x−1)²; (g∘f)(x)=3x²−1.",
+    "steps_md": [
+      "Na primeira, substitua u por g(x).",
+      "Na segunda, substitua a entrada de g por x²."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D04-SOL",
+    "exercise_id": "DER-DIAG-D04",
+    "answer_md": "1/2,1/2,1,2.",
+    "steps_md": [
+      "Use os ângulos notáveis em radianos.",
+      "Secante é recíproco do cosseno."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D05-SOL",
+    "exercise_id": "DER-DIAG-D05",
+    "answer_md": "−3/2 e 2/3.",
+    "steps_md": [
+      "Isole y=−3x/2+4.",
+      "A inclinação perpendicular é o negativo do recíproco."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D06-SOL",
+    "exercise_id": "DER-DIAG-D06",
+    "answer_md": "x<−2 ou x>1.",
+    "steps_md": [
+      "Os pontos de separação são −2 e1.",
+      "O produto é positivo quando ambos os fatores têm o mesmo sinal."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D07-SOL",
+    "exercise_id": "DER-DIAG-D07",
+    "answer_md": "2x sen x+x²cos x.",
+    "steps_md": [
+      "A operação externa é produto.",
+      "Derive um fator de cada vez e some."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-DIAG-D08-SOL",
+    "exercise_id": "DER-DIAG-D08",
+    "answer_md": "Não; f=x³ em a=0 refuta.",
+    "steps_md": [
+      "f′=3x² e f′(0)=0.",
+      "A função é crescente e muda de valores negativos para positivos no ponto, sem máximo ou mínimo."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M1-B-SOL",
+    "exercise_id": "DER-AUT-M1-B",
+    "answer_md": "f′(2)=12.",
+    "steps_md": [
+      "[3(2+h)²−12]/h=12+3h, h≠0.",
+      "O limite em h=0 é12."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M1-I-SOL",
+    "exercise_id": "DER-AUT-M1-I",
+    "answer_md": "A=4,B=−4.",
+    "steps_md": [
+      "Continuidade:2A+B=4.",
+      "Derivadas laterais:A e4. Logo A=4 e B=−4."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M1-A-SOL",
+    "exercise_id": "DER-AUT-M1-A",
+    "answer_md": "g∈C¹(R), mas g não é duas vezes derivável em0, portanto não C².",
+    "steps_md": [
+      "g′(0)=lim h²sen(1/h)=0.",
+      "Para x≠0, g′=3x²sen(1/x)−x cos(1/x), que tende a0; g′ é contínua.",
+      "[g′(h)−0]/h=3h sen(1/h)−cos(1/h) não tem limite: use sequências com cos=1 e cos=−1."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M1-C-SOL",
+    "exercise_id": "DER-AUT-M1-C",
+    "answer_md": "h′(0)=0.",
+    "steps_md": [
+      "h(0)=0 e |h(t)/t|=|tq(t)|≤|t|→0.",
+      "Logo o quociente incremental tende a0 apesar da descontinuidade de q."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M2-C-SOL",
+    "exercise_id": "DER-AUT-M2-C",
+    "answer_md": "F′=[3(sen(x²)+x)²(2x cos(x²)+1)(x²+1)−2x(sen(x²)+x)³]/(x²+1)²; domínio R.",
+    "steps_md": [
+      "Defina u=sen(x²)+x, u′=2x cos(x²)+1.",
+      "Aplique quociente a u³/(x²+1); o denominador nunca zera."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M3-C-SOL",
+    "exercise_id": "DER-AUT-M3-C",
+    "answer_md": "y=3x+2, contato (−1,−1).",
+    "steps_md": [
+      "Tangente em a: y=3a²x−2a³.",
+      "Imponha intercepto2: a³=−1, logo a=−1 e inclinação3."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M4-C-SOL",
+    "exercise_id": "DER-AUT-M4-C",
+    "answer_md": "f∈C² e f∉C³.",
+    "steps_md": [
+      "f=−x³ para x<0 e x³ para x≥0.",
+      "f′=3x|x| e f″=6|x|, com valores0 na origem obtidos pela definição.",
+      "f″ é contínua, mas tem derivadas laterais −6 e6 em0; a terceira derivada não existe."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M5-C-SOL",
+    "exercise_id": "DER-AUT-M5-C",
+    "answer_md": "y′=−9/4 cm/s; y″=−225/64 cm/s².",
+    "steps_md": [
+      "y=4 e xx′+yy′=0 dão y′=−9/4.",
+      "Derive novamente: (x′)²+xx″+(y′)²+yy″=0.",
+      "y″=−[9+81/16]/4=−225/64."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-172"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M6-C-SOL",
+    "exercise_id": "DER-AUT-M6-C",
+    "answer_md": "6≤f(3)≤15; f é estritamente crescente e injetiva.",
+    "steps_md": [
+      "TVM dá f(3)=3f′(c), logo as cotas.",
+      "Para y>x, f(y)−f(x)=f′(ξ)(y−x)≥2(y−x)>0."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M7-C-SOL",
+    "exercise_id": "DER-AUT-M7-C",
+    "answer_md": "Três distintas: −16<λ<16. Raiz dupla: λ=−16 ou16.",
+    "steps_md": [
+      "f′=3(x−2)(x+2). Os valores extremos são f(−2)=λ+16 e f(2)=λ−16.",
+      "Três raízes exigem máximo positivo e mínimo negativo. Igualdade dá raiz comum com f′ e f″=±12 não nula."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M8-C-SOL",
+    "exercise_id": "DER-AUT-M8-C",
+    "answer_md": "r=∛16, h=2∛16; custo mínimo 6π(∛16)².",
+    "steps_md": [
+      "h=32/r². C=2πr²+2πrh=2πr²+64π/r.",
+      "C′=4πr−64π/r²=0 implica r³=16, logo r=∛16 e h=2∛16.",
+      "C″=4π+128π/r³>0 e fronteiras infinitas garantem mínimo. C no crítico=6π(∛16)²."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-173"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M9-C-SOL",
+    "exercise_id": "DER-AUT-M9-C",
+    "answer_md": "Estimado0,12π; exato0,1204π; diferença0,0004π.",
+    "steps_md": [
+      "dA=2π·3·0,02=0,12π.",
+      "ΔA=π[(3,02)²−9]=π(0,12+0,0004)."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M10-C-SOL",
+    "exercise_id": "DER-AUT-M10-C",
+    "answer_md": "P₂=3+h/6−h²/216; |R₂|≤h³/3888 com h=0,06, isto é ≤5,55556×10⁻⁸.",
+    "steps_md": [
+      "f′(9)=1/6 e f″(9)=−1/108; divida por2! para o coeficiente.",
+      "f‴(x)=3/(8x^(5/2)), decrescente em[9,9,06], portanto M=f‴(9)=1/648.",
+      "Resto de ordem2: M h³/6=h³/3888."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-174"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M11-C-SOL",
+    "exercise_id": "DER-AUT-M11-C",
+    "answer_md": "−1/3.",
+    "steps_md": [
+      "Forma0/0: razão derivada [1/(1+x²)−1]/(3x²).",
+      "Para x≠0 isso é −1/[3(1+x²)]→−1/3; a derivada do denominador é não nula no intervalo perfurado."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-181"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-A-Q01-SOL",
+    "exercise_id": "DER-SIM-A-Q01",
+    "answer_md": "F′=[4x(x²+1)/(1+(2x²−1)²)−2x arctan(2x²−1)]/(x²+1)², domínio R. F″(0)=2+π/2.",
+    "steps_md": [
+      "Aplique cadeia à arctan, obtendo 4x/[1+(2x²−1)²].",
+      "Use quociente com denominador x²+1.",
+      "Derivando novamente e avaliando em0, ou usando o Taylor finito até x², obtém-se F″(0)=2+π/2."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 2 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-175",
+        "DER-CHECK-176"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Primeiro pedido, com justificativa",
+        "weight": 0.6
+      },
+      {
+        "criterion": "Pedido adicional e condições",
+        "weight": 0.4
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-A-Q02-SOL",
+    "exercise_id": "DER-SIM-A-Q02",
+    "answer_md": "y=2x e y=−2x.",
+    "steps_md": [
+      "Intercepto na abscissa a: (a²+1)−a(2a)=1−a².",
+      "Iguale a zero: a=±1; inclinações±2."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-A-Q03-SOL",
+    "exercise_id": "DER-SIM-A-Q03",
+    "answer_md": "Existe por Rolle; unicidade não é garantida.",
+    "steps_md": [
+      "Verifique exatamente as três hipóteses de Rolle.",
+      "A função constante satisfaz as hipóteses e tem todos os pontos como zeros da derivada, refutando unicidade.",
+      "|x−1| não é derivável em1; apesar de ter valores iguais nas pontas, não satisfaz Rolle e não tem derivada zero nos demais pontos."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Primeiro pedido, com justificativa",
+        "weight": 0.6
+      },
+      {
+        "criterion": "Pedido adicional e condições",
+        "weight": 0.4
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-A-Q04-SOL",
+    "exercise_id": "DER-SIM-A-Q04",
+    "answer_md": "Máximos locais:(0,0); mínimos globais:(±2,−16); inflexões:(±2/√3,−80/9).",
+    "steps_md": [
+      "f′=4x(x²−4): sinais −,+,−,+ nos intervalos separados por−2,0,2.",
+      "f″=12x²−16 muda em±2/√3; valores são16/9−32/3=−80/9.",
+      "f=(x²−4)²−16 garante mínimos globais; não há máximo global."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-177"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-B-Q01-SOL",
+    "exercise_id": "DER-SIM-B-Q01",
+    "answer_md": "y′=−4/5; y−2=−(4/5)(x−1).",
+    "steps_md": [
+      "2x+y+xy′+2yy′=0.",
+      "y′=−(2x+y)/(x+2y). Em(1,2) o denominador é5 e o numerador4."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-B-Q02-SOL",
+    "exercise_id": "DER-SIM-B-Q02",
+    "answer_md": "x=(7−√13)/6.",
+    "steps_md": [
+      "V=x(4−2x)(3−2x)=12x−14x²+4x³, 0<x<1,5.",
+      "V′=12−28x+12x²; raízes(7±√13)/6. Só a menor é admissível.",
+      "V cresce antes e decresce depois; volume tende a zero nas bordas."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-178"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-B-Q03-SOL",
+    "exercise_id": "DER-SIM-B-Q03",
+    "answer_md": "Aproximação0,98; erro≤(0,2)⁴/24=1/15000≈0,0000666667. A linearização é1, com erro≤0,02 pelo resto de ordem1.",
+    "steps_md": [
+      "P₃=1−x²/2. Em0,2, resulta0,98.",
+      "A quarta derivada é cos, limitada em módulo por1 no segmento.",
+      "P₁=cos0−sen0·x=1. Como |f″|≤1, |R₁|≤x²/2=0,02 em x=0,2. Taylor de ordem3 fornece uma cota300 vezes menor."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-179"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Primeiro pedido, com justificativa",
+        "weight": 0.6
+      },
+      {
+        "criterion": "Pedido adicional e condições",
+        "weight": 0.4
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-SIM-B-Q04-SOL",
+    "exercise_id": "DER-SIM-B-Q04",
+    "answer_md": "−4/3.",
+    "steps_md": [
+      "Aplique três vezes a regra com forma0/0 preservada.",
+      "Razões sucessivas: (2cos2x−2)/(3x²), (−4sen2x)/(6x), (−8cos2x)/6.",
+      "A última tende a−4/3. As derivadas dos denominadores são não nulas nos intervalos perfurados pertinentes."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review_with_symbolic_supplement",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. 1 checagens complementares identificadas no relatório; não constituem prova formal de toda a solução.",
+      "check_ids": [
+        "DER-CHECK-180"
+      ],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M4-B-SOL",
+    "exercise_id": "DER-AUT-M4-B",
+    "answer_md": "f″=12x²−4 e f‴=24x.",
+    "steps_md": [
+      "f′=4x³−4x.",
+      "Derive novamente duas vezes, termo a termo."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M6-B-SOL",
+    "exercise_id": "DER-AUT-M6-B",
+    "answer_md": "c=2.",
+    "steps_md": [
+      "A taxa média é(16−0)/4=4.",
+      "Resolva f′(c)=2c=4; c=2 pertence ao intervalo aberto."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  },
+  {
+    "id": "DER-AUT-M10-B-SOL",
+    "exercise_id": "DER-AUT-M10-B",
+    "answer_md": "P₁=9+6(x−3).",
+    "steps_md": [
+      "f(3)=9 e f′(3)=6.",
+      "Insira em P₁=f(a)+f′(a)(x−a)."
+    ],
+    "conditions_md": "Condições e casos indicados no desenvolvimento.",
+    "verification": {
+      "status": "reviewed",
+      "method": "argument_review",
+      "details_md": "Revisão do desenvolvimento, domínio, hipóteses, parâmetros, bordas e conclusão. Verificação argumentativa da solução; sem teste simbólico específico registrado para este item.",
+      "check_ids": [],
+      "reviewer": "author_assistant",
+      "external_independent_review": false
+    },
+    "rubric": [
+      {
+        "criterion": "Método e hipóteses",
+        "weight": 0.3
+      },
+      {
+        "criterion": "Cálculo ou argumento",
+        "weight": 0.5
+      },
+      {
+        "criterion": "Conclusão e condições",
+        "weight": 0.2
+      }
+    ],
+    "subpart_answers": []
+  }
+]

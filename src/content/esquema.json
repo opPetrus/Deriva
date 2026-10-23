@@ -1,0 +1,474 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Deriva — contrato dos arquivos estruturados",
+  "$defs": {
+    "sourceReference": {
+      "type": "object",
+      "required": [
+        "source_id"
+      ],
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pdf_pages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "printed_pages": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        },
+        "exercise_number": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 105
+        },
+        "section": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "workedExample": {
+      "type": "object",
+      "required": [
+        "id",
+        "statement_md",
+        "steps_md",
+        "answer_md"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "statement_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "steps_md": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "answer_md": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "lesson": {
+      "type": "object",
+      "required": [
+        "id",
+        "module_id",
+        "title",
+        "objectives",
+        "intuition_md",
+        "theory_md",
+        "formulas_conditions",
+        "worked_examples",
+        "common_errors",
+        "practice_ids",
+        "mastery_criterion_md",
+        "prerequisite_lesson_ids",
+        "sources"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^M(?:[1-9]|10|11)\\.[1-4]$"
+        },
+        "module_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "objectives": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "intuition_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "theory_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "formulas_conditions": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "worked_examples": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/workedExample"
+          }
+        },
+        "common_errors": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "practice_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "mastery_criterion_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prerequisite_lesson_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/sourceReference"
+          }
+        },
+        "estimated_theory_minutes": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "available_from_start": {
+          "const": true
+        }
+      }
+    },
+    "exercise": {
+      "type": "object",
+      "required": [
+        "id",
+        "origin",
+        "lesson_ids",
+        "module_id",
+        "statement_md",
+        "subparts",
+        "hints",
+        "solution_id",
+        "sources",
+        "solution_initially_hidden",
+        "grading_mode",
+        "difficulty"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "origin": {
+          "enum": [
+            "pdf",
+            "authored_variant"
+          ]
+        },
+        "lesson_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "module_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "statement_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "subparts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "label"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "label": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "hints": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "id",
+              "text_md"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "text_md": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "solution_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sourceReference"
+          }
+        },
+        "solution_initially_hidden": {
+          "const": true
+        },
+        "grading_mode": {
+          "const": "rubric_manual"
+        },
+        "difficulty": {
+          "enum": [
+            "B",
+            "I",
+            "A"
+          ]
+        }
+      }
+    },
+    "solution": {
+      "type": "object",
+      "required": [
+        "id",
+        "exercise_id",
+        "answer_md",
+        "steps_md",
+        "conditions_md",
+        "verification",
+        "rubric",
+        "subpart_answers"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "exercise_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "answer_md": {
+          "type": "string",
+          "minLength": 1
+        },
+        "steps_md": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "conditions_md": {
+          "type": "string"
+        },
+        "verification": {
+          "type": "object"
+        },
+        "rubric": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "criterion",
+              "weight"
+            ],
+            "properties": {
+              "criterion": {
+                "type": "string",
+                "minLength": 1
+              },
+              "weight": {
+                "type": "number",
+                "minimum": 0,
+                "maximum": 1
+              }
+            }
+          }
+        },
+        "subpart_answers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "subpart_id",
+              "answer_md"
+            ],
+            "properties": {
+              "subpart_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "answer_md": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "module": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "lesson_ids",
+        "theory_minutes",
+        "practice_minutes",
+        "challenge_ids"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "lesson_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "theory_minutes": {
+          "type": "integer"
+        },
+        "practice_minutes": {
+          "type": "integer"
+        },
+        "challenge_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "assessment": {
+      "type": "object",
+      "required": [
+        "id",
+        "kind",
+        "exercise_ids",
+        "duration_minutes",
+        "hints_enabled",
+        "solutions_visible_before_finish"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": [
+            "diagnostic",
+            "exam"
+          ]
+        },
+        "exercise_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "duration_minutes": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "hints_enabled": {
+          "const": false
+        },
+        "solutions_visible_before_finish": {
+          "const": false
+        }
+      }
+    }
+  },
+  "x-file-schemas": {
+    "aulas.json": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/lesson"
+      }
+    },
+    "exercicios.json": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/exercise"
+      }
+    },
+    "solucoes.json": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/solution"
+      }
+    },
+    "modulos.json": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/module"
+      }
+    },
+    "avaliacoes.json": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/assessment"
+      }
+    }
+  },
+  "description": "O validador incluído confere também IDs, referências cruzadas, completude e tempos. Strings _md aceitam Markdown e matemática LaTeX entre $; texto corrido também usa notação Unicode."
+}

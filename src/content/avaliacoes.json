@@ -1,0 +1,75 @@
+[
+  {
+    "id": "DER-DIAG-01",
+    "kind": "diagnostic",
+    "title": "Diagnóstico inicial",
+    "duration_minutes": 30,
+    "exercise_ids": [
+      "DER-DIAG-D01",
+      "DER-DIAG-D02",
+      "DER-DIAG-D03",
+      "DER-DIAG-D04",
+      "DER-DIAG-D05",
+      "DER-DIAG-D06",
+      "DER-DIAG-D07",
+      "DER-DIAG-D08"
+    ],
+    "points": {
+      "DER-DIAG-D01": 1,
+      "DER-DIAG-D02": 1,
+      "DER-DIAG-D03": 1,
+      "DER-DIAG-D04": 1,
+      "DER-DIAG-D05": 1,
+      "DER-DIAG-D06": 1,
+      "DER-DIAG-D07": 1,
+      "DER-DIAG-D08": 1
+    },
+    "hints_enabled": false,
+    "solutions_visible_before_finish": false,
+    "instructions_md": "Tente os 8 itens sem consulta. Erros em D01,D02,D03,D04,D05,D06 pedem consulta ao pré-requisito associado; D07 eD08 medem conhecimentos prévios de derivadas. O diagnóstico orienta a ordem, sem bloquear aulas."
+  },
+  {
+    "id": "DER-SIM-A",
+    "kind": "exam",
+    "title": "Simulado A",
+    "duration_minutes": 35,
+    "correction_minutes": 15,
+    "exercise_ids": [
+      "DER-SIM-A-Q01",
+      "DER-SIM-A-Q02",
+      "DER-SIM-A-Q03",
+      "DER-SIM-A-Q04"
+    ],
+    "points": {
+      "DER-SIM-A-Q01": 2.5,
+      "DER-SIM-A-Q02": 2.5,
+      "DER-SIM-A-Q03": 2.5,
+      "DER-SIM-A-Q04": 2.5
+    },
+    "hints_enabled": false,
+    "solutions_visible_before_finish": false,
+    "instructions_md": "Sem consulta, sem dicas e sem gabarito. Registre o raciocínio, domínio e justificativas. Distribua aproximadamente 8 minutos por questão e use os 3 minutos finais para revisar. Ao encerrar, aplique a rubrica de cada solução, registre a origem da correção e selecione uma questão de revisão para cada erro. Não atribua nota automática a expressões ou provas."
+  },
+  {
+    "id": "DER-SIM-B",
+    "kind": "exam",
+    "title": "Simulado B",
+    "duration_minutes": 35,
+    "correction_minutes": 15,
+    "exercise_ids": [
+      "DER-SIM-B-Q01",
+      "DER-SIM-B-Q02",
+      "DER-SIM-B-Q03",
+      "DER-SIM-B-Q04"
+    ],
+    "points": {
+      "DER-SIM-B-Q01": 2.5,
+      "DER-SIM-B-Q02": 2.5,
+      "DER-SIM-B-Q03": 2.5,
+      "DER-SIM-B-Q04": 2.5
+    },
+    "hints_enabled": false,
+    "solutions_visible_before_finish": false,
+    "instructions_md": "Sem consulta, sem dicas e sem gabarito. Registre o raciocínio, domínio e justificativas. Distribua aproximadamente 8 minutos por questão e use os 3 minutos finais para revisar. Ao encerrar, aplique a rubrica de cada solução, registre a origem da correção e selecione uma questão de revisão para cada erro. Não atribua nota automática a expressões ou provas."
+  }
+]

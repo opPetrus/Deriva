@@ -1,0 +1,30 @@
+[
+  {
+    "id": "SRC-L3",
+    "title": "Lista 3 — Derivada",
+    "date_on_document": "2026-04-16",
+    "filename": "Lista 3.pdf",
+    "library_file_id": "libfile_6ee94bf4be5c81918ceaea3b2f50d98a",
+    "path": "Lista 3.pdf",
+    "pdf_page_count": 9,
+    "sha256": "bd87095618310e2e18af2101f25526386bd5faf90fcee58760b9c5aea48c61d2"
+  },
+  {
+    "id": "SRC-TAB",
+    "title": "Cálculo em uma Variável Real — capítulo 3, A Derivada",
+    "author": "Plácido Zoega Táboas",
+    "filename": "Calculo taboas.pdf",
+    "library_file_id": "libfile_05d0fa9236288191af020260b25bfd35",
+    "path": "Calculo taboas.pdf",
+    "chapter_pdf_pages": [
+      89,
+      161
+    ],
+    "chapter_printed_pages": [
+      87,
+      159
+    ],
+    "pdf_page_count": 332,
+    "sha256": "8a2ad7675706441f41d7b05f270a56ac0583f1806cc525ef4b68b3d03bcccf8b"
+  }
+]

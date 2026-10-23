@@ -1,0 +1,40 @@
+{
+  "id": "DER-EDITORIAL",
+  "notes": [
+    {
+      "exercise_id": "DER-L3-030",
+      "severity": "notation_ambiguity",
+      "resolution": "Duas leituras explicitadas na solução: arctan(√A), adotada; e √(arctan A), alternativa. Não se afirma qual era a intenção do professor sem esclarecimento adicional."
+    },
+    {
+      "exercise_id": "DER-L3-028",
+      "severity": "parentheses_normalization",
+      "resolution": "Potência −2 aplicada ao valor da tangente; parênteses explícitos."
+    },
+    {
+      "exercise_id": "DER-L3-037",
+      "severity": "variable_typo",
+      "resolution": "Unificada a variável angular x onde a lista alterna z/x."
+    },
+    {
+      "exercise_id": "DER-L3-053",
+      "severity": "ocr_correction",
+      "resolution": "Confirmado (x−12)², não (x−1/2)²."
+    },
+    {
+      "exercise_id": "DER-L3-083",
+      "severity": "ocr_correction",
+      "resolution": "Confirmado4x/(4+x²)."
+    },
+    {
+      "exercise_id": "DER-L3-009",
+      "severity": "endpoint_convention",
+      "resolution": "Fórmula interior separada de derivada lateral na extremidade."
+    },
+    {
+      "exercise_id": "DER-L3-103",
+      "severity": "natural_number_convention",
+      "resolution": "Incluído n=0 separadamente, caso0 pertença à convenção de N."
+    }
+  ]
+}

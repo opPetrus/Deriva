@@ -1,0 +1,167 @@
+[
+  {
+    "id": "M1",
+    "title": "Conceito e diferenciabilidade",
+    "lesson_ids": [
+      "M1.1",
+      "M1.2",
+      "M1.3"
+    ],
+    "theory_minutes": 40,
+    "practice_minutes": 30,
+    "challenge_ids": [
+      "DER-AUT-M1-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M2",
+    "title": "Regras, cadeia e inversas",
+    "lesson_ids": [
+      "M2.1",
+      "M2.2",
+      "M2.3",
+      "M2.4"
+    ],
+    "theory_minutes": 60,
+    "practice_minutes": 80,
+    "challenge_ids": [
+      "DER-AUT-M2-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M3",
+    "title": "Tangência e raciocínio conceitual",
+    "lesson_ids": [
+      "M3.1",
+      "M3.2",
+      "M3.3",
+      "M3.4"
+    ],
+    "theory_minutes": 40,
+    "practice_minutes": 65,
+    "challenge_ids": [
+      "DER-AUT-M3-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M4",
+    "title": "Ordens superiores",
+    "lesson_ids": [
+      "M4.1",
+      "M4.2",
+      "M4.3"
+    ],
+    "theory_minutes": 55,
+    "practice_minutes": 45,
+    "challenge_ids": [
+      "DER-AUT-M4-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M5",
+    "title": "Implícitas e taxas",
+    "lesson_ids": [
+      "M5.1",
+      "M5.2",
+      "M5.3"
+    ],
+    "theory_minutes": 30,
+    "practice_minutes": 40,
+    "challenge_ids": [
+      "DER-AUT-M5-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M6",
+    "title": "Rolle e Valor Médio",
+    "lesson_ids": [
+      "M6.1",
+      "M6.2",
+      "M6.3"
+    ],
+    "theory_minutes": 40,
+    "practice_minutes": 35,
+    "challenge_ids": [
+      "DER-AUT-M6-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M7",
+    "title": "Sinais, extremos e gráficos",
+    "lesson_ids": [
+      "M7.1",
+      "M7.2",
+      "M7.3",
+      "M7.4"
+    ],
+    "theory_minutes": 55,
+    "practice_minutes": 75,
+    "challenge_ids": [
+      "DER-AUT-M7-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M8",
+    "title": "Otimização",
+    "lesson_ids": [
+      "M8.1",
+      "M8.2",
+      "M8.3"
+    ],
+    "theory_minutes": 55,
+    "practice_minutes": 85,
+    "challenge_ids": [
+      "DER-AUT-M8-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M9",
+    "title": "Diferenciais",
+    "lesson_ids": [
+      "M9.1",
+      "M9.2"
+    ],
+    "theory_minutes": 20,
+    "practice_minutes": 35,
+    "challenge_ids": [
+      "DER-AUT-M9-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M10",
+    "title": "Taylor e erro",
+    "lesson_ids": [
+      "M10.1",
+      "M10.2",
+      "M10.3"
+    ],
+    "theory_minutes": 60,
+    "practice_minutes": 45,
+    "challenge_ids": [
+      "DER-AUT-M10-C"
+    ],
+    "available_from_start": true
+  },
+  {
+    "id": "M11",
+    "title": "L’Hôpital",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "theory_minutes": 25,
+    "practice_minutes": 25,
+    "challenge_ids": [
+      "DER-AUT-M11-C"
+    ],
+    "available_from_start": true
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "id": "DER-PRE-ALG",
+    "title": "Álgebra e frações",
+    "explanation_md": "Use distributividade e fatoração antes de cancelar. (u+v)²=u²+2uv+v²; u²−v²=(u−v)(u+v). Cancelamento exige fator comum multiplicativo e fator não nulo. Em 1/a−1/b, denominador comum ab produz (b−a)/(ab). Não se cancela uma parcela de soma.",
+    "worked_example_md": "(x²−4)/(x−2)=x+2 somente se x≠2.",
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-001",
+      "DER-L3-003",
+      "DER-L3-008",
+      "DER-L3-019",
+      "DER-L3-102"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          1,
+          3,
+          8,
+          19,
+          102
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-POW",
+    "title": "Potências e raízes",
+    "explanation_md": "u⁻ⁿ=1/uⁿ para u≠0; u^(m/n) é a raiz n-ésima de uᵐ nos domínios reais adequados. Para raiz par, u≥0; se a raiz está no denominador, u>0. Somar potências exige termos semelhantes: x²+x³ não é x⁵. Multiplicação dá x²x³=x⁵.",
+    "worked_example_md": "√(4−x²) real exige −2≤x≤2; no denominador exige −2<x<2.",
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-006",
+      "DER-L3-029",
+      "DER-L3-036",
+      "DER-L3-085"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          6,
+          29,
+          36,
+          85
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-DOM",
+    "title": "Domínio e composição",
+    "explanation_md": "Comece pelas operações: denominadores não nulos, radicandos pares não negativos e argumentos dentro dos domínios das funções. Na composição f(g(x)), exija x no domínio de g e g(x) no domínio de f.",
+    "worked_example_md": "arccos(2x) exige −1≤2x≤1, isto é −1/2≤x≤1/2. A fórmula derivada interior usa desigualdade estrita.",
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "exercise_ids": [
+      "DER-L3-007",
+      "DER-L3-009",
+      "DER-L3-031",
+      "DER-L3-042"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          7,
+          9,
+          31,
+          42
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-SIGN",
+    "title": "Equações, inequações e sinais",
+    "explanation_md": "Resolva igualdades para achar fronteiras; em inequações de produto/quociente, marque todos os zeros e polos e teste os fatores em cada intervalo. Um fator quadrático sem raízes e de coeficiente principal positivo mantém sinal positivo. Não multiplique uma inequação por expressão de sinal desconhecido.",
+    "worked_example_md": "(x−1)/(x+2)>0 dá x<−2 ou x>1; x=−2 é proibido e x=1 não satisfaz a desigualdade estrita.",
+    "lesson_ids": [
+      "M7.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-012",
+      "DER-L3-023",
+      "DER-L3-049",
+      "DER-L3-056"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          12,
+          23,
+          49,
+          56
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-TRIG",
+    "title": "Trigonometria necessária",
+    "explanation_md": "Radianos: uma volta2π, meia voltaπ. Graus→radianos: θπ/180. sen²+cos²=1; tan=sen/cos; cot=cos/sen; sec=1/cos; csc=1/sen. Adição: sen(a+b)=sen a cos b+cos a sen b; cos(a+b)=cos a cos b−sen a sen b. cos3x=4cos³x−3cos x. Zeros: sen x=0 em kπ; cos x=0 emπ/2+kπ. Valores notáveis: senπ/6=1/2, cosπ/3=1/2, senπ/4=cosπ/4=√2/2.",
+    "worked_example_md": "sen x+cos x=√2sen(x+π/4); cos3x=cos x(4cos²x−3).",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "exercise_ids": [
+      "DER-L3-013",
+      "DER-L3-014",
+      "DER-L3-037",
+      "DER-L3-086",
+      "DER-L3-104"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          13,
+          14,
+          37,
+          86,
+          104
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-LINE",
+    "title": "Retas e distância",
+    "explanation_md": "Reta não vertical y=mx+b tem inclinação m; por(p,q): y−q=m(x−p). Paralelas têm mesma inclinação; perpendiculares não horizontais têm produto das inclinações−1. Distância entre(a,b),(c,d) é√((a−c)²+(b−d)²).",
+    "worked_example_md": "A reta2y+8x−5=0 tem m=−4; sua perpendicular tem m=1/4.",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-011",
+      "DER-L3-012",
+      "DER-L3-015",
+      "DER-L3-069"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          11,
+          12,
+          15,
+          69
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-GEO",
+    "title": "Geometria para os modelos",
+    "explanation_md": "Pitágoras: catetos² somam hipotenusa². Em triângulos semelhantes, lados correspondentes mantêm razão. Retângulo bh, triângulo bh/2, círculoπr², circunferência2πr, cilindroπr²h e lateral2πrh, esfera área4πr². Corda de círculo:2Rsen(θ/2), arcoRθ em radianos.",
+    "worked_example_md": "A seção paralela à base, a altura t em triângulo de base b e altura h, tem comprimento b(1−t/h).",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "exercise_ids": [
+      "DER-L3-025",
+      "DER-L3-068",
+      "DER-L3-070",
+      "DER-L3-074",
+      "DER-L3-075",
+      "DER-L3-077",
+      "DER-L3-090"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          25,
+          68,
+          70,
+          74,
+          75,
+          77,
+          90
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-IND",
+    "title": "Fatorial, binômio e indução",
+    "explanation_md": "n!=1·2···n,0!=1; binom(n,k)=n!/[k!(n−k)!]. Para provar por indução: verifique o primeiro índice, suponha a hipótese no índice n e prove n+1. A hipótese é usada como uma igualdade válida naquele índice, não como a conclusão ainda não provada.",
+    "worked_example_md": "Se Dⁿ(1/x)=(−1)ⁿn!x⁻ⁿ⁻¹, derivar produz (−1)ⁿ⁺¹(n+1)!x⁻ⁿ⁻².",
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-032",
+      "DER-L3-035",
+      "DER-L3-036",
+      "DER-L3-038",
+      "DER-L3-040"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          32,
+          35,
+          36,
+          38,
+          40
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-CONT",
+    "title": "Continuidade e valor intermediário sob demanda",
+    "explanation_md": "Continuidade em a significa valores próximos de f(a) quando a entrada se aproxima de a pelo domínio. Soma/produto/composição de contínuas permanecem contínuos no domínio; quociente exige denominador não nulo. Função contínua em[a,b] toma todo valor entre f(a) e f(b); sinais opostos garantem pelo menos uma raiz. Contínua em intervalo fechado limitado atinge máximo e mínimo. Esses resultados entram apenas nos argumentos de derivadas que os exigem.",
+    "worked_example_md": "Uma cúbica com sinais opostos nas pontas de um intervalo e monotonicidade estrita tem exatamente uma raiz ali.",
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "exercise_ids": [
+      "DER-L3-058",
+      "DER-L3-062",
+      "DER-L3-071",
+      "DER-L3-079"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          58,
+          62,
+          71,
+          79
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  },
+  {
+    "id": "DER-PRE-INF",
+    "title": "Comportamento nas fronteiras sob demanda",
+    "explanation_md": "x→+∞ descreve entradas arbitrariamente grandes. Para racional, compare maiores potências dividindo por uma delas. Perto de um polo, examine o sinal do denominador pelos lados. Uma expressão limitada dividida por algo que cresce sem limite tende a zero; uma cota linear inferior de inclinação positiva prova divergência para+∞.",
+    "worked_example_md": "x/(x²+1)=(1/x)/(1+1/x²)→0 em±∞; 1/x tende a+∞ em0⁺ e−∞ em0⁻.",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "exercise_ids": [
+      "DER-L3-058",
+      "DER-L3-059",
+      "DER-L3-065",
+      "DER-L3-081",
+      "DER-L3-082",
+      "DER-L3-083",
+      "DER-L3-084",
+      "DER-L3-085",
+      "DER-L3-103"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "exercise_numbers": [
+          58,
+          59,
+          65,
+          81,
+          82,
+          83,
+          84,
+          85,
+          103
+        ],
+        "relation": "pré-requisito estritamente necessário"
+      }
+    ]
+  }
+]

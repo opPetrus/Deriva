@@ -1,0 +1,2 @@
+import '@testing-library/jest-dom/vitest';import 'fake-indexeddb/auto';import {IDBFactory} from 'fake-indexeddb';import {cleanup} from '@testing-library/react';import {afterEach,beforeEach,vi} from 'vitest';import {closeDatabase} from '../src/storage/database';
+beforeEach(()=>{closeDatabase();globalThis.indexedDB=new IDBFactory();window.scrollTo=vi.fn();});afterEach(()=>{cleanup();closeDatabase();vi.useRealTimers();});

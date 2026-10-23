@@ -1,0 +1,102 @@
+[
+  {
+    "id": "DER-REF-DARBOUX",
+    "title": "Darboux: referência curta",
+    "text_md": "Se f é diferenciável num intervalo, sua derivada assume valores intermediários entre dois valores que já assume. Isso não significa que f′ seja contínua. O exemplo x²sen(1/x) mostra uma derivada descontínua. Em particular, uma derivada não pode ter um salto com limites laterais finitos diferentes. Esta nota não é uma exigência adicional de treino da lista.",
+    "depth": "reference_only",
+    "lesson_ids": [
+      "M1.3",
+      "M6.1"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "printed_pages": [
+          115,
+          116
+        ],
+        "pdf_pages": [
+          117,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DER-REF-CONVEXSET",
+    "title": "Conjunto convexo e epígrafo",
+    "text_md": "Um conjunto é convexo quando contém o segmento entre quaisquer dois de seus pontos. O epígrafo de f é o conjunto dos pares(x,y) com y≥f(x). A função é convexa quando esse conjunto é convexo; para funções do curso isso equivale à desigualdade de cordas ensinada em M7.2. Não é necessário estudar interseções gerais de semiplanos para resolver a lista.",
+    "depth": "reference_only",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.11",
+        "printed_pages": [
+          123,
+          124,
+          125,
+          126,
+          127
+        ],
+        "pdf_pages": [
+          125,
+          126,
+          127,
+          128,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DER-REF-ASYMPTOTIC",
+    "title": "Notações opcionais O, o e ∼",
+    "text_md": "Perto de a, r(h)=O(hⁿ) significa |r(h)|≤C|h|ⁿ para h pequeno e alguma constanteC; r(h)=o(hⁿ) significa r(h)/hⁿ→0; r(h)∼c hⁿ significa r(h)/hⁿ→c, com a convenção indicada no livro. São abreviações de estimativas, não séries infinitas. As soluções podem ser lidas usando as desigualdades escritas por extenso.",
+    "depth": "reference_only",
+    "lesson_ids": [
+      "M10.3"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "printed_pages": [
+          149,
+          150
+        ],
+        "pdf_pages": [
+          151,
+          152
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DER-REF-DISCONT",
+    "title": "Classificação de descontinuidade",
+    "text_md": "Quando existem os dois limites laterais finitos num ponto interior, a descontinuidade é de primeira espécie segundo a convenção do texto; quando ao menos um limite lateral exigido não existe como finito, é de segunda espécie. Nas pontas considere somente o lado do domínio. A aplicação relevante aqui é distinguir salto de oscilação; os testes de derivabilidade continuam sendo feitos pela definição.",
+    "depth": "reference_only",
+    "lesson_ids": [
+      "M1.2",
+      "M1.3"
+    ],
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "printed_pages": [
+          115,
+          116
+        ],
+        "pdf_pages": [
+          117,
+          118
+        ]
+      }
+    ]
+  }
+]

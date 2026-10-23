@@ -1,0 +1,6177 @@
+[
+  {
+    "id": "DER-L3-001",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=3x^3+4x^2-7$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-001-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-001-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-001-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 1
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 1
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Potências e soma",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-002",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.2",
+      "M2.1"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=x^2\\csc x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-002-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-002-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-002-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 2
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 2
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Produto e cossecante",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-003",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule h′(t) para $h(t)=t^3-1/t^2$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-003-H1",
+        "text_md": "Reescreva 1/t²=t⁻²."
+      },
+      {
+        "id": "DER-L3-003-H2",
+        "text_md": "O coeficiente −1 também participa da regra da potência."
+      }
+    ],
+    "solution_id": "DER-L3-003-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 3
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 3
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Expoentes negativos",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-004",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=\\cos^2x\\cot x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-004-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-004-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-004-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 4
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 4
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Produto, trigonometria e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-005",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule r′(s), onde $r(s)=\\sec^2s+s\\tan s$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-005-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-005-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-005-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 5
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 5
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Soma, produto e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-006",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3",
+      "M2.1"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=(3x)^{-5}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-006-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-006-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-006-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 6
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 6
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Potência composta",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-007",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=x/\\operatorname{arcsec}x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-007-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-007-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-007-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 7
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 7
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente e arcsec",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-008",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=\\frac{\\sec^2x}{\\cot^2x}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-008-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-008-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-008-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 8
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 8
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente, cadeia e domínio",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-009",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=(\\arccos x)^3$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-009-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-009-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-009-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 9
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 9
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Potência, cadeia e arccos",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-010",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=1/\\arctan x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-010-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-010-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-010-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 10
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 10
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Recíproco e arctan",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-011",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Encontre as tangentes a $y=5/(1+x^2)$ em (a) (0,5), (b) (1,5/2), (c) (−2,1).",
+    "subparts": [
+      {
+        "id": "DER-L3-011-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-011-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-011-c",
+        "label": "c"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-011-H1",
+        "text_md": "Calcule primeiro uma fórmula de f′."
+      },
+      {
+        "id": "DER-L3-011-H2",
+        "text_md": "Substitua somente depois os três valores de x."
+      }
+    ],
+    "solution_id": "DER-L3-011-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 11
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 11
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Quociente e reta",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-012",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Para $y=x^3+2x^2-4x+5$, encontre as abscissas onde a tangente é (a) horizontal; (b) paralela a 2y+8x−5=0.",
+    "subparts": [
+      {
+        "id": "DER-L3-012-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-012-b",
+        "label": "b"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-012-H1",
+        "text_md": "Horizontal significa derivada zero."
+      },
+      {
+        "id": "DER-L3-012-H2",
+        "text_md": "Isole y na reta dada antes de comparar inclinações."
+      }
+    ],
+    "solution_id": "DER-L3-012-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 12
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          152
+        ],
+        "pdf_pages": [
+          154
+        ],
+        "section": "3.14",
+        "exercise_number": 12
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Inclinação e equação quadrática",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-013",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Determine todos os x em que as tangentes a y=sen x e y=cos x, nas respectivas abscissas x, são paralelas.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-013-H1",
+        "text_md": "Os pontos de tangência não precisam ser uma interseção."
+      },
+      {
+        "id": "DER-L3-013-H2",
+        "text_md": "Iguale cos x e −sen x."
+      }
+    ],
+    "solution_id": "DER-L3-013-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          1
+        ],
+        "exercise_number": 13
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 13
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Derivadas trigonométricas e periodicidade",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-014",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Qual o ângulo entre os gráficos de seno e cosseno nas interseções? Use $|\\arctan f\\prime(x_0)-\\arctan g\\prime(x_0)|$, como define a lista.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-014-H1",
+        "text_md": "Resolva sen x=cos x."
+      },
+      {
+        "id": "DER-L3-014-H2",
+        "text_md": "Nas interseções, as derivadas têm o mesmo módulo e sinais opostos."
+      }
+    ],
+    "solution_id": "DER-L3-014-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 14
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 14
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Interseção, tangentes e arctan",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-015",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Determine o ângulo entre $y-(\\sqrt3/3)x-1/4=0$ e $y=x^2$ no ponto (√3/2,3/4).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-015-H1",
+        "text_md": "O coeficiente angular da reta é √3/3."
+      },
+      {
+        "id": "DER-L3-015-H2",
+        "text_md": "Derive x² e avalie na abscissa dada."
+      }
+    ],
+    "solution_id": "DER-L3-015-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 15
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 15
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Inclinação de reta e parábola",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-016",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Mostre que $y=3x^2$ e $y=2x^3+1$ têm tangente comum em (1,3). Descreva um esboço.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-016-H1",
+        "text_md": "Verifique valor e inclinação, não apenas uma das condições."
+      },
+      {
+        "id": "DER-L3-016-H2",
+        "text_md": "Fatore a diferença das funções para orientar o esboço."
+      }
+    ],
+    "solution_id": "DER-L3-016-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 16
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 16
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Valores e derivadas",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-017",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Se f:R→R é diferenciável e T-periódica, prove que f′ também tem período T.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-017-H1",
+        "text_md": "Comece pela identidade de periodicidade."
+      },
+      {
+        "id": "DER-L3-017-H2",
+        "text_md": "Aplique a cadeia à translação x+T."
+      }
+    ],
+    "solution_id": "DER-L3-017-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 17
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 17
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia e periodicidade",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-018",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Mostre que exatamente duas retas tangentes a $y=(x+1)^3$ passam pela origem e determine-as.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-018-H1",
+        "text_md": "Use uma abscissa de contato desconhecida a."
+      },
+      {
+        "id": "DER-L3-018-H2",
+        "text_md": "Imponha f(a)=af′(a)."
+      }
+    ],
+    "solution_id": "DER-L3-018-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 18
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 18
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Ponto de contato desconhecido",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-019",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2",
+      "M7.4",
+      "M6.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Determine todas as abscissas de tangência a $y=1/(1+x^2)$ cujas tangentes são paralelas a 2y=−x.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-019-H1",
+        "text_md": "Iguale f′(a) a −1/2."
+      },
+      {
+        "id": "DER-L3-019-H2",
+        "text_md": "Uma raiz é a=1; fatore e prove unicidade da outra."
+      }
+    ],
+    "solution_id": "DER-L3-019-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 19
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 19
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Quociente e raízes de equação",
+    "role": "source_exercise",
+    "challenge": true,
+    "recommended_final_attempt_after_module": "M7"
+  },
+  {
+    "id": "DER-L3-020",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Para qual λ>0 a parábola y=λx²+1 é tangente à reta y=x−1?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-020-H1",
+        "text_md": "Tangência exige valor e inclinação comuns."
+      },
+      {
+        "id": "DER-L3-020-H2",
+        "text_md": "O discriminante da equação de interseção deve ser zero."
+      }
+    ],
+    "solution_id": "DER-L3-020-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 20
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 20
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Tangência, parâmetro e discriminante",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-021",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2",
+      "M6.1",
+      "M7.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Existem pontos em que a tangente ao cosseno tem um único ponto em comum com o gráfico? Determine todos.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-021-H1",
+        "text_md": "Comece pelas abscissas onde o cosseno é zero."
+      },
+      {
+        "id": "DER-L3-021-H2",
+        "text_md": "Para excluir os demais pontos, compare a concavidade local com o comportamento da reta longe do contato."
+      }
+    ],
+    "solution_id": "DER-L3-021-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 21
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 21
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Cotas trigonométricas e interseções",
+    "role": "source_exercise",
+    "challenge": true,
+    "recommended_final_attempt_after_module": "M7"
+  },
+  {
+    "id": "DER-L3-022",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2",
+      "M6.1",
+      "M7.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Há pontos em que a tangente ao cosseno tem infinitos pontos comuns com o gráfico?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-022-H1",
+        "text_md": "Procure as tangentes horizontais."
+      },
+      {
+        "id": "DER-L3-022-H2",
+        "text_md": "Uma reta não horizontal só cruza a faixa −1≤y≤1 num intervalo limitado."
+      }
+    ],
+    "solution_id": "DER-L3-022-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 22
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 22
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Periodicidade e tangente horizontal",
+    "role": "source_exercise",
+    "challenge": false,
+    "recommended_final_attempt_after_module": "M7"
+  },
+  {
+    "id": "DER-L3-023",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.1"
+    ],
+    "module_id": "M5",
+    "statement_md": "Para s(t)=2t³−21t²+10t−5, determine os intervalos de movimento (a) positivo, (b) negativo, e os instantes de velocidade nula.",
+    "subparts": [
+      {
+        "id": "DER-L3-023-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-023-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-023-velocidade_nula",
+        "label": "velocidade_nula"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-023-H1",
+        "text_md": "Direção do movimento depende do sinal da velocidade, não da posição."
+      },
+      {
+        "id": "DER-L3-023-H2",
+        "text_md": "Resolva a inequação quadrática para s′."
+      }
+    ],
+    "solution_id": "DER-L3-023-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 23
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 23
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Derivada e inequação",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-024",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Se g(x)=f(x³−x²−1), f(3)=f′(3)=2, determine a tangente a g em (2,2).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-024-H1",
+        "text_md": "Não é necessário conhecer a expressão de f."
+      },
+      {
+        "id": "DER-L3-024-H2",
+        "text_md": "A cadeia usa f′ avaliada em u(2), não em 2."
+      }
+    ],
+    "solution_id": "DER-L3-024-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2
+        ],
+        "exercise_number": 24
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          153
+        ],
+        "pdf_pages": [
+          155
+        ],
+        "section": "3.14",
+        "exercise_number": 24
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia e avaliação pontual",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-025",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.3"
+    ],
+    "module_id": "M5",
+    "statement_md": "Escada de 5 m apoiada em parede e chão. A base afasta-se da parede a 2 m/s. Qual a velocidade vertical do topo quando a base está a 3 m da parede?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-025-H1",
+        "text_md": "A escada tem comprimento constante, mas x e y variam."
+      },
+      {
+        "id": "DER-L3-025-H2",
+        "text_md": "Derive a equação geométrica antes de substituir x=3."
+      }
+    ],
+    "solution_id": "DER-L3-025-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          2,
+          3
+        ],
+        "exercise_number": 25
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 25
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Pitágoras e derivação temporal",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-026",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=(4x^3-2x^2+5)^5$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-026-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-026-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-026-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 26
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 26
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Potência e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-027",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=(5x-3)^{100}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-027-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-027-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-027-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 27
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 27
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Potência e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-028",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule h′(t), onde $h(t)=[\\tan(3t^5-2t^3+t)]^{-2}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-028-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-028-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-028-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 28
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 28
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia em três camadas",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-029",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule k′(s), onde $k(s)=(s^2+1/s^2)^7$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-029-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-029-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-029-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 29
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 29
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Potência, soma e expoente negativo",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-030",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.4"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule a derivada de $f(x)=\\arctan\\sqrt{(2x-1)^{10}+2}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-030-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-030-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-030-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 30
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 30
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Arctan, radical e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-031",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule n′(t), onde $n(t)=(t^{-4}-2t^{-2}+1)^{-5}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-031-H1",
+        "text_md": "Identifique primeiro a operação externa: soma, produto, quociente ou composição."
+      },
+      {
+        "id": "DER-L3-031-H2",
+        "text_md": "Derive cada camada e mantenha os fatores da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-031-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 31
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 31
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Potências negativas e cadeia",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-032",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Se h é diferenciável em x₀, g em y₀=h(x₀) e f em z₀=g(y₀), prove a cadeia para f(g(h(x))) e generalize para n funções.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-032-H1",
+        "text_md": "Trate primeiro g∘h como uma única função v."
+      },
+      {
+        "id": "DER-L3-032-H2",
+        "text_md": "No passo de indução adicione uma função externa."
+      }
+    ],
+    "solution_id": "DER-L3-032-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 32
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 32
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Cadeia e indução",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-033",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Determine o ponto de y=√(2x−4) cuja tangente passa pela origem.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-033-H1",
+        "text_md": "Use o intercepto da tangente."
+      },
+      {
+        "id": "DER-L3-033-H2",
+        "text_md": "Multiplique a condição por √(2a−4), que é positivo no domínio de derivação."
+      }
+    ],
+    "solution_id": "DER-L3-033-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 33
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          154
+        ],
+        "pdf_pages": [
+          156
+        ],
+        "section": "3.14",
+        "exercise_number": 33
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Radical, domínio e tangente",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-034",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Prove: se f diferenciável é par, f′ é ímpar; se f é ímpar, f′ é par.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-034-H1",
+        "text_md": "Escreva primeiro a identidade que define paridade."
+      },
+      {
+        "id": "DER-L3-034-H2",
+        "text_md": "A derivada da função interna −x produz −1."
+      }
+    ],
+    "solution_id": "DER-L3-034-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          3
+        ],
+        "exercise_number": 34
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 34
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia e simetria",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-035",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "module_id": "M4",
+    "statement_md": "Para f(x)=1/x, encontre f⁽ⁿ⁾(x), n≥1, e f⁽ⁿ⁾(1).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-035-H1",
+        "text_md": "Observe sinais alternados e fatoriais."
+      },
+      {
+        "id": "DER-L3-035-H2",
+        "text_md": "Prove que a derivação produz a fórmula de n+1."
+      }
+    ],
+    "solution_id": "DER-L3-035-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 35
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 35
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Padrão e indução",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-036",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "module_id": "M4",
+    "statement_md": "Para f(x)=√x, encontre uma fórmula para f⁽ⁿ⁾(x), n≥1.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-036-H1",
+        "text_md": "Não tente expandir cada coeficiente separadamente."
+      },
+      {
+        "id": "DER-L3-036-H2",
+        "text_md": "Cada derivação reduz o expoente em 1."
+      }
+    ],
+    "solution_id": "DER-L3-036-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 36
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 36
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Potências e indução",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-037",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.4"
+    ],
+    "module_id": "M3",
+    "statement_md": "Quando a variável angular está em graus, calcule as derivadas de seno, cosseno e tangente e compare os gráficos do cosseno em graus/radianos.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-037-H1",
+        "text_md": "Converta o argumento em radianos antes de derivar."
+      },
+      {
+        "id": "DER-L3-037-H2",
+        "text_md": "A fórmula sem π/180 pressupõe radianos."
+      }
+    ],
+    "solution_id": "DER-L3-037-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 37
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 37
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia e conversão angular",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-038",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M4.2"
+    ],
+    "module_id": "M4",
+    "statement_md": "Prove que a composição de duas funções C¹ em R é C¹; generalize a Cⁿ e C∞ por indução.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-038-H1",
+        "text_md": "Ser diferenciável uma vez não prova continuidade da derivada."
+      },
+      {
+        "id": "DER-L3-038-H2",
+        "text_md": "Faça a indução na regularidade da derivada da composição."
+      }
+    ],
+    "solution_id": "DER-L3-038-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 38
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 38
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Classes Cⁿ, produto, cadeia e indução",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-039",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.4",
+      "M1.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Dê exemplos de h=f∘g diferenciável com (a) f diferenciável e g não diferenciável; (b) f não diferenciável e g diferenciável; (c) ambas não diferenciáveis.",
+    "subparts": [
+      {
+        "id": "DER-L3-039-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-039-b",
+        "label": "b"
+      },
+      {
+        "id": "DER-L3-039-c",
+        "label": "c"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-039-H1",
+        "text_md": "Use um quadrado para eliminar o canto do módulo."
+      },
+      {
+        "id": "DER-L3-039-H2",
+        "text_md": "Para o terceiro caso faça g assumir somente valores em que f tem o mesmo valor."
+      }
+    ],
+    "solution_id": "DER-L3-039-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 39
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 39
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Contraexemplo e diferenciabilidade",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-040",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M4.3",
+      "M4.1",
+      "M2.4"
+    ],
+    "module_id": "M4",
+    "statement_md": "Determine todas as derivadas de arcsen x em x=0.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-040-H1",
+        "text_md": "Comece da identidade (1−x²)y″=xy′."
+      },
+      {
+        "id": "DER-L3-040-H2",
+        "text_md": "Ao derivar um produto n vezes use binômios; x² tem apenas duas derivadas não nulas."
+      }
+    ],
+    "solution_id": "DER-L3-040-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 40
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 40
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Identidade diferencial e produto iterado",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-041",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M4.3"
+    ],
+    "module_id": "M4",
+    "statement_md": "Calcule a segunda derivada de f(g(h(x))) supondo as três funções duas vezes diferenciáveis.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-041-H1",
+        "text_md": "Escreva a primeira derivada como produto A·B·C."
+      },
+      {
+        "id": "DER-L3-041-H2",
+        "text_md": "Há três termos na segunda derivada, não apenas o produto das segundas derivadas."
+      }
+    ],
+    "solution_id": "DER-L3-041-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 41
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 41
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Cadeia e produto",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-042",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.4"
+    ],
+    "module_id": "M3",
+    "statement_md": "Que condições sobre α,β,a,b,c garantem que $f(x)=(\\alpha x+\\beta)/\\sqrt{ax^2+2bx+c}$ tenha derivada não nula em toda R?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-042-H1",
+        "text_md": "Exigir derivada não nula em toda a reta também exige que a função esteja definida em toda a reta."
+      },
+      {
+        "id": "DER-L3-042-H2",
+        "text_md": "Derive e estude o numerador afim; uma função afim não constante tem uma raiz real."
+      }
+    ],
+    "solution_id": "DER-L3-042-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 42
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 42
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Positividade quadrática e numerador afim",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-043",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em x³+y³=a³.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-043-H1",
+        "text_md": "y é função de x: (y³)′=3y²y′."
+      },
+      {
+        "id": "DER-L3-043-H2",
+        "text_md": "Não divida por y² sem registrar a condição."
+      }
+    ],
+    "solution_id": "DER-L3-043-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 43
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 43
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Cadeia implícita",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-044",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2",
+      "M1.1"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em x³+x²y+y⁴=0.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-044-H1",
+        "text_md": "Use produto para x²y."
+      },
+      {
+        "id": "DER-L3-044-H2",
+        "text_md": "Reúna os termos com y′ num só lado."
+      }
+    ],
+    "solution_id": "DER-L3-044-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 44
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 44
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Produto e cadeia implícita",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-045",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em a cos²(x+y)=b.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-045-H1",
+        "text_md": "Derive usando a cadeia para cos² e para x+y."
+      },
+      {
+        "id": "DER-L3-045-H2",
+        "text_md": "Não cancele o fator trigonométrico quando ele é zero; examine os ramos constantes de x+y."
+      }
+    ],
+    "solution_id": "DER-L3-045-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 45
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 45
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Cadeia implícita e parâmetros",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-046",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2",
+      "M10.1"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em tan y=xy.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-046-H1",
+        "text_md": "Derive xy por produto."
+      },
+      {
+        "id": "DER-L3-046-H2",
+        "text_md": "Leve xy′ ao lado esquerdo."
+      }
+    ],
+    "solution_id": "DER-L3-046-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 46
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 46
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Trigonometria implícita e produto",
+    "role": "source_exercise",
+    "challenge": false,
+    "singular_case_note_after_lesson": "M10.1"
+  },
+  {
+    "id": "DER-L3-047",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2",
+      "M10.1"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em xy=arctan(x/y).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-047-H1",
+        "text_md": "Na derivada de x/y, o numerador é y−xy′."
+      },
+      {
+        "id": "DER-L3-047-H2",
+        "text_md": "Mantenha a condição y≠0 ao simplificar."
+      }
+    ],
+    "solution_id": "DER-L3-047-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 47
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 47
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente, arctan e implícita",
+    "role": "source_exercise",
+    "challenge": false,
+    "singular_case_note_after_lesson": "M10.1"
+  },
+  {
+    "id": "DER-L3-048",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "module_id": "M5",
+    "statement_md": "Admitindo y diferenciável implicitamente, calcule y′ em arctan(x+y)=x.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-048-H1",
+        "text_md": "O lado direito também deve ser derivado."
+      },
+      {
+        "id": "DER-L3-048-H2",
+        "text_md": "Para verificar, explicite y usando a tangente e o ramo principal da arctan."
+      }
+    ],
+    "solution_id": "DER-L3-048-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          4
+        ],
+        "exercise_number": 48
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          155
+        ],
+        "pdf_pages": [
+          157
+        ],
+        "section": "3.14",
+        "exercise_number": 48
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Arctan e cadeia implícita",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-049",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.1"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=x^{2} - 4 x + 3$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-049-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-049-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-049-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 49
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 49
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Quadros de sinais",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-050",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=- x^{3} + 3 x + 4$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-050-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-050-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-050-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 50
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 50
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Derivadas primeira e segunda",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-051",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=x + \\frac{4}{x}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-051-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-051-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-051-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 51
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 51
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Domínio e sinais de função racional",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-052",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=\\frac{x}{x + 1}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-052-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-052-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-052-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 52
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 52
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente e domínio",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-053",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=x^{2} \\left(x - 12\\right)^{2}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-053-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-053-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-053-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 53
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 53
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Produto, fatoração e sinais",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-054",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=\\frac{1}{x + 3}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-054-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-054-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-054-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 54
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 54
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Potência negativa e domínio",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-055",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=\\frac{x^{3}}{x^{2} + 3}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-055-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-055-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-055-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 55
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 55
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente e fatoração",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-056",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para $f(x)=\\frac{x^{3} + 2}{x}$, determine máximos, mínimos, intervalos crescentes/decrescentes e pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-056-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-056-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-056-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 56
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 56
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Domínio, potências e sinais",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-057",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.1",
+      "M1.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Estude extremos, crescimento/decrescimento e inflexões de p(x)=2|x|−x².",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-057-H1",
+        "text_md": "Separe x<0 e x>0."
+      },
+      {
+        "id": "DER-L3-057-H2",
+        "text_md": "Não descarte x=0 da análise de extremos por não haver derivada."
+      }
+    ],
+    "solution_id": "DER-L3-057-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 57
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 57
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Módulo e derivadas laterais",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-058",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M6.2"
+    ],
+    "module_id": "M6",
+    "statement_md": "Se f:R→R é diferenciável e f′(x)→σ>0 quando x→∞, prove que f(x)→∞.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-058-H1",
+        "text_md": "Transforme a hipótese de limite numa cota positiva para f′."
+      },
+      {
+        "id": "DER-L3-058-H2",
+        "text_md": "Aplique o TVM num intervalo [A,x] além do ponto em que a cota vale."
+      }
+    ],
+    "solution_id": "DER-L3-058-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 58
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 58
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "TVM e limite pontual no infinito",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-059",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M6.3"
+    ],
+    "module_id": "M6",
+    "statement_md": "f diferenciável em R e f′(x)→0 quando x→∞ garantem limite finito de f? Prove ou dê contraexemplo.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-059-H1",
+        "text_md": "Procure uma função que cresça cada vez mais devagar."
+      },
+      {
+        "id": "DER-L3-059-H2",
+        "text_md": "Uma potência positiva menor que 1 de uma expressão sempre positiva evita problemas de domínio."
+      }
+    ],
+    "solution_id": "DER-L3-059-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 59
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 59
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Contraexemplo e comportamento no infinito",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-060",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M3.3",
+      "M6.3"
+    ],
+    "module_id": "M3",
+    "statement_md": "Prove que a derivada de uma função diferenciável T-periódica é T-periódica e dê exemplo de derivada periódica cuja função não o é.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-060-H1",
+        "text_md": "A primeira parte repete o argumento do 17."
+      },
+      {
+        "id": "DER-L3-060-H2",
+        "text_md": "Funções constantes também são periódicas."
+      }
+    ],
+    "solution_id": "DER-L3-060-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 60
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 60
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Periodicidade e contraexemplo",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-061",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "module_id": "M6",
+    "statement_md": "Se f é polinômio de segundo grau, prove que em qualquer (a,b), a<b, existe um único ξ tal que f(b)−f(a)=f′(ξ)(b−a).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-061-H1",
+        "text_md": "Escreva o polinômio com coeficientes genéricos."
+      },
+      {
+        "id": "DER-L3-061-H2",
+        "text_md": "Fatore b²−a² antes de comparar com f′(ξ)."
+      }
+    ],
+    "solution_id": "DER-L3-061-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 61
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 61
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "TVM e polinômio quadrático",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-062",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "module_id": "M6",
+    "statement_md": "Prove que entre duas raízes distintas de um polinômio existe pelo menos uma raiz de sua derivada.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-062-H1",
+        "text_md": "As duas raízes dão valores iguais nas extremidades."
+      },
+      {
+        "id": "DER-L3-062-H2",
+        "text_md": "Verifique as duas hipóteses de regularidade de Rolle."
+      }
+    ],
+    "solution_id": "DER-L3-062-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 62
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 62
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Rolle e raízes",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-063",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Prove que um polinômio de grau 2 não tem inflexões.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-063-H1",
+        "text_md": "Use a derivada segunda."
+      },
+      {
+        "id": "DER-L3-063-H2",
+        "text_md": "A hipótese grau 2 exige A≠0."
+      }
+    ],
+    "solution_id": "DER-L3-063-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 63
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 63
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Derivada segunda",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-064",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Prove que um polinômio de grau 3 tem exatamente uma inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-064-H1",
+        "text_md": "Calcule f″ com coeficientes genéricos."
+      },
+      {
+        "id": "DER-L3-064-H2",
+        "text_md": "Não basta achar o zero: verifique a troca de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-064-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          5
+        ],
+        "exercise_number": 64
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 64
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Derivada segunda linear",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-065",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.4",
+      "M6.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Se f:[a,∞)→R é diferenciável, convexa e f(a)<f(a+1), prove que f(x)→∞.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-065-H1",
+        "text_md": "Use a comparação de inclinações de secantes de uma função convexa."
+      },
+      {
+        "id": "DER-L3-065-H2",
+        "text_md": "A diferença f(a+1)−f(a) é estritamente positiva."
+      }
+    ],
+    "solution_id": "DER-L3-065-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 65
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 65
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Convexidade, secantes e infinito",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-066",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.1"
+    ],
+    "module_id": "M8",
+    "statement_md": "Determine os pontos de y=1/(1+x²) em que a tangente tem coeficiente angular máximo.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-066-H1",
+        "text_md": "Para maximizar a inclinação, maximize f′."
+      },
+      {
+        "id": "DER-L3-066-H2",
+        "text_md": "Use f″ e compare com o comportamento no infinito."
+      }
+    ],
+    "solution_id": "DER-L3-066-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 66
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 66
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Otimização da derivada",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-067",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.1"
+    ],
+    "module_id": "M8",
+    "statement_md": "Dados a>0 e x,y>0 com x+y=a, maximize xy.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-067-H1",
+        "text_md": "Reduza a uma variável."
+      },
+      {
+        "id": "DER-L3-067-H2",
+        "text_md": "A parábola do produto é côncava."
+      }
+    ],
+    "solution_id": "DER-L3-067-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 67
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 67
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Restrição de soma e parábola",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-068",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Maximize a área de um retângulo com base no eixo x e vértices superiores em y=12−x².",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-068-H1",
+        "text_md": "A simetria da parábola permite usar a meia-base."
+      },
+      {
+        "id": "DER-L3-068-H2",
+        "text_md": "Não maximize apenas a altura do retângulo."
+      }
+    ],
+    "solution_id": "DER-L3-068-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 68
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 68
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Simetria e área",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-069",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.3",
+      "M8.1"
+    ],
+    "module_id": "M8",
+    "statement_md": "Determine os pontos de y=√x mais próximos de (c,0): (a) c≥1/2; (b) c<1/2.",
+    "subparts": [
+      {
+        "id": "DER-L3-069-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-069-b",
+        "label": "b"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-069-H1",
+        "text_md": "Use distância ao quadrado."
+      },
+      {
+        "id": "DER-L3-069-H2",
+        "text_md": "O domínio x≥0 pode excluir o ponto estacionário."
+      }
+    ],
+    "solution_id": "DER-L3-069-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 69
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156
+        ],
+        "pdf_pages": [
+          158
+        ],
+        "section": "3.14",
+        "exercise_number": 69
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Distância ao quadrado e bordas",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-070",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Num triângulo isósceles de base b e altura h, inscreva um isósceles com base paralela à original e vértice no ponto médio dela. Determine o de área máxima.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-070-H1",
+        "text_md": "Desenhe a seção horizontal e use semelhança."
+      },
+      {
+        "id": "DER-L3-070-H2",
+        "text_md": "A altura do triângulo inscrito é a distância da base paralela à base original."
+      }
+    ],
+    "solution_id": "DER-L3-070-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 70
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          156,
+          157
+        ],
+        "pdf_pages": [
+          158,
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 70
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Semelhança de triângulos",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-071",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.4",
+      "M6.1"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para x³−3x²−9x+λ=0, determine λ para (a) raiz dupla; (b) três raízes reais distintas.",
+    "subparts": [
+      {
+        "id": "DER-L3-071-a",
+        "label": "a"
+      },
+      {
+        "id": "DER-L3-071-b",
+        "label": "b"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-071-H1",
+        "text_md": "Estude primeiro os extremos da cúbica sem resolver a equação."
+      },
+      {
+        "id": "DER-L3-071-H2",
+        "text_md": "Uma raiz dupla deve também anular f′, mas não f″."
+      }
+    ],
+    "solution_id": "DER-L3-071-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 71
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 71
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Extremos de cúbica, continuidade e parâmetro",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-072",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Prove que os zeros do seno e do cosseno são exatamente seus pontos de inflexão.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-072-H1",
+        "text_md": "A derivada segunda é o negativo da própria função."
+      },
+      {
+        "id": "DER-L3-072-H2",
+        "text_md": "Verifique a alternância de sinal em cada zero."
+      }
+    ],
+    "solution_id": "DER-L3-072-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 72
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 72
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Trigonometria e concavidade",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-073",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "De uma cartolina 3 dm por 2 dm, retire quadrados iguais dos quatro cantos e dobre para formar caixa sem tampa. Qual lado maximiza o volume?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-073-H1",
+        "text_md": "Os dois lados da base perdem 2x."
+      },
+      {
+        "id": "DER-L3-073-H2",
+        "text_md": "Descarte a raiz fora do domínio físico."
+      }
+    ],
+    "solution_id": "DER-L3-073-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6
+        ],
+        "exercise_number": 73
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 73
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Volume e domínio físico",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-074",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Cilindro sem tampa, capacidade 24π m³. Material do fundo custa três vezes o da lateral por área. Quais dimensões minimizam o custo?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-074-H1",
+        "text_md": "Pondere separadamente o custo da base e o da lateral."
+      },
+      {
+        "id": "DER-L3-074-H2",
+        "text_md": "Não inclua tampa; elimine h pela capacidade."
+      }
+    ],
+    "solution_id": "DER-L3-074-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          6,
+          7
+        ],
+        "exercise_number": 74
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 74
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Volume fixo e custo ponderado",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-075",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Vitral: retângulo e semicírculo sobre o lado superior. Perímetro externo 6 m; semicírculo transmite 2/3 da luz por área do retângulo. Maximize luminosidade e determine medidas.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-075-H1",
+        "text_md": "Conte somente o contorno externo."
+      },
+      {
+        "id": "DER-L3-075-H2",
+        "text_md": "Maximize uma área ponderada, não a área geométrica total."
+      }
+    ],
+    "solution_id": "DER-L3-075-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 75
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 75
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Perímetro e área ponderada",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-076",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "module_id": "M8",
+    "statement_md": "Às 13h, A está 50 km ao sul de B. A segue ao norte a 25 km/h e B ao oeste a 18 km/h. Quando a distância é mínima?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-076-H1",
+        "text_md": "Use o movimento relativo dos dois navios."
+      },
+      {
+        "id": "DER-L3-076-H2",
+        "text_md": "Minimize D² e confira que o tempo é medido após 13h."
+      }
+    ],
+    "solution_id": "DER-L3-076-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 76
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 76
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Movimento relativo e distância",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-077",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "module_id": "M8",
+    "statement_md": "Um homem caminha duas vezes mais rápido do que nada. Numa piscina circular, qual trajeto mínimo entre pontos diametralmente opostos, podendo combinar borda e nado?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-077-H1",
+        "text_md": "O ponto crítico pode ser máximo de tempo."
+      },
+      {
+        "id": "DER-L3-077-H2",
+        "text_md": "Compare nadar o diâmetro com caminhar a semicircunferência."
+      }
+    ],
+    "solution_id": "DER-L3-077-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 77
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 77
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Arco, corda, tempo e extremos globais",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-078",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M8.3"
+    ],
+    "module_id": "M8",
+    "statement_md": "Fontes de potências P₁,P₂ positivas separadas por l>0 iluminam inversamente ao quadrado da distância. Onde, no segmento, a iluminação é mínima?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-078-H1",
+        "text_md": "Some as duas contribuições de luz."
+      },
+      {
+        "id": "DER-L3-078-H2",
+        "text_md": "A proporção das distâncias envolve raízes cúbicas, não quadradas."
+      }
+    ],
+    "solution_id": "DER-L3-078-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 78
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          157
+        ],
+        "pdf_pages": [
+          159
+        ],
+        "section": "3.14",
+        "exercise_number": 78
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Potência inversa e convexidade",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-079",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.4",
+      "M6.3",
+      "M6.1"
+    ],
+    "module_id": "M7",
+    "statement_md": "Se I é intervalo fechado limitado e f:I→R é contínua e estritamente convexa, prove que possui um único mínimo.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-079-H1",
+        "text_md": "Prove existência e unicidade com argumentos diferentes."
+      },
+      {
+        "id": "DER-L3-079-H2",
+        "text_md": "Dois mínimos contradizem a desigualdade estrita no ponto médio."
+      }
+    ],
+    "solution_id": "DER-L3-079-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 79
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 79
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Existência em compacto e convexidade estrita",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-080",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.4",
+      "M6.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Mostre por exemplo que, se o intervalo do 79 não for fechado, a conclusão pode falhar.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-080-H1",
+        "text_md": "Escolha um mínimo que ficaria numa extremidade removida."
+      },
+      {
+        "id": "DER-L3-080-H2",
+        "text_md": "É suficiente refutar a existência em um intervalo aberto."
+      }
+    ],
+    "solution_id": "DER-L3-080-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 80
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 80
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Contraexemplo em intervalo aberto",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-081",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço completo de $f(x)=x^{2} \\left(x - 3\\right)$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-081-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-081-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-081-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 81
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 81
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Esboço polinomial",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-082",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço completo de $f(x)=\\frac{x^{3} + 2}{x}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-082-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-082-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-082-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 82
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 82
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Esboço racional e polo",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-083",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço completo de $f(x)=\\frac{4 x}{x^{2} + 4}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-083-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-083-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-083-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 83
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 83
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Quociente e assíntota horizontal",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-084",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço completo de $f(x)=\\frac{x^{4} - 3}{x}$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-084-H1",
+        "text_md": "Comece pelo domínio e pelos fatores de f′ e f″."
+      },
+      {
+        "id": "DER-L3-084-H2",
+        "text_md": "Separe os intervalos pelos zeros e polos; classifique pelas trocas efetivas de sinal."
+      }
+    ],
+    "solution_id": "DER-L3-084-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          7
+        ],
+        "exercise_number": 84
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 84
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Divisão algébrica e polo",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-085",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço de u(x)=4/√(4−x²).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-085-H1",
+        "text_md": "Comece pelo denominador estritamente positivo."
+      },
+      {
+        "id": "DER-L3-085-H2",
+        "text_md": "Use paridade e os sinais das duas derivadas."
+      }
+    ],
+    "solution_id": "DER-L3-085-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 85
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 85
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Domínio radical e fronteiras",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-086",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M7.3"
+    ],
+    "module_id": "M7",
+    "statement_md": "Faça um esboço de v(x)=sen x+cos x.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-086-H1",
+        "text_md": "Some seno e cosseno como seno deslocado."
+      },
+      {
+        "id": "DER-L3-086-H2",
+        "text_md": "A segunda derivada é −v."
+      }
+    ],
+    "solution_id": "DER-L3-086-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 86
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 86
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Periodicidade e trigonometria",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-087",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "module_id": "M9",
+    "statement_md": "Para w=z³−3z²+2z−7, determine dw e estime a variação quando z passa de 4 a 3,95.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-087-H1",
+        "text_md": "Use dz=3,95−4, com sinal."
+      },
+      {
+        "id": "DER-L3-087-H2",
+        "text_md": "Avalie a derivada no ponto inicial."
+      }
+    ],
+    "solution_id": "DER-L3-087-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 87
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 87
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Diferencial de polinômio",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-088",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "module_id": "M9",
+    "statement_md": "Use a diferencial em x=1 para aproximar f(1,02), sendo f(x)=1/(2−x²).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-088-H1",
+        "text_md": "A diferencial aproxima o acréscimo; some depois f(1)."
+      },
+      {
+        "id": "DER-L3-088-H2",
+        "text_md": "Não substitua x=1,02 no coeficiente de dy."
+      }
+    ],
+    "solution_id": "DER-L3-088-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 88
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 88
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Quociente e linearização",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-089",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "module_id": "M9",
+    "statement_md": "Um círculo de raio 8 m sofre dilatação radial de 0,06 m. Estime o aumento de área.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-089-H1",
+        "text_md": "Derive a área em relação ao raio."
+      },
+      {
+        "id": "DER-L3-089-H2",
+        "text_md": "A unidade final é m²."
+      }
+    ],
+    "solution_id": "DER-L3-089-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 89
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 89
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Área de círculo e unidades",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-090",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "module_id": "M9",
+    "statement_md": "Estime o aumento da área esférica de um balão cujo diâmetro passa de 2 m a 2,02 m, S=4πr².",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-090-H1",
+        "text_md": "Converta diâmetro para raio."
+      },
+      {
+        "id": "DER-L3-090-H2",
+        "text_md": "Pode também escrever diretamente S como função do diâmetro."
+      }
+    ],
+    "solution_id": "DER-L3-090-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 90
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 90
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Raio versus diâmetro",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-091",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "module_id": "M9",
+    "statement_md": "Tronco de raio inicial 15 cm. O perímetro cresceu 6 cm. Estime crescimento do raio e da área transversal.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-091-H1",
+        "text_md": "O acréscimo fornecido é do perímetro, não do raio."
+      },
+      {
+        "id": "DER-L3-091-H2",
+        "text_md": "A relação entre C e r é linear; a de A e r não."
+      }
+    ],
+    "solution_id": "DER-L3-091-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 91
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 91
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Circunferência e diferencial de área",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-092",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M9.1"
+    ],
+    "module_id": "M9",
+    "statement_md": "Aproxime por diferencial P=(3,01)³−2(3,01)²+4(3,01)+3 e compare ao valor exato.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-092-H1",
+        "text_md": "Escolha centro a=3."
+      },
+      {
+        "id": "DER-L3-092-H2",
+        "text_md": "Na comparação exata, os termos de segunda e terceira ordem dão o erro."
+      }
+    ],
+    "solution_id": "DER-L3-092-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 92
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 92
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Linearização e expansão polinomial",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-093",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Para um polinômio f de grau n≥1 e a∈R, determine seu Taylor de ordem n em a e prove que coincide com f em toda R.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-093-H1",
+        "text_md": "Escreva o polinômio em potências de x−a."
+      },
+      {
+        "id": "DER-L3-093-H2",
+        "text_md": "Derivadas no centro determinam cada coeficiente."
+      }
+    ],
+    "solution_id": "DER-L3-093-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 93
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 93
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Taylor finito e grau polinomial",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-094",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Dê o Taylor de ordem 3 de sen x em a=π/2.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-094-H1",
+        "text_md": "Use o ciclo seno, cosseno, −seno, −cosseno."
+      },
+      {
+        "id": "DER-L3-094-H2",
+        "text_md": "Avalie no centro antes de montar o polinômio."
+      }
+    ],
+    "solution_id": "DER-L3-094-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 94
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 94
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Ciclo das derivadas do seno",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-095",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Dê o Taylor de ordem 3 de cos x em a=π/4.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-095-H1",
+        "text_md": "Mantenha h=x−π/4."
+      },
+      {
+        "id": "DER-L3-095-H2",
+        "text_md": "O sinal do termo cúbico é positivo."
+      }
+    ],
+    "solution_id": "DER-L3-095-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 95
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 95
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Ciclo das derivadas do cosseno",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-096",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.2",
+      "M10.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Dê o Taylor de ordem 3 de √x em a=4.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-096-H1",
+        "text_md": "Use a regra da potência em x^(1/2)."
+      },
+      {
+        "id": "DER-L3-096-H2",
+        "text_md": "Não confunda f″(4) com o coeficiente do termo quadrático."
+      }
+    ],
+    "solution_id": "DER-L3-096-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 96
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 96
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Derivadas de raiz",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-097",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.2"
+    ],
+    "module_id": "M10",
+    "statement_md": "Dê o Taylor de ordem 4 de tan x em a=π/4.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-097-H1",
+        "text_md": "Evite expandir seno e cosseno por quociente repetidamente."
+      },
+      {
+        "id": "DER-L3-097-H2",
+        "text_md": "Use que tan′x=1+tan²x para gerar as próximas derivadas."
+      }
+    ],
+    "solution_id": "DER-L3-097-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 97
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 97
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Trigonometria e derivadas até ordem 4",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-098",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.2"
+    ],
+    "module_id": "M10",
+    "statement_md": "Use os Taylor de 94–96 para estimar sen 89°, cos 47° e √4,03.",
+    "subparts": [
+      {
+        "id": "DER-L3-098-sen89",
+        "label": "sen89"
+      },
+      {
+        "id": "DER-L3-098-cos47",
+        "label": "cos47"
+      },
+      {
+        "id": "DER-L3-098-raiz4_03",
+        "label": "raiz4_03"
+      }
+    ],
+    "hints": [
+      {
+        "id": "DER-L3-098-H1",
+        "text_md": "Converta o deslocamento angular, não só o ângulo final."
+      },
+      {
+        "id": "DER-L3-098-H2",
+        "text_md": "Use o centro específico de cada polinômio."
+      }
+    ],
+    "solution_id": "DER-L3-098-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8
+        ],
+        "exercise_number": 98
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          158
+        ],
+        "pdf_pages": [
+          160
+        ],
+        "section": "3.14",
+        "exercise_number": 98
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Substituição nos Taylor e radianos",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-099",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M10.3"
+    ],
+    "module_id": "M10",
+    "statement_md": "Se cos x é substituído por 1−x²/2 e |x|<1/2, estime o erro absoluto.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-099-H1",
+        "text_md": "Use ordem 3, mesmo que o polinômio tenha grau 2."
+      },
+      {
+        "id": "DER-L3-099-H2",
+        "text_md": "A quarta derivada do cosseno tem módulo no máximo 1."
+      }
+    ],
+    "solution_id": "DER-L3-099-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          8,
+          9
+        ],
+        "exercise_number": 99
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 99
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Resto de Lagrange e cota uniforme",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-100",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Use L’Hôpital em $\\lim_{x\\to4}(x^2-16)/(x^2+x-20)$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-100-H1",
+        "text_md": "Verifique a forma 0/0 antes de derivar."
+      },
+      {
+        "id": "DER-L3-100-H2",
+        "text_md": "Derive numerador e denominador separadamente, não a fração toda."
+      }
+    ],
+    "solution_id": "DER-L3-100-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 100
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 100
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "L’Hôpital e indeterminação",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-101",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Use L’Hôpital em $\\lim_{x\\to0}(\\tan x-x)/(x-\\sin x)$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-101-H1",
+        "text_md": "Depois da primeira aplicação, simplifique antes de insistir em derivar."
+      },
+      {
+        "id": "DER-L3-101-H2",
+        "text_md": "Use sen²x=(1−cos x)(1+cos x)."
+      }
+    ],
+    "solution_id": "DER-L3-101-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 101
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 101
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "L’Hôpital repetido e simplificação",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-102",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Use L’Hôpital em $\\lim_{x\\to0}(1/\\sin^2x-1/x^2)$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-102-H1",
+        "text_md": "Não aplique L’Hôpital diretamente à diferença ∞−∞."
+      },
+      {
+        "id": "DER-L3-102-H2",
+        "text_md": "Após unificar as frações, acompanhe a ordem dos zeros de numerador e denominador."
+      }
+    ],
+    "solution_id": "DER-L3-102-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 102
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 102
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Transformação de infinito menos infinito",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-103",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Para n∈N e parâmetro real a, calcule com L’Hôpital $\\lim_{x\\to+\\infty}x^n\\sin(a/x)$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-103-H1",
+        "text_md": "Separe a=0 antes de manipular expressões com infinito."
+      },
+      {
+        "id": "DER-L3-103-H2",
+        "text_md": "Divida por x⁻ⁿ para obter 0/0."
+      }
+    ],
+    "solution_id": "DER-L3-103-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 103
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 103
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "A",
+    "prerequisites_md": "Parâmetro, n natural e infinito",
+    "role": "source_exercise",
+    "challenge": true
+  },
+  {
+    "id": "DER-L3-104",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Use L’Hôpital em $\\lim_{x\\to\\pi/2}\\sec^2(3x)/\\sec^2x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-104-H1",
+        "text_md": "Troque secantes por cossenos para evitar infinitos."
+      },
+      {
+        "id": "DER-L3-104-H2",
+        "text_md": "Inclua o fator 3 da cadeia."
+      }
+    ],
+    "solution_id": "DER-L3-104-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 104
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 104
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "I",
+    "prerequisites_md": "Polos trigonométricos e quociente",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-L3-105",
+    "origin": "pdf",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Use L’Hôpital em $\\lim_{x\\to0}\\arctan x/x$.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-L3-105-H1",
+        "text_md": "Verifique as hipóteses da regra."
+      },
+      {
+        "id": "DER-L3-105-H2",
+        "text_md": "A derivada de arctan é 1/(1+x²)."
+      }
+    ],
+    "solution_id": "DER-L3-105-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-L3",
+        "pdf_pages": [
+          9
+        ],
+        "exercise_number": 105
+      },
+      {
+        "source_id": "SRC-TAB",
+        "printed_pages": [
+          159
+        ],
+        "pdf_pages": [
+          161
+        ],
+        "section": "3.14",
+        "exercise_number": 105
+      }
+    ],
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math",
+    "difficulty": "B",
+    "prerequisites_md": "Arctan e indeterminação",
+    "role": "source_exercise",
+    "challenge": false
+  },
+  {
+    "id": "DER-DIAG-D01",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.1"
+    ],
+    "module_id": "M2",
+    "statement_md": "Simplifique (x²−1)/(x−1) e diga o domínio original.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D01-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D01-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D01-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D02",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M1.2"
+    ],
+    "module_id": "M1",
+    "statement_md": "Dê o domínio real de √(5−x)/(x−2).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D02-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D02-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D02-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D03",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Se f(u)=u² e g(x)=3x−1, calcule f∘g e g∘f.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D03-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D03-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D03-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D04",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "module_id": "M2",
+    "statement_md": "Calcule sen(π/6), cos(π/3), tan(π/4) e sec(π/3).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D04-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D04-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D04-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D05",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M3.1"
+    ],
+    "module_id": "M3",
+    "statement_md": "Qual a inclinação da reta 3x+2y−8=0? E da perpendicular?",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D05-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D05-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D05-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D06",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M7.1"
+    ],
+    "module_id": "M7",
+    "statement_md": "Resolva (x−1)(x+2)>0.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D06-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D06-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D06-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.11–3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D07",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.2"
+    ],
+    "module_id": "M2",
+    "statement_md": "Sem consulta, derive x²sen x.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D07-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D07-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D07-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-DIAG-D08",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M7.1"
+    ],
+    "module_id": "M7",
+    "statement_md": "Se f′(a)=0, a é necessariamente um extremo? Justifique.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-DIAG-D08-H1",
+        "text_md": "Faça uma tentativa sem consultar fórmulas."
+      },
+      {
+        "id": "DER-DIAG-D08-H2",
+        "text_md": "Depois de registrar a tentativa, confira a habilidade associada."
+      }
+    ],
+    "solution_id": "DER-DIAG-D08-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.11–3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "diagnostic",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M1-B",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M1.1"
+    ],
+    "module_id": "M1",
+    "statement_md": "Use a definição para derivar f(x)=3x² em x=2.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M1-B-H1",
+        "text_md": "Monte o quociente incremental."
+      },
+      {
+        "id": "DER-AUT-M1-B-H2",
+        "text_md": "Desenvolva o quadrado antes de cancelar h."
+      }
+    ],
+    "solution_id": "DER-AUT-M1-B-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M1-I",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M1.2",
+      "M1.1"
+    ],
+    "module_id": "M1",
+    "statement_md": "Escolha A,B para f=Ax+B se x<2, f=x² se x≥2 ser diferenciável em2.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M1-I-H1",
+        "text_md": "Verifique continuidade e inclinações separadamente."
+      },
+      {
+        "id": "DER-AUT-M1-I-H2",
+        "text_md": "Iguale A a4."
+      }
+    ],
+    "solution_id": "DER-AUT-M1-I-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "I",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M1-A",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M1.3"
+    ],
+    "module_id": "M1",
+    "statement_md": "Classifique g(x)=x³sen(1/x) para x≠0, g(0)=0, quanto a C¹ e C².",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M1-A-H1",
+        "text_md": "Use a definição em zero."
+      },
+      {
+        "id": "DER-AUT-M1-A-H2",
+        "text_md": "Depois teste a derivabilidade da função g′ em zero."
+      }
+    ],
+    "solution_id": "DER-AUT-M1-A-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M1-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M1.3"
+    ],
+    "module_id": "M1",
+    "statement_md": "Se q(x)=1 nos racionais e0 nos irracionais, prove que h(x)=x²q(x) é derivável em0 e encontre h′(0).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M1-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M1-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M1-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1–3.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M2-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Derive F(x)=[sen(x²)+x]³/(x²+1) e declare domínio.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M2-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M2-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M2-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M3-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Encontre todas as tangentes a y=x³ que passam por (0,2).",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M3-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M3-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M3-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M4-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M4.2"
+    ],
+    "module_id": "M4",
+    "statement_md": "Mostre que f=x²|x| é C², mas não C³.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M4-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M4-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M4-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.7",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M5-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M5.3"
+    ],
+    "module_id": "M5",
+    "statement_md": "Um círculo varia com x²+y²=25 no primeiro quadrante. Se x′=3 cm/s, calcule y′ e y″ no instante x=3, admitindo x″=0.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M5-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M5-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M5-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.4;3.8",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M6-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M6.2"
+    ],
+    "module_id": "M6",
+    "statement_md": "Se f(0)=0 e 2≤f′≤5 em [0,3], limite f(3) e prove que f é injetiva nesse intervalo.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M6-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M6-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M6-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M7-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M7.4"
+    ],
+    "module_id": "M7",
+    "statement_md": "Para x³−12x+λ, determine quando há três raízes reais distintas e quando há raiz dupla.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M7-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M7-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M7-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.11–3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M8-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Um cilindro sem tampa de volume32π tem fundo com custo por área2 vezes a lateral. Minimize o custo.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M8-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M8-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M8-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M9-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M9.2"
+    ],
+    "module_id": "M9",
+    "statement_md": "Estime por diferencial o aumento de área de um círculo quando o raio3 passa a3,02; compare com o aumento exato.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M9-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M9-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M9-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.1",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M10-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M10.3"
+    ],
+    "module_id": "M10",
+    "statement_md": "Obtenha Taylor de ordem2 de √x em9 e limite o erro na aproximação de √9,06.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M10-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M10-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M10-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M11-C",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Calcule com L’Hôpital lim[x→0](arctan x−x)/x³.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M11-C-H1",
+        "text_md": "Defina primeiro o objetivo ou a identidade que será usada."
+      },
+      {
+        "id": "DER-AUT-M11-C-H2",
+        "text_md": "Confira domínio, hipótese e classificação do resultado."
+      }
+    ],
+    "solution_id": "DER-AUT-M11-C-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.10",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "challenge",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-A-Q01",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M2.4",
+      "M4.3"
+    ],
+    "module_id": "M2",
+    "statement_md": "Derive F=arctan(2x²−1)/(x²+1). Declare domínio. Calcule também F″(0).",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-A-Q01-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.3–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "I",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-A-Q02",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M3.2"
+    ],
+    "module_id": "M3",
+    "statement_md": "Determine todas as tangentes a y=x²+1 que passam pela origem.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-A-Q02-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.1;3.5–3.6",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "I",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-A-Q03",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M6.1",
+      "M1.2"
+    ],
+    "module_id": "M6",
+    "statement_md": "Prove: se f contínua em[0,2], derivável em(0,2), f(0)=f(2), então f′ zera em algum ponto interior. A conclusão é única? Explique por que substituir f por |x−1| no mesmo intervalo impede essa aplicação.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-A-Q03-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-A-Q04",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M7.2"
+    ],
+    "module_id": "M7",
+    "statement_md": "Estude extremos e inflexões de f=x⁴−8x².",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-A-Q04-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.11–3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-B-Q01",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M5.2"
+    ],
+    "module_id": "M5",
+    "statement_md": "Em x²+xy+y²=7, calcule y′ em(1,2) e a tangente.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-B-Q01-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.4;3.8",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "I",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-B-Q02",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M8.2"
+    ],
+    "module_id": "M8",
+    "statement_md": "Caixa aberta: cartolina4 por3, cortar quadrados de lado x dos cantos. Determine x ótimo e justifique globalidade.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-B-Q02-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.12",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "I",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-B-Q03",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M10.3",
+      "M9.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Aproxime cos0,2 por Taylor de ordem3 em0 e dê cota de erro. Compare com a aproximação linear no mesmo centro e dê também uma cota do erro dela.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-B-Q03-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-SIM-B-Q04",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M11.1"
+    ],
+    "module_id": "M11",
+    "statement_md": "Calcule lim[x→0](sen(2x)−2x)/x³ por L’Hôpital.",
+    "subparts": [],
+    "hints": [],
+    "solution_id": "DER-SIM-B-Q04-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.10",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "A",
+    "role": "exam",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M4-B",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M4.1"
+    ],
+    "module_id": "M4",
+    "statement_md": "Calcule a segunda e terceira derivadas de f=x⁴−2x².",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M4-B-H1",
+        "text_md": "Não confunda terceira derivada com a potência cúbica da função."
+      },
+      {
+        "id": "DER-AUT-M4-B-H2",
+        "text_md": "A derivada de −4x é −4."
+      }
+    ],
+    "solution_id": "DER-AUT-M4-B-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.7",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M6-B",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M6.1"
+    ],
+    "module_id": "M6",
+    "statement_md": "Encontre o ponto do TVM para f=x² em[0,4].",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M6-B-H1",
+        "text_md": "Compare taxa média e instantânea."
+      },
+      {
+        "id": "DER-AUT-M6-B-H2",
+        "text_md": "Verifique c∈(0,4)."
+      }
+    ],
+    "solution_id": "DER-AUT-M6-B-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.9",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  },
+  {
+    "id": "DER-AUT-M10-B",
+    "origin": "authored_variant",
+    "lesson_ids": [
+      "M10.1"
+    ],
+    "module_id": "M10",
+    "statement_md": "Obtenha o Taylor de ordem1 de f=x² em a=3.",
+    "subparts": [],
+    "hints": [
+      {
+        "id": "DER-AUT-M10-B-H1",
+        "text_md": "O centro é3, não zero."
+      },
+      {
+        "id": "DER-AUT-M10-B-H2",
+        "text_md": "Taylor de ordem1 é a linearização."
+      }
+    ],
+    "solution_id": "DER-AUT-M10-B-SOL",
+    "sources": [
+      {
+        "source_id": "SRC-TAB",
+        "section": "3.13.2",
+        "relation": "variação autoral; não transcrição"
+      }
+    ],
+    "difficulty": "B",
+    "role": "practice",
+    "solution_initially_hidden": true,
+    "grading_mode": "rubric_manual",
+    "response_format": "written_math"
+  }
+]
